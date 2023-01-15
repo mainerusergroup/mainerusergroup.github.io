@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MaineR Users Group",
+    "section": "",
+    "text": "It’s 2023 and we’re Back!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 14, 2023\n\n\nDonald Szlosek\n\n\n\n\n\n\n  \n\n\n\n\nExploring nature through {rvest}\n\n\n\n\n\n\n\ntext-mining\n\n\nrvest\n\n\n\n\n\n\n\n\n\n\n\nNov 4, 2021\n\n\nAdam B.\n\n\n\n\n\n\n  \n\n\n\n\nPanel: A conversation with Scott Valcourt and Mark Wagy\n\n\n\n\n\n\n\npanel\n\n\n\n\n\n\n\n\n\n\n\nOct 7, 2021\n\n\nUmesh H. Adam B.\n\n\n\n\n\n\n  \n\n\n\n\nText Mining with R: Extracting insights from user-generated content\n\n\n\n\n\n\n\ntext-mining\n\n\n\n\n\n\n\n\n\n\n\nSep 2, 2021\n\n\nUmesh H.\n\n\n\n\n\n\n  \n\n\n\n\nR in Finance: Monte Carlo Model for Pricing European Options\n\n\n\n\n\n\n\nsimulation\n\n\n\n\n\n\n\n\n\n\n\nAug 5, 2021\n\n\nUmesh H. & Adam B.\n\n\n\n\n\n\n  \n\n\n\n\nJuly Analytics Open Mic Night\n\n\n\n\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2021\n\n\nUmesh H.\n\n\n\n\n\n\n  \n\n\n\n\nJune Analytics Open Mic Night\n\n\n\n\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\n\n\nJun 17, 2021\n\n\nUmesh H.\n\n\n\n\n\n\n  \n\n\n\n\nTurning your R code into a blog post\n\n\n\n\n\n\n\nblogdown\n\n\n\n\n\n\n\n\n\n\n\nJan 13, 2021\n\n\nAdam B. Frank B.\n\n\n\n\n\n\n  \n\n\n\n\nTesting an API wrapper with Plumber\n\n\n\n\n\n\n\nplumber\n\n\n\n\n\n\n\n\n\n\n\nNov 19, 2020\n\n\nAdam B.\n\n\n\n\n\n\n  \n\n\n\n\nR Hack-a-thon\n\n\n\n\n\n\n\nhack-a-thon\n\n\n\n\n\n\n\n\n\n\n\nMar 5, 2020\n\n\nAdam B.\n\n\n\n\n\n\n  \n\n\n\n\nMerry Hexmas: A holiday paRty\n\n\n\n\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\n\n\nDec 19, 2019\n\n\nDavid D. & Jaclyn J.\n\n\n\n\n\n\n  \n\n\n\n\nEcosystem modeling with presence-only data in R\n\n\n\n\n\n\n\nmodeling\n\n\n\n\n\n\n\n\n\n\n\nNov 6, 2019\n\n\nDavid D.\n\n\n\n\n\n\n  \n\n\n\n\nThe ETL Machine: An approach to ETL in R, Part 1 - Writing good functions\n\n\n\n\n\n\n\netl\n\n\n\n\n\n\n\n\n\n\n\nSep 26, 2019\n\n\nDavid D.\n\n\n\n\n\n\n  \n\n\n\n\nVisualizing Socioeconomic Status in the United States\n\n\n\n\n\n\n\ndata-viz\n\n\n\n\n\n\n\n\n\n\n\nJun 20, 2019\n\n\nDavid D.\n\n\n\n\n\n\n  \n\n\n\n\nOptical character recognition using Tesseract\n\n\n\n\n\n\n\nocr\n\n\n\n\n\n\n\n\n\n\n\nMay 2, 2019\n\n\nDavid D.\n\n\n\n\n\n\n  \n\n\n\n\nAnalyzing Large Datasets in R or: How I Learned to Stop Worrying and Love Spark\n\n\n\n\n\n\n\nsparklyr\n\n\n\n\n\n\n\n\n\n\n\nMar 7, 2019\n\n\nDavid D.\n\n\n\n\n\n\n  \n\n\n\n\nA modern reporting toolchain: RMarkdown with containers\n\n\n\n\n\n\n\ndocker\n\n\nmarkdown\n\n\n\n\n\n\n\n\n\n\n\nJan 24, 2019\n\n\nZhenning X.\n\n\n\n\n\n\n  \n\n\n\n\nR + Python: A Love Story\n\n\n\n\n\n\n\npython\n\n\n\n\n\n\n\n\n\n\n\nDec 6, 2018\n\n\nDavid D. & Adam R.\n\n\n\n\n\n\n  \n\n\n\n\nDplyr and the Tidyverse: A crash course\n\n\n\n\n\n\n\ntidyverse\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2018\n\n\nDavid D.\n\n\n\n\n\n\n  \n\n\n\n\nInaugural meetup for the Greater Portland useR Group\n\n\n\n\n\n\n\npurrr\n\n\nquosures\n\n\n\n\n\n\n\n\n\n\n\nSep 20, 2018\n\n\nAdam B.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello MaineRs!\nThe Greater Portland R User Group was initially founded in 2018 as a way to bring the R Users of Portland Maine together. With the hopes of becoming a state-wide user group, we have renamed to the MaineR Users Group.\nThe goal of this group is to explore and discuss R and how it is being used in data science, data analysis, visualization, data mining, predictive analytics, and beyond!\nPeople of all levels are welcome to attend, from those just getting started with R and predictive modelling to experts using R every day. While the focus is on the R programming language, presentations / talks from other languages/ fields are more than welcome!\nHave Questions?\n\nemail us at: maine.r.user.group@gmail.com"
+  },
+  {
+    "objectID": "posts/001_welcome/index.html",
+    "href": "posts/001_welcome/index.html",
+    "title": "It’s 2023 and we’re Back!",
+    "section": "",
+    "text": "Hello, World!\nWith the hopes of becoming a state-wide user group, we have renamed to the MaineR Users Group!\nOur goal is to collaborate with different academic, industrial, and research organizations across the state of Maine!\nThis year, we are hoping to plan six events (one event every other month)!"
+  },
+  {
+    "objectID": "posts/002_meet-up_inaugural/index.html",
+    "href": "posts/002_meet-up_inaugural/index.html",
+    "title": "Inaugural meetup for the Greater Portland useR Group",
+    "section": "",
+    "text": "Adam Black, Research Analyst at Maine Medical Center, will be presenting a talk on some advanced R programming concepts.\nThe talk will center around understanding a single function used for cleaning data in a database. By examining the function we will explore some of the more advanced programming concepts and language features in R. Topics will include the “…” (dot dot dot) argument, the pipe “%>%”, dplyr to SQL translation, the map reduce pattern using purrr, expressions and quosures, tidy evaluation, and meta programming. We will only be touching on each topic briefly in the context of understanding the data cleaning function.\nPeople of all skill levels are welcome (and encouraged) to join.\nhttps://www.meetup.com/greater-portland-data-science/events/253681409/"
+  },
+  {
+    "objectID": "posts/003_meet-up_dplyr-tidyverse/index.html",
+    "href": "posts/003_meet-up_dplyr-tidyverse/index.html",
+    "title": "Dplyr and the Tidyverse: A crash course",
+    "section": "",
+    "text": "David Denton, BI engineer at CashStar, will be taking the group on a deep dive into the world of data wrangling with dplyr. He will also discuss the analytical methodology that underlies all of the packages in the tidyverse. Novice and intermediate R users are encouraged to attend.\nThis meetup will be an interactive workshop where users can follow along and develop their own code as we go. Please have the “tidyverse” and “rlang” packages installed if you plan to write and run some of your own examples.\n> install.packages(c(‘tidyverse’, ‘rlang’))\nhttps://github.com/davidldenton/useR_group_20181025\nhttps://www.meetup.com/greater-portland-data-science/events/254992025/"
+  },
+  {
+    "objectID": "posts/004_meet-up_r-python-love-story/index.html",
+    "href": "posts/004_meet-up_r-python-love-story/index.html",
+    "title": "R + Python: A Love Story",
+    "section": "",
+    "text": "Adam Rosenblit, Data Scientist at Vets First Choice, and David Denton, BI Engineer at CashStar, will be co-hosting this Meetup, which aims to demonstrate how R and Python can be integrated in the same RStudio workflow via the Reticulate package. David will begin where we left off last time, with some tidyverse style data manipulation (and maybe a little plotting), and Adam will usher us into the realm of machine learning where he will be using Python’s XGBoost library for binary classification. If time permits, we will import the resulting model back into R and use it to make some pretty pictures to illustrate our results.\nhttps://www.meetup.com/greater-portland-data-science/events/256384084/"
+  },
+  {
+    "objectID": "posts/005_meet-up_rmarkdown-docker/index.html",
+    "href": "posts/005_meet-up_rmarkdown-docker/index.html",
+    "title": "A modern reporting toolchain: RMarkdown with containers",
+    "section": "",
+    "text": "We’ve got good tools for collaborating on code. Wouldn’t it be nice if we could collaborate on prose in similar ways? Using RMarkdown and Docker, Elliot Murphy will demonstrate how to build a custom report generation pipeline without the need to manage each collaborator’s development environment.\nElliot is the founder of kindlyops.com, a cybersecurity firm specializing in DevOps approaches to governance risk & compliance, serving regulated industries such as biotech, finance, and energy.\nhttps://www.meetup.com/greater-portland-data-science/events/257757046/"
+  },
+  {
+    "objectID": "posts/006_meet-up_spark/index.html",
+    "href": "posts/006_meet-up_spark/index.html",
+    "title": "Analyzing Large Datasets in R or: How I Learned to Stop Worrying and Love Spark",
+    "section": "",
+    "text": "The analysis of large datasets in R can be difficult. Available RAM limits the amount of data that can be efficiently loaded and processed in a typical R session. Thankfully, there are solutions to this problem. David Denton, a biomedical informatics engineer at the Maine Medical Center Research Institute, will explain how Spark can be used on the Google Cloud Platform to tame unwieldy data, using the same tidy tools that R users know and love.\nhttps://www.meetup.com/greater-portland-data-science/events/258798120/"
+  },
+  {
+    "objectID": "posts/007_meet-up_tesseract-ocr/index.html",
+    "href": "posts/007_meet-up_tesseract-ocr/index.html",
+    "title": "Optical character recognition using Tesseract",
+    "section": "",
+    "text": "Donald Szlosek, Biostatistician at IDEXX, will do a demonstration of optical character recognition in R. Optical character recognition is a process through which images of typed, handwritten, or printed text are electronically converted into machine-encoded text. The tesseract package provides R bindings to Tesseract, a powerful optical character recognition (OCR) engine that supports over 100 languages. Novice and intermediate R users are encouraged to attend.\nhttps://www.meetup.com/greater-portland-data-science/events/260738720/"
+  },
+  {
+    "objectID": "posts/008_meet-up_us-mapping/index.html",
+    "href": "posts/008_meet-up_us-mapping/index.html",
+    "title": "Visualizing Socioeconomic Status in the United States",
+    "section": "",
+    "text": "Frank Boscoe, Ph.D., recently retired from the New York State Department of Health and moved to Portland to start a consulting company, Pumphandle LLC, where he wrangles health data for the CDC and other clients. He will be demonstrating techniques for visualizing the socioeconomic profiles of U.S. states and cities using census data.\nhttps://www.meetup.com/greater-portland-data-science/events/261839539/"
+  },
+  {
+    "objectID": "posts/009_meet-up_etl-machine/index.html",
+    "href": "posts/009_meet-up_etl-machine/index.html",
+    "title": "The ETL Machine: An approach to ETL in R, Part 1 - Writing good functions",
+    "section": "",
+    "text": "There are lots of good reasons to avoid using R for ETL. But that doesn’t mean one shouldn’t try. Sometimes business constraints and lack of adequate tools make ETL orchestration far more painful than it needs to be. That is why David Denton is currently endeavoring to build a robust, portable, ETL Machine with R & Shiny. This is a work in progress that he is sharing in hopes of eliciting some helpful feedback (booing and hissing is acceptable as well). Part 1 will focus on writing versatile, well-documented functions in R.\nhttps://www.meetup.com/greater-portland-data-science/events/264749154/"
+  },
+  {
+    "objectID": "posts/010_meet-up_ecosystem-modeling/index.html",
+    "href": "posts/010_meet-up_ecosystem-modeling/index.html",
+    "title": "Ecosystem modeling with presence-only data in R",
+    "section": "",
+    "text": "Dr. Nick Record and Ben Tupper will share some of the modeling and forecasting work they have done using citizen observations and quasi-public presence-only data. They have developed several model and forecast systems for a variety of ecological species and events including jellyfish, ticks, and moose-vehicle crashes.\nDr. Nick Record is a computational ocean ecologist and senior research scientist at the Bigelow Laboratory for Ocean Sciences. Nick is also director of the Colby at Bigelow Semester program.\nBen Tupper is a software developer and senior lackey at the Bigelow Laboratory for Ocean Sciences."
+  },
+  {
+    "objectID": "posts/011_meet-up_hexmas-party/index.html",
+    "href": "posts/011_meet-up_hexmas-party/index.html",
+    "title": "Merry Hexmas: A holiday paRty",
+    "section": "",
+    "text": "We’ll be gathering at the Great Lost Bear for an informal holiday paRty. Feel free to bring your laptop and hack away at a Tidy Tuesday challenge, solicit group input for your new stats project, or just drink and be merry. ’Tis the season, after all.\nhttps://www.meetup.com/greater-portland-data-science/events/266969678/"
+  },
+  {
+    "objectID": "posts/012_meet-up_r-hack-a-thon/index.html",
+    "href": "posts/012_meet-up_r-hack-a-thon/index.html",
+    "title": "R Hack-a-thon",
+    "section": "",
+    "text": "Greetings R users!\nStarting out 2020 we would like to host an R hack-a-thon. Bring your laptops and we will break into groups and hack away at a tidy tuesday dataset from this repo: https://github.com/rfordatascience/tidytuesday/tree/master/data/2020\nThe most recent dataset is Measles vaccination data which might be a timely topic but you could also choose a different one as well. After ~45 minutes of hacking each group will give a ~10 minute presentation to group about what they found.\nhttps://www.meetup.com/greater-portland-data-science/events/268995227/"
+  },
+  {
+    "objectID": "posts/013_meet-up_api-plumber/index.html",
+    "href": "posts/013_meet-up_api-plumber/index.html",
+    "title": "Testing an API wrapper with Plumber",
+    "section": "",
+    "text": "It’s about time we get the group going again. I’ll get us started by talking about a recent challenge I had - how to write reproducible tests for an API wrapper package. Enter plumber - a easy way to create an restful API endpoint in R to test against. This will be a virtual meeting hosted on zoom. RSVP to get the zoom link.\nhttps://www.meetup.com/greater-portland-data-science/events/274355687/"
+  },
+  {
+    "objectID": "posts/014_meet-up_blogdown/index.html",
+    "href": "posts/014_meet-up_blogdown/index.html",
+    "title": "Turning your R code into a blog post",
+    "section": "",
+    "text": "If you are interested in embedding R code into a blog post, this presentation will show you how, using the blogdown package. You will also learn how to extend this approach to publish your own ebook using bookdown.\nhttps://www.meetup.com/greater-portland-data-science/events/275333867/"
+  },
+  {
+    "objectID": "posts/015_meet-up_analytics-open-mic-i/index.html",
+    "href": "posts/015_meet-up_analytics-open-mic-i/index.html",
+    "title": "June Analytics Open Mic Night",
+    "section": "",
+    "text": "In partnership with the Roux Institute in Portland we are starting a new series of meetups around data science and engineering. We hope this meetup will have some interesting content for R users but will not be restricted to R. We will meet every other week on Zoom and/or in person on the Roux campus. The format will be an informal analytics “open mic night” where anyone can bring a topic, present for 20-30 minutes, and get feedback from the group."
+  },
+  {
+    "objectID": "posts/016_meet-up_analytics-open-mic-iI/index.html",
+    "href": "posts/016_meet-up_analytics-open-mic-iI/index.html",
+    "title": "July Analytics Open Mic Night",
+    "section": "",
+    "text": "In partnership with the Roux Institute in Portland we are starting a new series of meetups around data science and engineering. We hope this meetup will have some interesting content for R users but will not be restricted to R. We will meet every other week on Zoom and/or in person on the Roux campus. The format will be an informal analytics “open mic night” where anyone can bring a topic, present for 20-30 minutes, and get feedback from the group."
+  },
+  {
+    "objectID": "posts/017_meet-up_monte-carlo-finance/index.html",
+    "href": "posts/017_meet-up_monte-carlo-finance/index.html",
+    "title": "R in Finance: Monte Carlo Model for Pricing European Options",
+    "section": "",
+    "text": "On August 5th, Philip Munyua, PhD, will be presenting “R in Finance: Monte Carlo Model for Pricing European Options” at our monthly”Analytics Open Mic Night” at Roux campus.\nThis presentation will apply R-programming language to price a financial instrument, European Option. Monte Carlo simulation is used to price the option.\nPhilip is a PhD trained unicorn Data Scientist leader with over 14 years work experience that is responsible for data mining, modeling and analytics and providing innovative business intelligence (strategic business insights) to Executive Leadership and Business Unit Managers. Operates across functions in business and finance units; investments, insurance, consumer welfare, marketing, product, sales, and IT (engineering).\nhttps://www.meetup.com/greater-portland-data-science/events/279674234/"
+  },
+  {
+    "objectID": "posts/018_meet-up_text-mining/index.html",
+    "href": "posts/018_meet-up_text-mining/index.html",
+    "title": "Text Mining with R: Extracting insights from user-generated content",
+    "section": "",
+    "text": "In this presentation, text mining methods and code in the R-programming language applied in two class projects will be presented. For one project, product improvement opportunities were identified by mining online user reviews. For the other, emerging use cases of a product were identified by mining for hashtags in user-generated content.\nRyan Goebel is a Roux student pursuing a Master’s degree in Analytics. Ryan has over 17 years of professional experience as an engineer: first, as a structural engineer investigating structural failures and designing repairs, and second as a field engineer collecting and presenting data in the oil & gas drilling industry. He holds a BS in Civil Engineering from the University of Arizona and an MS in Civil Engineering from the University of Illinois at Urbana-Champaign."
+  },
+  {
+    "objectID": "posts/019_meet-up_panel-wagy-valcourt/index.html",
+    "href": "posts/019_meet-up_panel-wagy-valcourt/index.html",
+    "title": "Panel: A conversation with Scott Valcourt and Mark Wagy",
+    "section": "",
+    "text": "This meetup will be an open panel discussion with Mark Wagy and Scott Valcourt on startups, data science, networks and the science of learning.\nScotts current work is in telehealth and the science of learning and how they are supported in computer science. He has a background in data science and analytics around the best ways to arrange and work with data. He has participated in the NSF iCorps program and has experience with a variety of network technologies.\nMark is the cofounder of a fintech startup Solve finance. He has experience in machine learning and AI and previously led the Data Science team at Wex. He is currently helping develop the Applied Machine Intelligence program at the Roux.\nI hope you can join for this interesting discussion!\nhttps://www.meetup.com/greater-portland-data-science/events/281144048/"
+  },
+  {
+    "objectID": "posts/020_meet-up_explore-nature-rvest/index.html",
+    "href": "posts/020_meet-up_explore-nature-rvest/index.html",
+    "title": "Exploring nature through {rvest}",
+    "section": "",
+    "text": "Are cell biologists the most long-winded academics? How curt are physicists when describing their own research? This presentation will cover the basics of using {rvest} package to easily web scrape data from html web pages. We will be exploring how to develop a workflow to web scrap article titles from www.nature.com and to discover the insights that nature has in store for us.\nCome learn about the rvest package with Donald Szlosek!\nhttps://www.meetup.com/greater-portland-data-science/events/281548240/"
+  }
+]
