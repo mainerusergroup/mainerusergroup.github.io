@@ -1,0 +1,22 @@
+---
+title: "About"
+image: baxter_maine.jpg
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/mainerusergroup
+---
+
+### Hello MaineRs!
+
+The Greater Portland R User Group was initially founded in 2018 as a way to bring the R Users of Portland Maine together. With the hopes of becoming a state-wide user group, we have renamed to the MaineR Users Group.
+
+The goal of this group is to explore and discuss R and how it is being used in data science, data analysis, visualization, data mining, predictive analytics, and beyond!
+
+People of all levels are welcome to attend, from those just getting started with R and predictive modelling to experts using R every day. While the focus is on the R programming language, presentations / talks from other languages/ fields are more than welcome!
+
+Have Questions?
+
+-   email us at: maine.r.user.group\@gmail.com
