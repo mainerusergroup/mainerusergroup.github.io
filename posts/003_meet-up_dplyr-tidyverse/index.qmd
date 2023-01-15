@@ -1,0 +1,17 @@
+---
+title: "Dplyr and the Tidyverse: A crash course"
+author: "David D."
+date: 2018-10-25
+categories: [tidyverse]
+image: "dplyr2.PNG"
+---
+
+David Denton, BI engineer at CashStar, will be taking the group on a deep dive into the world of data wrangling with dplyr. He will also discuss the analytical methodology that underlies all of the packages in the tidyverse. Novice and intermediate R users are encouraged to attend.
+
+This meetup will be an interactive workshop where users can follow along and develop their own code as we go. Please have the "tidyverse" and "rlang" packages installed if you plan to write and run some of your own examples.
+
+\> install.packages(c('tidyverse', 'rlang'))
+
+https://github.com/davidldenton/useR_group_20181025
+
+https://www.meetup.com/greater-portland-data-science/events/254992025/

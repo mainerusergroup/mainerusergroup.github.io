@@ -1,0 +1,11 @@
+---
+title: "Analyzing Large Datasets in R or: How I Learned to Stop Worrying and Love Spark"
+author: "David D."
+date: 2019-03-07
+categories: [sparklyr]
+image: "sparklyr.png"
+---
+
+The analysis of large datasets in R can be difficult. Available RAM limits the amount of data that can be efficiently loaded and processed in a typical R session. Thankfully, there are solutions to this problem. David Denton, a biomedical informatics engineer at the Maine Medical Center Research Institute, will explain how Spark can be used on the Google Cloud Platform to tame unwieldy data, using the same tidy tools that R users know and love.
+
+https://www.meetup.com/greater-portland-data-science/events/258798120/

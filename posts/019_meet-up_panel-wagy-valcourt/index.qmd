@@ -1,0 +1,17 @@
+---
+title: "Panel: A conversation with Scott Valcourt and Mark Wagy"
+author: "Umesh H. Adam B."
+date: 2021-10-07
+categories: [panel]
+image: "panel.PNG"
+---
+
+This meetup will be an open panel discussion with Mark Wagy and Scott Valcourt on startups, data science, networks and the science of learning.
+
+Scotts current work is in telehealth and the science of learning and how they are supported in computer science. He has a background in data science and analytics around the best ways to arrange and work with data. He has participated in the NSF iCorps program and has experience with a variety of network technologies.
+
+Mark is the cofounder of a fintech startup Solve finance. He has experience in machine learning and AI and previously led the Data Science team at Wex. He is currently helping develop the Applied Machine Intelligence program at the Roux.
+
+I hope you can join for this interesting discussion!
+
+https://www.meetup.com/greater-portland-data-science/events/281144048/

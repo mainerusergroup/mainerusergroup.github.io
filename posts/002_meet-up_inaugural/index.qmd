@@ -1,0 +1,15 @@
+---
+title: "Inaugural meetup for the Greater Portland useR Group"
+author: "Adam B."
+date: 2018-09-20
+categories: [purrr,quosures]
+image: "magrittr.png"
+---
+
+Adam Black, Research Analyst at Maine Medical Center, will be presenting a talk on some advanced R programming concepts.
+
+The talk will center around understanding a single function used for cleaning data in a database. By examining the function we will explore some of the more advanced programming concepts and language features in R. Topics will include the "..." (dot dot dot) argument, the pipe "%\>%", dplyr to SQL translation, the map reduce pattern using purrr, expressions and quosures, tidy evaluation, and meta programming. We will only be touching on each topic briefly in the context of understanding the data cleaning function.
+
+People of all skill levels are welcome (and encouraged) to join.
+
+https://www.meetup.com/greater-portland-data-science/events/253681409/

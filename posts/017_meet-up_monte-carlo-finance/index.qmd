@@ -1,0 +1,15 @@
+---
+title: "R in Finance: Monte Carlo Model for Pricing European Options"
+author: "Umesh H. & Adam B."
+date: 2021-08-05
+categories: [simulation]
+image: "finance.PNG"
+---
+
+On August 5th, Philip Munyua, PhD, will be presenting "R in Finance: Monte Carlo Model for Pricing European Options" at our monthly"Analytics Open Mic Night" at Roux campus.
+
+This presentation will apply R-programming language to price a financial instrument, European Option. Monte Carlo simulation is used to price the option.
+
+Philip is a PhD trained unicorn Data Scientist leader with over 14 years work experience that is responsible for data mining, modeling and analytics and providing innovative business intelligence (strategic business insights) to Executive Leadership and Business Unit Managers. Operates across functions in business and finance units; investments, insurance, consumer welfare, marketing, product, sales, and IT (engineering).
+
+https://www.meetup.com/greater-portland-data-science/events/279674234/

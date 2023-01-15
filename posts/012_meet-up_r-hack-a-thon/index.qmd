@@ -1,0 +1,14 @@
+---
+title: "R Hack-a-thon"
+author: "Adam B."
+date: 2020-03-05
+categories: [hack-a-thon]
+image: "hackathon.PNG"
+---
+
+Greetings R users!\
+Starting out 2020 we would like to host an R hack-a-thon. Bring your laptops and we will break into groups and hack away at a tidy tuesday dataset from this repo: https://github.com/rfordatascience/tidytuesday/tree/master/data/2020
+
+The most recent dataset is Measles vaccination data which might be a timely topic but you could also choose a different one as well. After \~45 minutes of hacking each group will give a \~10 minute presentation to group about what they found.
+
+https://www.meetup.com/greater-portland-data-science/events/268995227/

@@ -1,0 +1,11 @@
+---
+title: "R + Python: A Love Story"
+author: "David D. & Adam R."
+date: 2018-12-06
+categories: [python]
+image: "python_r.PNG"
+---
+
+Adam Rosenblit, Data Scientist at Vets First Choice, and David Denton, BI Engineer at CashStar, will be co-hosting this Meetup, which aims to demonstrate how R and Python can be integrated in the same RStudio workflow via the Reticulate package. David will begin where we left off last time, with some tidyverse style data manipulation (and maybe a little plotting), and Adam will usher us into the realm of machine learning where he will be using Python's XGBoost library for binary classification. If time permits, we will import the resulting model back into R and use it to make some pretty pictures to illustrate our results.
+
+https://www.meetup.com/greater-portland-data-science/events/256384084/

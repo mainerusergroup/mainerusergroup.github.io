@@ -1,0 +1,11 @@
+---
+title: "Testing an API wrapper with Plumber"
+author: "Adam B."
+date: 2020-11-19
+categories: [plumber]
+image: "plumber.PNG"
+---
+
+It's about time we get the group going again. I'll get us started by talking about a recent challenge I had - how to write reproducible tests for an API wrapper package. Enter plumber - a easy way to create an restful API endpoint in R to test against. This will be a virtual meeting hosted on zoom. RSVP to get the zoom link.
+
+https://www.meetup.com/greater-portland-data-science/events/274355687/

@@ -1,0 +1,9 @@
+---
+title: "July Analytics Open Mic Night"
+author: "Umesh H."
+date: 2021-07-01
+categories: [social]
+image: "roux.jpg"
+---
+
+In partnership with the Roux Institute in Portland we are starting a new series of meetups around data science and engineering. We hope this meetup will have some interesting content for R users but will not be restricted to R. We will meet every other week on Zoom and/or in person on the Roux campus. The format will be an informal analytics "open mic night" where anyone can bring a topic, present for 20-30 minutes, and get feedback from the group.

@@ -1,0 +1,13 @@
+---
+title: "Exploring nature through {rvest}"
+author: "Adam B."
+date: 2021-11-04
+categories: [text-mining, rvest]
+image: "nature_rvest.PNG"
+---
+
+Are cell biologists the most long-winded academics? How curt are physicists when describing their own research? This presentation will cover the basics of using {rvest} package to easily web scrape data from html web pages. We will be exploring how to develop a workflow to web scrap article titles from [www.nature.com](http://www.nature.com/) and to discover the insights that nature has in store for us.
+
+Come learn about the rvest package with Donald Szlosek!
+
+https://www.meetup.com/greater-portland-data-science/events/281548240/

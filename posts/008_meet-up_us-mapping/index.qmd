@@ -1,0 +1,11 @@
+---
+title: "Visualizing Socioeconomic Status in the United States"
+author: "David D."
+date: 2019-06-20
+categories: [data-viz]
+image: "us-mapping.PNG"
+---
+
+Frank Boscoe, Ph.D., recently retired from the New York State Department of Health and moved to Portland to start a consulting company, Pumphandle LLC, where he wrangles health data for the CDC and other clients. He will be demonstrating techniques for visualizing the socioeconomic profiles of U.S. states and cities using census data.
+
+https://www.meetup.com/greater-portland-data-science/events/261839539/

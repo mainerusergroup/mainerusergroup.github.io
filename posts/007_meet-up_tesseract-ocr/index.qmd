@@ -1,0 +1,11 @@
+---
+title: "Optical character recognition using Tesseract"
+author: "David D."
+date: 2019-05-02
+categories: [ocr]
+image: "tesseract.png"
+---
+
+Donald Szlosek, Biostatistician at IDEXX, will do a demonstration of optical character recognition in R. Optical character recognition is a process through which images of typed, handwritten, or printed text are electronically converted into machine-encoded text. The tesseract package provides R bindings to Tesseract, a powerful optical character recognition (OCR) engine that supports over 100 languages. Novice and intermediate R users are encouraged to attend.
+
+https://www.meetup.com/greater-portland-data-science/events/260738720/

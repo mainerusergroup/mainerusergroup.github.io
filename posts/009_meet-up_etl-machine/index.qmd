@@ -1,0 +1,11 @@
+---
+title: "The ETL Machine: An approach to ETL in R, Part 1 - Writing good functions"
+author: "David D."
+date: 2019-09-26
+categories: [etl]
+image: "etl_machine.PNG"
+---
+
+There are lots of good reasons to avoid using R for ETL. But that doesn't mean one shouldn't try. Sometimes business constraints and lack of adequate tools make ETL orchestration far more painful than it needs to be. That is why David Denton is currently endeavoring to build a robust, portable, ETL Machine with R & Shiny. This is a work in progress that he is sharing in hopes of eliciting some helpful feedback (booing and hissing is acceptable as well). Part 1 will focus on writing versatile, well-documented functions in R.
+
+https://www.meetup.com/greater-portland-data-science/events/264749154/

@@ -1,0 +1,13 @@
+---
+title: "Ecosystem modeling with presence-only data in R"
+author: "David D."
+date: 2019-11-06
+categories: [modeling]
+image: "eco_system.PNG"
+---
+
+Dr. Nick Record and Ben Tupper will share some of the modeling and forecasting work they have done using citizen observations and quasi-public presence-only data. They have developed several model and forecast systems for a variety of ecological species and events including jellyfish, ticks, and moose-vehicle crashes.
+
+Dr. Nick Record is a computational ocean ecologist and senior research scientist at the Bigelow Laboratory for Ocean Sciences. Nick is also director of the Colby at Bigelow Semester program.
+
+Ben Tupper is a software developer and senior lackey at the Bigelow Laboratory for Ocean Sciences.

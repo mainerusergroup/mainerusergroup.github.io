@@ -1,0 +1,13 @@
+---
+title: "A modern reporting toolchain: RMarkdown with containers"
+author: "Zhenning X."
+date: 2019-01-24
+categories: [docker, markdown]
+image: "docker.PNG"
+---
+
+We've got good tools for collaborating on code. Wouldn't it be nice if we could collaborate on prose in similar ways? Using RMarkdown and Docker, Elliot Murphy will demonstrate how to build a custom report generation pipeline without the need to manage each collaborator's development environment.
+
+Elliot is the founder of kindlyops.com, a cybersecurity firm specializing in DevOps approaches to governance risk & compliance, serving regulated industries such as biotech, finance, and energy.
+
+https://www.meetup.com/greater-portland-data-science/events/257757046/

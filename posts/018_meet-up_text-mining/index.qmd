@@ -1,0 +1,12 @@
+---
+title: "Text Mining with R: Extracting insights from user-generated content"
+author: "Umesh H."
+date: 2021-09-02
+categories: [text-mining]
+image: "text_mining_word.png"
+---
+
+\
+In this presentation, text mining methods and code in the R-programming language applied in two class projects will be presented. For one project, product improvement opportunities were identified by mining online user reviews. For the other, emerging use cases of a product were identified by mining for hashtags in user-generated content.
+
+Ryan Goebel is a Roux student pursuing a Master's degree in Analytics. Ryan has over 17 years of professional experience as an engineer: first, as a structural engineer investigating structural failures and designing repairs, and second as a field engineer collecting and presenting data in the oil & gas drilling industry. He holds a BS in Civil Engineering from the University of Arizona and an MS in Civil Engineering from the University of Illinois at Urbana-Champaign.

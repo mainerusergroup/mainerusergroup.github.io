@@ -1,0 +1,11 @@
+---
+title: "Merry Hexmas: A holiday paRty"
+author: "David D. & Jaclyn J."
+date: 2019-12-19
+categories: [social]
+image: "hexmas.PNG"
+---
+
+We'll be gathering at the Great Lost Bear for an informal holiday paRty. Feel free to bring your laptop and hack away at a Tidy Tuesday challenge, solicit group input for your new stats project, or just drink and be merry. 'Tis the season, after all.
+
+https://www.meetup.com/greater-portland-data-science/events/266969678/

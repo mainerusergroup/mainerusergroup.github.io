@@ -1,0 +1,16 @@
+---
+title: "It's 2023 and we're Back!"
+author: "Donald Szlosek"
+date: "2023-01-14"
+categories: [news]
+---
+
+Hello, World!
+
+With the hopes of becoming a state-wide user group, we have renamed to the MaineR Users Group!
+
+Our goal is to collaborate with different academic, industrial, and research organizations across the state of Maine! 
+
+This year, we are hoping to plan **six events (one event every other month)**!
+
+

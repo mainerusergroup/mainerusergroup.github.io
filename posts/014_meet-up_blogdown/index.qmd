@@ -1,0 +1,13 @@
+---
+title: "Turning your R code into a blog post"
+author: "Adam B. Frank B."
+date: 2021-01-13
+categories: [blogdown]
+image: "blogdown.PNG"
+---
+
+If you are interested in embedding R code into a blog post, this presentation will show you how, using the blogdown package. You will also learn how to extend this approach to publish your own ebook using bookdown.
+
+https://www.meetup.com/greater-portland-data-science/events/275333867/
+
+\
