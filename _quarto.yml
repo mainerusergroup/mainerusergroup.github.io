@@ -4,14 +4,17 @@ project:
 
 website:
   title: "MaineR Users Group"
-  navbar:
+  navbar: 
+    background: "#b17ed8"  #*background color 
+    foreground: "white"
+    logo: "maine_r_user_logo.png"
     right:
       - about.qmd
 format:
   html:
     theme: cosmo
     css: styles.css
-    highlight-style: ayu
+    highlight-style: ayu # "#7030a0"  dark purple
     code-line-numbers: true
 
 editor: visual

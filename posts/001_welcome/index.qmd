@@ -3,14 +3,19 @@ title: "It's 2023 and we're Back!"
 author: "Donald Szlosek"
 date: "2023-01-14"
 categories: [news]
+image: "maine_r_user_logo.PNG"
 ---
 
 Hello, World!
 
 With the hopes of becoming a state-wide user group, we have renamed to the MaineR Users Group!
 
-Our goal is to collaborate with different academic, industrial, and research organizations across the state of Maine! 
+Our goal is to collaborate with different academic, industrial, and research organizations across the state of Maine!
 
 This year, we are hoping to plan **six events (one event every other month)**!
 
+Where can you find us?
 
+[MeetUp](https://www.meetup.com/maine-r-users-group/members/?op=leaders)
+
+[LinkedIn](https://www.linkedin.com/groups/9298359)
