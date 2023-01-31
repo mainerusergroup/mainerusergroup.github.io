@@ -10,6 +10,7 @@ website:
     logo: "maine_r_user_logo.png"
     right:
       - about.qmd
+      - future_presenters.qmd
 format:
   html:
     theme: cosmo

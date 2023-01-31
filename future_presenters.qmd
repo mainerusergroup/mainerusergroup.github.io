@@ -1,0 +1,45 @@
+---
+title: "Call for Presentations"
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/groups/9298359
+    - icon: envelope-fill
+      href: maine.r.user.group@gmail.com
+    - icon: mastodon
+      href: https://www.meetup.com/maine-r-users-group/
+---
+
+### Want to give talk at a MaineR Event?
+
+This is a great opportunity for R users and enthusiasts to come together, share their knowledge, and learn from one another in a relaxed and supportive setting. Whether you're a beginner, an intermediate user, or an advanced practitioner, you are welcome to join us.
+
+The format of our meetings is informal and interactive, allowing for an open exchange of ideas and experiences. We encourage attendees to actively participate in the discussions and ask questions. This is a wonderful opportunity to expand your understanding of R, and to connect with others who share your passion for this powerful tool.
+
+We are currently looking for presenters to share their work, projects, and insights with the group. If you have something to share, we would love to hear from you! This is a great opportunity to showcase your skills and get feedback from the community.
+
+To submit a topic proposal, please [**contact us**](maine.r.user.group@gmail.com) with a brief description of what you would like to present. If you're not sure what to present, don't worry - we are happy to help you come up with something.
+
+
+We are currently looking for presenters for the following months in 2023: 
+
+- **March**
+- **May**
+- **September**.
+
+
+**Where will these events take place?**
+
+- We are currently open to both **virtual and hybrid** events across Maine!
+
+
+
+
+
+
+```{r echo=FALSE}
+
+knitr::include_graphics("maine_r_user_logo_white_background4.png")
+
+```

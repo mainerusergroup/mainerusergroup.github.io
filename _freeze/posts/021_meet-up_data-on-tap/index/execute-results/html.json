@@ -1,0 +1,14 @@
+{
+  "hash": "f29d8df1fab44c337c29880e37b6980e",
+  "result": {
+    "markdown": "---\ntitle: \"January Data on Tap - MaineR Users Group Social Hour\"\nauthor: \"Donald S.\"\ndate: 2023-01-26\ncategories: [social]\nimage: \"data_on_tap_logo2.png\"\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](data_on_tap_logo2.png){width=1106}\n:::\n:::\n\n\nWith the hopes of becoming a state-wide user group, we have renamed to the MaineR Users Group!\n\nOur goal is to collaborate with different academic, industrial, and research organizations across the state of Maine!\n\nThe first event of the year will be held physically at in Portland Maine at [The King's Head Pub](https://www.thekingsheadportland.com/) as a social hour!\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

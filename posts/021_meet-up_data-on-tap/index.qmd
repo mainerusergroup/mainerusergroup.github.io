@@ -1,0 +1,20 @@
+---
+title: "January Data on Tap - MaineR Users Group Social Hour"
+author: "Donald S."
+date: 2023-01-26
+categories: [social]
+image: "data_on_tap_logo2.png"
+---
+
+```{r echo=FALSE}
+
+knitr::include_graphics("data_on_tap_logo2.png")
+
+```
+
+With the hopes of becoming a state-wide user group, we have renamed to the MaineR Users Group!
+
+Our goal is to collaborate with different academic, industrial, and research organizations across the state of Maine!
+
+The first event of the year will be held physically at in Portland Maine at [The King's Head Pub](https://www.thekingsheadportland.com/) as a social hour!
+
