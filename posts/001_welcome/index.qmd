@@ -8,6 +8,12 @@ image: "maine_r_user_logo.PNG"
 
 Hello, World!
 
+```{r echo=FALSE}
+
+knitr::include_graphics("maine_r_user_logo.PNG")
+
+```
+
 With the hopes of becoming a state-wide user group, we have renamed to the MaineR Users Group!
 
 Our goal is to collaborate with different academic, industrial, and research organizations across the state of Maine!
@@ -19,3 +25,5 @@ Where can you find us?
 [MeetUp](https://www.meetup.com/maine-r-users-group/members/?op=leaders)
 
 [LinkedIn](https://www.linkedin.com/groups/9298359)
+
+[Email Us!](maine.r.user@gmail.com)

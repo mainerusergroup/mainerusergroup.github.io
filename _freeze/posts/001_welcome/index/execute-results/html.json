@@ -1,0 +1,14 @@
+{
+  "hash": "f3412a7c042a4781e5f12198f3dfa92c",
+  "result": {
+    "markdown": "---\ntitle: \"It's 2023 and we're Back!\"\nauthor: \"Donald Szlosek\"\ndate: \"2023-01-14\"\ncategories: [news]\nimage: \"maine_r_user_logo.PNG\"\n---\n\n\nHello, World!\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](maine_r_user_logo.PNG){width=908}\n:::\n:::\n\n\nWith the hopes of becoming a state-wide user group, we have renamed to the MaineR Users Group!\n\nOur goal is to collaborate with different academic, industrial, and research organizations across the state of Maine!\n\nThis year, we are hoping to plan **six events (one event every other month)**!\n\nWhere can you find us?\n\n[MeetUp](https://www.meetup.com/maine-r-users-group/members/?op=leaders)\n\n[LinkedIn](https://www.linkedin.com/groups/9298359)\n\n[Email Us!](maine.r.user@gmail.com)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

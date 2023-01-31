@@ -5,7 +5,7 @@ project:
 website:
   title: "MaineR Users Group"
   navbar: 
-    background: "#b17ed8"  #*background color 
+    background: "#b17ed8"
     foreground: "white"
     logo: "maine_r_user_logo.png"
     right:
