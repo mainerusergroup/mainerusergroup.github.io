@@ -22,7 +22,6 @@ The goal of this group is to explore and discuss R and how it is being used in d
 
 People of all levels are welcome to attend, from those just getting started with R and predictive modelling to experts using R every day. While the focus is on the R programming language, presentations / talks from other languages/ fields are more than welcome!
 
-
 ```{r echo=FALSE}
 
 knitr::include_graphics("maine_r_user_logo_white_background4.png")

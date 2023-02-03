@@ -14,9 +14,10 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: styles.scss
     highlight-style: ayu # "#7030a0"  dark purple
     code-line-numbers: true
+    linkcolor: "#b17ed8"
 
 editor: visual
 
