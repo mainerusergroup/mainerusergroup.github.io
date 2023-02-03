@@ -21,16 +21,15 @@ We are currently looking for presenters to share their work, projects, and insig
 
 To submit a topic proposal, please [**contact us**](maine.r.user.group@gmail.com) with a brief description of what you would like to present. If you're not sure what to present, don't worry - we are happy to help you come up with something.
 
-We are currently looking for presenters for the following months in 2023:
+We are currently looking for presenters for the following month(s) in 2023:
 
--   **March**
--   **September (Potentially Filled)**
+-   **September**
 
 **Where will these events take place?**
 
-- We are currently open to both **virtual and hybrid** events across Maine!
+-   We are currently open to both **virtual and hybrid** events across Maine!
 
-- Presentations with a physical location will be dependent on interest and availability.
+-   Presentations with a physical location will be dependent on interest and availability.
 
 ```{r echo=FALSE}
 

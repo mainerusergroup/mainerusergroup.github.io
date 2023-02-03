@@ -11,6 +11,7 @@ website:
     right:
       - about.qmd
       - future_presenters.qmd
+      - yearly_events.qmd
 format:
   html:
     theme: cosmo
