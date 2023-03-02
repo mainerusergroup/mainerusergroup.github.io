@@ -15,22 +15,20 @@ about:
 
 This year, we are hoping to plan six events (one event every other month) with a mix of in-person social events and hybrid technical talks.
 
-
 Here is the current 2023 event calender:
 
-- **January** 
-    + [Data on Tap - MaineR Social Hour (Portland, ME)](https://www.meetup.com/maine-r-users-group/events/291004052/)
-- **March**
-    + Data Mining Methods - (Location, TBD)
-- **May**
-    + Reproducible Epidemiology Using R - (Location, TBD)
-- **July**
-    + Data on Tap - MaineR Social Hour (Location, TBD)
-- **September**
-    + [**Looking for Presentations**](https://mainerusergroup.github.io/future_presenters.html)
-- **December**
-    + Merry Hexmas Party - MaineR Social Hour (Location, TBD)
-
+-   **January**
+    -   [Data on Tap - MaineR Social Hour (Portland, ME)](https://www.meetup.com/maine-r-users-group/events/291004052/)
+-   **March**
+    -   [Data Mining Methods - (Roux Institute, Portland, ME)](https://www.meetup.com/maine-r-users-group/events/291690026?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
+-   **May**
+    -   Reproducible Epidemiology Using R - (Location, TBD)
+-   **July**
+    -   Data on Tap - MaineR Social Hour (Location, TBD)
+-   **September**
+    -   [**Looking for Presentations**](https://mainerusergroup.github.io/future_presenters.html)
+-   **December**
+    -   Merry Hexmas Party - MaineR Social Hour (Location, TBD)
 
 To RSVP to one of our events, check out our [MeetUp](https://www.meetup.com/maine-r-users-group/members/?op=leaders) page.
 
