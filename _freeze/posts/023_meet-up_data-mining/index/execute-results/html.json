@@ -1,0 +1,14 @@
+{
+  "hash": "beb90e045fded0fb42f2ad4305746156",
+  "result": {
+    "markdown": "---\ntitle: \"Data Mining Methods for Improving Health Outcomes\"\nauthor: \"Donald S.\"\ndate: 2023-03-30\ncategories: [social]\nimage: \"data_mining_logo_5.png\"\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](data_mining_logo_5.png){width=1354}\n:::\n:::\n\n\nJames Quinlan Ph.D., associate professor of mathematics and data science at the University of New England's Mathematical and Physical Sciences will be presenting on the use of R for frequent dataset mining, with a focus on its applications in improving health outcomes.\n\nData mining involves discovering patterns and insights from large datasets, with the goal of using this information to make better decisions or predictions. Frequent dataset mining is a specific type of data mining that involves identifying frequent patterns or associations within a dataset.\n\nUseful Links:\n\n+ [arules](https://github.com/mhahsler/arules)\n+ [arulesViz](https://github.com/mhahsler/arulesViz)\n+ [cSPADE](https://github.com/zakimjz/cSPADE)\n\n\n[name](linkxxxxxx)\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

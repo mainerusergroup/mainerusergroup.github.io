@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/023_meet-up_data-mining/index.html",
+      "/posts/022_linux interview/index.html",
       "/posts/021_meet-up_data-on-tap/index.html",
       "/posts/001_welcome/index.html",
       "/posts/020_meet-up_explore-nature-rvest/index.html",
@@ -22,7 +24,8 @@
       "/posts/005_meet-up_rmarkdown-docker/index.html",
       "/posts/004_meet-up_r-python-love-story/index.html",
       "/posts/003_meet-up_dplyr-tidyverse/index.html",
-      "/posts/002_meet-up_inaugural/index.html"
+      "/posts/002_meet-up_inaugural/index.html",
+      "/posts/023_meet-up_data-mining/meetup/meetup.html"
     ]
   }
 ]
