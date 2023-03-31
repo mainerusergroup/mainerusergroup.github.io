@@ -4,6 +4,8 @@ author: "Donald S."
 date: 2023-03-30
 categories: [social]
 image: "data_mining_logo_5.png"
+resources: 
+    - "meetup\meetup.html"
 ---
 
 ```{r echo=FALSE}
