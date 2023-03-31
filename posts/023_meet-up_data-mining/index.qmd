@@ -4,8 +4,6 @@ author: "Donald S."
 date: 2023-03-30
 categories: [social]
 image: "data_mining_logo_5.png"
-resources: 
-    - "meetup\meetup.html"
 ---
 
 ```{r echo=FALSE}
@@ -18,12 +16,13 @@ James Quinlan Ph.D., associate professor of mathematics and data science at the 
 
 Data mining involves discovering patterns and insights from large datasets, with the goal of using this information to make better decisions or predictions. Frequent dataset mining is a specific type of data mining that involves identifying frequent patterns or associations within a dataset.
 
+[Slides](https://github.com/mainerusergroup/mainerusergroup.github.io/blob/main/posts/023_meet-up_data-mining/Frequent%20Symptom%20Mining%20Slides.pdf)
+
 Useful Links:
 
 + [arules](https://github.com/mhahsler/arules)
++ [arules JSS article](https://www.jstatsoft.org/article/view/v014i15)
 + [arulesViz](https://github.com/mhahsler/arulesViz)
 + [cSPADE](https://github.com/zakimjz/cSPADE)
 
-
-[name](linkxxxxxx)
 
