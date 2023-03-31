@@ -186,6 +186,6 @@
     "href": "posts/023_meet-up_data-mining/index.html",
     "title": "Data Mining Methods for Improving Health Outcomes",
     "section": "",
-    "text": "James Quinlan Ph.D., associate professor of mathematics and data science at the University of New England’s Mathematical and Physical Sciences will be presenting on the use of R for frequent dataset mining, with a focus on its applications in improving health outcomes.\nData mining involves discovering patterns and insights from large datasets, with the goal of using this information to make better decisions or predictions. Frequent dataset mining is a specific type of data mining that involves identifying frequent patterns or associations within a dataset.\nSlides\nUseful Links:\n\narules\narules JSS article\narulesViz\ncSPADE"
+    "text": "James Quinlan Ph.D., associate professor of mathematics and data science at the University of New England’s Mathematical and Physical Sciences will be presenting on the use of R for frequent dataset mining, with a focus on its applications in improving health outcomes.\nData mining involves discovering patterns and insights from large datasets, with the goal of using this information to make better decisions or predictions. Frequent dataset mining is a specific type of data mining that involves identifying frequent patterns or associations within a dataset.\nSlides\nUseful Links:\n\narules\narules JSS article\narules JMLR article\narulesViz\ncSPADE"
   }
 ]

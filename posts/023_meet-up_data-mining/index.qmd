@@ -20,9 +20,8 @@ Data mining involves discovering patterns and insights from large datasets, with
 
 Useful Links:
 
-+ [arules](https://github.com/mhahsler/arules)
-+ [arules JSS article](https://www.jstatsoft.org/article/view/v014i15)
-+ [arulesViz](https://github.com/mhahsler/arulesViz)
-+ [cSPADE](https://github.com/zakimjz/cSPADE)
-
-
+-   [arules](https://github.com/mhahsler/arules)
+-   [arules JSS article](https://www.jstatsoft.org/article/view/v014i15)
+-   [arules JMLR article](https://www.jmlr.org/papers/volume12/hahsler11a/hahsler11a.pdf)
+-   [arulesViz](https://github.com/mhahsler/arulesViz)
+-   [cSPADE](https://github.com/zakimjz/cSPADE)
