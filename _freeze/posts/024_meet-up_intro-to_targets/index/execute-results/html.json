@@ -1,0 +1,14 @@
+{
+  "hash": "d94af417c2e62cf1a816fe58a6d52dcc",
+  "result": {
+    "markdown": "---\ntitle: \"Introduction to {targets}\"\nauthor: \"Donald S.\"\ndate: 2023-05-31\ncategories: [talk]\nimage: \"intro_targets_logo.png\"\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](intro_targets_logo.png){width=1644}\n:::\n:::\n\n\nDr. Smith is an epidemiologist who focuses on developing and applying methods for causal inference in public health research. Dr. Smith approaches her applied research using a target trial framework, through which she has helped to clarify questions about exposures during pregnancy and to improve understanding of the effects of COVID-19 on birth outcomes. Her work in prostate and breast cancer addresses questions about complex treatment strategies over time. Her previous work on sensitivity analysis extended the E-value framework to quantify possible effects of selection bias, alone and jointly with other biases. She has also contributed to the literature on mediation, including sensitivity analysis for unmeasured mediator-outcome confounding. Currently she is researching methods to assess sensitivity to missing data under various assumptions.\n\nThe {targets} package is a workflow tool for R that allows you to split your data tasks into pieces and only re-run the necessary ones when you change the data, model, or a parameter. In this presentation, we will introduce the package and demonstrate how it can be used to manage the pipeline of R projects both big and small. We’ll work through a simple example and show how it can be extended through the use of branching. You are welcome to bring your laptop to follow along or just sit back and listen.\n\n\n[Slides](https://www.louisahsmith.com/talks/2023-05-31/slides.html#/)\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
