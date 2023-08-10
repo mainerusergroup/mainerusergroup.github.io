@@ -1,0 +1,14 @@
+{
+  "hash": "9d9de438df4d0bbe73d28322e13c0dc2",
+  "result": {
+    "markdown": "---\ntitle: \"July Data on Tap - MaineR Users Group Social Hour\"\nauthor: \"Donald S.\"\ndate: 2023-07-12\ncategories: [social]\nimage: \"data_on_tap_logo2.png\"\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](data_on_tap_logo2.png){width=1106}\n:::\n:::\n\n\nJoin us for a social hour on Wednesday, July 12th at 6:30 PM EDT to chat with other MaineR users, share tips and tricks, and just have some fun.\n\nWe'll be meeting at Novare Res Bier Café, so please RSVP!\n\n**What to expect:**\n\n+ Casual conversation about all things R\n+ Sharing of tips and tricks\n+ Just a chance to connect with other MaineR users\n\nHope to see you all there!\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

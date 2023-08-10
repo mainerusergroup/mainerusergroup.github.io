@@ -1,0 +1,26 @@
+---
+title: "July Data on Tap - MaineR Users Group Social Hour"
+author: "Donald S."
+date: 2023-07-12
+categories: [social]
+image: "data_on_tap_logo2.png"
+---
+
+```{r echo=FALSE}
+
+knitr::include_graphics("data_on_tap_logo2.png")
+
+```
+
+Join us for a social hour on Wednesday, July 12th at 6:30 PM EDT to chat with other MaineR users, share tips and tricks, and just have some fun.
+
+We'll be meeting at Novare Res Bier Café, so please RSVP!
+
+**What to expect:**
+
++ Casual conversation about all things R
++ Sharing of tips and tricks
++ Just a chance to connect with other MaineR users
+
+Hope to see you all there!
+

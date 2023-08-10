@@ -12,7 +12,7 @@ knitr::include_graphics("rconsortium_thumbnail.jpg")
 
 ```
 
-Donald Szlosek, the MaineR User Group organizer, recently highlighted the significant growth and impact of the R community in Maine to the R Consortium. Donald emphasizes the crucial role of the R language in life sciences and showcases the group’s remarkable work in bridging the gap and empowering data professionals through collaboration and insights throughout the state of Maine.
+Donald Szlosek, the MaineR User Group organizer, recently highlighted the significant growth and impact of the R community in Maine to the R Consortium. Donald emphasizes the crucial role of the R language in life sciences and showcases the group's remarkable work in bridging the gap and empowering data professionals through collaboration and insights throughout the state of Maine.
 
 📝 [Blog](https://www.r-consortium.org/blog/2023/03/28/uniting-r-professionals-across-disciplines-for-data-driven-insights-in-maine)
 
