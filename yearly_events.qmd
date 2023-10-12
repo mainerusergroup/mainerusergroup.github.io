@@ -15,20 +15,20 @@ about:
 
 This year, we are hoping to plan six events (one event every other month) with a mix of in-person social events and hybrid technical talks.
 
-Here is the current 2023 event calender:
+Here is the current **2023** event calender:
 
 -   **January**
-    -   [Data on Tap - MaineR Social Hour (Portland, ME)](https://www.meetup.com/maine-r-users-group/events/291004052/)
+    -   [Data on Tap: MaineR Social Hour (Portland, ME)](https://www.meetup.com/maine-r-users-group/events/291004052/)
 -   **March**
     -   [Data Mining Methods - (Roux Institute, Portland, ME)](https://www.meetup.com/maine-r-users-group/events/291690026?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
 -   **May**
     -   [Introduction to {targets} - (Think Tank CoWorking, Portland, ME)](https://www.meetup.com/maine-r-users-group/events/292955804/)
 -   **July**
-    -   [Data on Tap - MaineR Social Hour (Portland, ME)](https://www.meetup.com/maine-r-users-group/events/294647339/)
+    -   [Data on Tap: MaineR Social Hour - (Portland, ME)](https://www.meetup.com/maine-r-users-group/events/294647339/)
 -   **September**
-    -   Posit 2023 Watch Party (Location, TBD)
+    -   [Posit::conf23 - (Chicago, Illinois)](https://posit.co/conference/)
 -   **October**
-    -   Lightning Talks with Jackson Laboratories - (Location, TBD)
+    -   [Lightning Talks with Jackson Laboratories - (Bar Harbor, ME)](https://www.meetup.com/maine-r-users-group/events/296206716/)
 -   **December**
     -   Merry Hexmas Party - MaineR Social Hour (Location, TBD)
 

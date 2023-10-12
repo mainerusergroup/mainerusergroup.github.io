@@ -9,6 +9,8 @@ website:
     foreground: "white"
     logo: "maine_r_user_logo.png"
     right:
+      - text: "Posts"
+        file: index.qmd
       - about.qmd
       - future_presenters.qmd
       - yearly_events.qmd

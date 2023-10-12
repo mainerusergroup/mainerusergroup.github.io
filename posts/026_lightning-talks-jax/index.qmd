@@ -1,0 +1,28 @@
+---
+title: "Bar Harbor Networking Event"
+author: "Donald S."
+date: 2023-10-04
+categories: [social]
+image: "jackson_labs.png"
+---
+
+```{r echo=FALSE}
+
+knitr::include_graphics("jackson_labs.png")
+
+```
+
+Are you passionate about data analytics, visualization, and programming with R? If so, mark your calendar for the upcoming Maine R User Group Meetup in gorgeous Bar Harbor! Meet other data enthusiasts for an evening of knowledge sharing, collaboration, and community building!
+
+Date: Thursday, Oct 5
+
+Time: 4:00 - 6:00 pm
+
+Location: Blaze, 198 Main Street, Bar Harbor
+
+Event Highlights:
+
+Network with R users from IDEXX, MaineHealth, the Roux Institute, The Jackson Laboratory and beyond.
+Exchange ideas, tips, and best practices for leveraging R in data analysis, statistics, and more.
+Expand your network and forge meaningful connections within the Maine R community.
+Whether you're a seasoned R expert or just getting started, this event promises valuable insights, inspiring conversations, and a chance to connect with fellow R enthusiasts in the beautiful state of Maine. Don't miss out on this fantastic opportunity to enhance your R skills, broaden your network, and be a part of the vibrant Maine R User Group community.
