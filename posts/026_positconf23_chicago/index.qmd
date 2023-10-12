@@ -1,0 +1,18 @@
+---
+title: "MaineR's at POSIT::CONF(2023)"
+author: "Donald S."
+date: 2023-09-20
+categories: [social]
+image: "positconf.jpg"
+---
+
+```{r echo=FALSE}
+
+knitr::include_graphics("positconf.jpg")
+
+```
+
+Excited to see fellow MaineRs at Posit::conf, Adam Black (left, Odysseus Data Services, Inc.), Jaclyn Janis (left center, Posit),, Alexandra Hinton (right center, Maine Medical Center), and Donald Szlosek (right, IDEXX Laboratories).
+
+
+

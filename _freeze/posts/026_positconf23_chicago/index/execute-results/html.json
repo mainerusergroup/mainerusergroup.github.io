@@ -1,0 +1,14 @@
+{
+  "hash": "d5473dd7581e433c8c63332afcdba9ac",
+  "result": {
+    "markdown": "---\ntitle: \"MaineR's at POSIT::CONF(2023)\"\nauthor: \"Donald S.\"\ndate: 2023-09-20\ncategories: [social]\nimage: \"positconf.jpg\"\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](positconf.jpg){width=600}\n:::\n:::\n\n\nExcited to see fellow MaineRs at Posit::conf, Adam Black (left, Odysseus Data Services, Inc.), Jaclyn Janis (left center, Posit),, Alexandra Hinton (right center, Maine Medical Center), and Donald Szlosek (right, IDEXX Laboratories).\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
