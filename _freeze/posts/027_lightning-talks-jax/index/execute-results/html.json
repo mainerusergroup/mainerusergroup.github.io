@@ -1,0 +1,14 @@
+{
+  "hash": "cf4b88b4c4b4962523fee88a2f1b754e",
+  "result": {
+    "markdown": "---\ntitle: \"Bar Harbor Networking Event\"\nauthor: \"Donald S.\"\ndate: 2023-10-04\ncategories: [social]\nimage: \"jackson_labs.png\"\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](jackson_labs.png){width=1638}\n:::\n:::\n\n\nAre you passionate about data analytics, visualization, and programming with R? If so, mark your calendar for the upcoming Maine R User Group Meetup in gorgeous Bar Harbor! Meet other data enthusiasts for an evening of knowledge sharing, collaboration, and community building!\n\nDate: Thursday, Oct 5\n\nTime: 4:00 - 6:00 pm\n\nLocation: Blaze, 198 Main Street, Bar Harbor\n\nEvent Highlights:\n\nNetwork with R users from IDEXX, MaineHealth, the Roux Institute, The Jackson Laboratory and beyond. Exchange ideas, tips, and best practices for leveraging R in data analysis, statistics, and more. Expand your network and forge meaningful connections within the Maine R community. Whether you're a seasoned R expert or just getting started, this event promises valuable insights, inspiring conversations, and a chance to connect with fellow R enthusiasts in the beautiful state of Maine. Don't miss out on this fantastic opportunity to enhance your R skills, broaden your network, and be a part of the vibrant Maine R User Group community.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

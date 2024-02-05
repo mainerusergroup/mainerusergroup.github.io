@@ -1,0 +1,53 @@
+---
+title: "January Spotlight: Integrating R in Watershed Restoration Data Advocacy: Angie Reed's Journey in Tribal Communities"
+author: "Donald S."
+date: 2024-01-31
+categories: [spotlight]
+image: "angie_reed_spotlight-image.png"
+---
+
+```{r echo=FALSE}
+
+knitr::include_graphics("angie_reed_spotlight-image.png")
+
+```
+
+**Introduction:**
+
+Angie Reed, celebrating 20 years as a Water Resources Planner for the Penobscot Nation, sheds light on the practical application of using R for data analysis for watershed protection and restoration. Working alongside numerous Tribes, state and federal agencies, and academic staff, Angie also contributes to national tribal workgroups. Her engagement with Native Nations has a strong emphasis on the Wabanaki homelands, but her influence and work extend throughout Turtle Island.
+
+**1. Discovering R - My Initial Spark:**
+
+*What got you interested in R?*
+
+My adventure with R began in a class taught by the guidance of Dennis Helsel, a renowned figure in water resources who, after working with the United States Geological Survey (USGS) opened his own business called [Practical Stats](https://www.practicalstats.com/). It was during this course I started to use R Commander for my analysis of the changes in water quality as a result of a dam removal project on the Penobscot River. This experience was a revelation, leading me to a self-learning path where I dove into programming in R and continued education opportunities through "The Carpentries" classes. My first Carpentries class was more than just an introduction to R; it was a gateway to a whole new world of data analysis possibilities.
+
+**2. R at Work - A Game Changer in Environmental Data:**
+
+*Do you use R at work? How?*
+
+At Penobscot Nation, R has become an indispensable part of my work. From statistical analysis to managing sensor data files, R has revolutionized the way I handle environmental data. One of my key projects involves using R for processing and analyzing data from environmental sensors collecting measurements all year every 30 minutes, illustrating how technology can be a powerful ally in ecological studies. Our transition from Microsoft Access to R, especially for reporting to the Environmental Protection Agency and sharing data with the Maine Department of Environmental Protection, showcases the efficiency and adaptability of R in various facets of data management and reporting.
+
+**3. Beyond Programming - My Passion for the Outdoors:**
+
+*What do you do when you're not programming?*
+
+When I'm not programming, I'm often found immersing myself in the beautiful landscapes of northern Maine. I volunteer to collect temperature data for the Maine Department of Inland Fisheries from rivers and streams in the North Maine Woods, merging my professional skills with my love for nature. This combination of my career and personal passion is a testament to how fulfilling life can be when your work and personal interests align so closely.
+
+**4. Anticipating Trends - The Future of R and Python:**
+
+*What trends do you see in R language over the next year?*
+
+Looking ahead, I'm particularly intrigued by the growing synergy between R and Python. This trend towards language integration reflects a broader movement in technology towards utilizing the best tools available, regardless of the language. It's an exciting time in programming, where adaptability and continuous learning are more important than ever.
+
+**5. Community and Coding - My Favorite R Experience:**
+
+*What is your favorite R event that you have attended?*
+
+One of my most cherished experiences in the R community wasn't a large conference, but the formation of the (unofficially named) Pacific Northwest Tribal Coding group during a [Tribal Exchange Network Group](https://www.tribalexchangenetwork.org/) meeting in partnership with the [Northwest Indian Fisheries Commission (NWIFC)](https://nwifc.org/).  This group has broadened to include member Tribes of the [Columbia River Inter-Tribal Fish Commission](https://critfc.org/) and highlights the importance of community, collaborative learning, and mutual support in technology. It's a reminder of the power of grassroots movements in fostering a sense of belonging and collective advancement in coding skills. Working for the Penobscot Nation and seeing the collective effort in supporting each other, thus improving our daily routines, is truly gratifying and a source of great pride for me.
+
+**6. Future Endeavors - Shiny and Community Engagement:**
+
+*What projects (R-focused or otherwise) are you excited about in the coming year?*
+
+In the coming year, I'm eager to enhance my skills in Shiny, aiming to create public-facing data visualizations. This project, along with my involvement in the Pacific Northwest Tribal Coding group, signifies my commitment to using R not just for data analysis but as a tool for community engagement, education, and environmental advocacy. I am also excited to continue my community outreach that involves engaging children from Indian Island School (pre-K to 8th grade) and local middle and high schools.
