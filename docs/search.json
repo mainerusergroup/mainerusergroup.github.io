@@ -165,14 +165,14 @@
     "href": "future_presenters.html",
     "title": "Call for Presentations",
     "section": "",
-    "text": "Want to give talk at a MaineR Event?\nThis is a great opportunity for R users and enthusiasts to come together, share their knowledge, and learn from one another in a relaxed and supportive setting. Whether you’re a beginner, an intermediate user, or an advanced practitioner, you are welcome to join us.\nThe format of our meetings is informal and interactive, allowing for an open exchange of ideas and experiences. We encourage attendees to actively participate in the discussions and ask questions. This is a wonderful opportunity to expand your understanding of R, and to connect with others who share your passion for this powerful tool.\nWe are currently looking for presenters to share their work, projects, and insights with the group. If you have something to share, we would love to hear from you! This is a great opportunity to showcase your skills and get feedback from the community.\nTo submit a topic proposal, please contact us with a brief description of what you would like to present. If you’re not sure what to present, don’t worry - we are happy to help you come up with something.\nWe are currently looking for presenters for the following month(s) in 2023:\n\nSeptember\n\nWhere will these events take place?\n\nWe are currently open to both virtual and hybrid events across Maine!\nPresentations with a physical location will be dependent on interest and availability."
+    "text": "Want to give talk at a MaineR Event?\nThis is a great opportunity for R users and enthusiasts to come together, share their knowledge, and learn from one another in a relaxed and supportive setting. Whether you’re a beginner, an intermediate user, or an advanced practitioner, you are welcome to join us.\nThe format of our meetings is informal and interactive, allowing for an open exchange of ideas and experiences. We encourage attendees to actively participate in the discussions and ask questions. This is a wonderful opportunity to expand your understanding of R, and to connect with others who share your passion for this powerful tool.\nWe are currently looking for presenters to share their work, projects, and insights with the group. If you have something to share, we would love to hear from you! This is a great opportunity to showcase your skills and get feedback from the community.\nTo submit a topic proposal, please contact us with a brief description of what you would like to present. If you’re not sure what to present, don’t worry - we are happy to help you come up with something.\nWe are open to all of the following events types:\n\nSocial Gatherings (local breweries/ event spaces)\nWorkshops (virtual and in-person)\nPresentations (Guest speaker / lecture style)\n\nWhere will these events take place?\n\nWe are currently open to both virtual and hybrid events across Maine!\nPresentations with a physical location will be dependent on interest and availability."
   },
   {
     "objectID": "yearly_events.html",
     "href": "yearly_events.html",
     "title": "Events",
     "section": "",
-    "text": "Want to give talk at a MaineR Event?\nThis year, we are hoping to plan six events (one event every other month) with a mix of in-person social events and hybrid technical talks.\nHere is the current 2023 event calender:\n\nJanuary\n\nData on Tap: MaineR Social Hour (Portland, ME)\n\nMarch\n\nData Mining Methods - (Roux Institute, Portland, ME)\n\nMay\n\nIntroduction to {targets} - (Think Tank CoWorking, Portland, ME)\n\nJuly\n\nData on Tap: MaineR Social Hour - (Portland, ME)\n\nSeptember\n\nPosit::conf23 - (Chicago, Illinois)\n\nOctober\n\nLightning Talks with Jackson Laboratories - (Bar Harbor, ME)\n\nDecember\n\nMerry Hexmas Party - MaineR Social Hour (Location, TBD)\n\n\nTo RSVP to one of our events, check out our MeetUp page."
+    "text": "Want to give talk at a MaineR Event?\nBased off feedback from the start of the year survey we are hoping to plan a mix on social, virtual, workshop, and in-person events all throughout the year! (Maybe even multiple a month!).\nHere is the current 2024 event calender:\n\nJanuary\nFebruary\nMarch\nApril\nMay\nJuly\n\nWatershed Project with Penobscot Nation (Location, TBD)\n\nSeptember\nOctober\nDecember\n\nTo RSVP to one of our events, check out our MeetUp page."
   },
   {
     "objectID": "posts/022_linux interview/index.html",
@@ -236,5 +236,12 @@
     "title": "Bar Harbor Networking Event",
     "section": "",
     "text": "Are you passionate about data analytics, visualization, and programming with R? If so, mark your calendar for the upcoming Maine R User Group Meetup in gorgeous Bar Harbor! Meet other data enthusiasts for an evening of knowledge sharing, collaboration, and community building!\nDate: Thursday, Oct 5\nTime: 4:00 - 6:00 pm\nLocation: Blaze, 198 Main Street, Bar Harbor\nEvent Highlights:\nNetwork with R users from IDEXX, MaineHealth, the Roux Institute, The Jackson Laboratory and beyond. Exchange ideas, tips, and best practices for leveraging R in data analysis, statistics, and more. Expand your network and forge meaningful connections within the Maine R community. Whether you’re a seasoned R expert or just getting started, this event promises valuable insights, inspiring conversations, and a chance to connect with fellow R enthusiasts in the beautiful state of Maine. Don’t miss out on this fantastic opportunity to enhance your R skills, broaden your network, and be a part of the vibrant Maine R User Group community."
+  },
+  {
+    "objectID": "yearly_events.html#january",
+    "href": "yearly_events.html#january",
+    "title": "Events",
+    "section": "## January",
+    "text": "## January\n\n\nJanuary\nFebruary\nMarch\nApril\nMay\nJuly\n\nWatershed Project with Penobscot Nation (Location, TBD)\n\nSeptember\nOctober\nDecember\n\nTo RSVP to one of our events, check out our MeetUp page."
   }
 ]
