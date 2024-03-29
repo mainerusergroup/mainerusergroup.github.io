@@ -1,0 +1,62 @@
+---
+title: "March Spotlight: Anya Cutler - Bridging Data Science and Neonatal Care at Maine Medical Center"
+author: "Donald S."
+date: 2024-03-29
+categories: [spotlight]
+image: "anya_cutler_spotlight-image.png"
+---
+
+```{r echo=FALSE}
+
+knitr::include_graphics("anya_cutler_spotlight-image.png")
+
+```
+
+**Introduction:**
+
+Anya Cutler, research data analyst at the Maine Health Institute for Research, works within the Center for Interdisciplinary and Population Health Research (CIPHR). Her role primarily involves partnering with principal investigators, who are PhDs in the center, as well as clinicians across Maine Health, to support research endeavors. Specifically, Anya serves as the in-house analyst for the Barbara Bush Children's Hospital Scholars Academy, a group of pediatricians focused on enhancing their scholarly output and careers in research. In this capacity, she provides critical statistical support and data analysis, leveraging her expertise to advance healthcare research and outcomes.
+
+**1. Discovering R - My Initial Spark:**
+
+*What got you interested in R?*
+
+My interest in R began during my first master's degree in plant and soil science at the University of Vermont, where I was involved in analyzing microbial communities in compost-amended soils. This work required handling large sets of genetic data, and until then, I had only used relatively simple statistical software like Excel and GraphPad Prism. A faculty member in my department introduced me to R for its powerful capabilities in processing and analyzing big genetic data sets. Utilizing principal component analysis, I examined the similarities and differences among microbial communities. I explored how weather patterns influenced the survival of E. coli in compost-amended soil and how these environmental factors contributed to diverging microbial groups.
+
+During my Master of Public Health (MPH) at Emory University, my focus shifted towards epidemiology, where I delved into the microbiome of pregnant women. After my MPH I embarked on a fascinating journey into pollen genetics as a staff scientist at Emory University. Here, I worked on developing an analysis pipeline using R to quantify the relative abundance of different plant species from pollen samples. This work was pivotal to advancing our understanding of plant genetics, as well as demonstrating the potential applications of such data, ranging from ecological research to potentially aiding in geographical localization based on pollen signatures for the Department of Defense.
+
+
+**2. R in Practice: Leveraging Statistical Computing to Drive Healthcare Research**
+
+*Do you use R at work? How?*
+
+In my role, I extensively use R for data cleaning, visualization, and analysis, pulling data directly from REDCap into R for comprehensive processing. I employ R Markdown and Shiny applications to create interactive reports and dashboards, making complex results accessible to non-technical stakeholders. My analytical tasks vary from multivariable regression to geospatial and longitudinal mixed-effects modeling, showcasing R's versatility in handling diverse data analysis needs. Additionally, I produce both static and interactive visualizations, utilizing R's robust functionality to communicate findings effectively in various formats, essential for both internal reviews and published reports.
+
+
+**3. Beyond Programming**
+
+*What do you do when you're not programming?*
+
+
+When I'm not programming, my time is divided between professional and personal interests. Professionally, I engage in various activities such as reviewing manuscripts, writing up research methods, and attending numerous meetings to discuss study designs or data interpretations with colleagues. These tasks are crucial for advancing our research projects and ensuring collaboration and consensus among team members. On a personal level, my life is enriched by spending time with my young children, indulging in cooking, enjoying the outdoors whenever possible, and reading. These activities not only provide a necessary respite from the analytical rigor of my work but also contribute to my overall well-being and life balance, allowing me to return to my programming tasks with renewed focus and energy.
+
+
+
+**4. Anticipating Trends**
+
+*What trends do you see in R language over the next year?*
+
+Over the next year, I foresee R integrating more closely with other programming languages like Python to harness combined analytical strengths, enhancing data analysis and visualization capabilities. Advancements in R Markdown and Shiny are expected to improve user engagement and accessibility, making it simpler to create interactive documents and applications. These trends reflect R's adaptability and growing significance in data science, emphasizing its role in facilitating comprehensive, user-friendly data analysis and visualization.
+
+
+**5. Community and Coding**
+
+*What is your favorite R event that you have attended?*
+
+My favorite R event that I've attended was a workshop hosted by Posit (formerly RStudio), focused on tips and tricks in R Markdown. This workshop was particularly enlightening as it presented a series of rapid-fire insights into enhancing the utility and efficiency of R Markdown, a tool I use daily. We delved into custom snippets, the magic of rainbow parentheses for code readability, and various other hacks that immediately found their way into my routine, significantly streamlining my workflow. It stood out for its practical impact, offering immediate benefits to my work and providing insights that continue to influence how I approach data analysis and reporting in R.
+
+
+**6. Future Endeavors**
+
+*What projects (R-focused or otherwise) are you excited about in the coming year?*
+
+In the coming year, I am particularly excited about a pioneering project that aims to revolutionize neonatal resuscitation training in rural hospitals, utilizing advanced technology. We have proposed an R01 grant for research using technologically advanced mannequins, including a "holographic baby," or "holo-baby," which employs augmented reality to enhance training realism and efficacy. This initiative will harness R for analyzing training outcomes, potentially transforming neonatal care preparedness in underserved areas. These endeavors epitomize the intersection of data science and healthcare, promising to uncover new insights and improve patient outcomes, reflecting my deep investment in impactful healthcare research.
