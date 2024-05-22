@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -47,7 +47,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -56,8 +62,10 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <script>
@@ -94,16 +102,43 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 <link rel="stylesheet" href="styles.scss">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     <img src="./maine_r_user_logo.png" alt="" class="navbar-logo">
     </a>
@@ -118,25 +153,25 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
- <span class="menu-text">Posts</span></a>
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./future_presenters.html" rel="" target="">
- <span class="menu-text">Call for Presentations</span></a>
+    <a class="nav-link" href="./future_presenters.html"> 
+<span class="menu-text">Call for Presentations</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./yearly_events.html" rel="" target="">
- <span class="menu-text">Events</span></a>
+    <a class="nav-link" href="./yearly_events.html"> 
+<span class="menu-text">Events</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -149,7 +184,7 @@ ul.task-list li input[type="checkbox"] {
   </div>
     
   
-  <div class="quarto-title-meta">
+  <div class="quarto-title-meta column-page-left">
 
       
     
@@ -162,7 +197,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(32)</span></div><div class="category" data-category="blogdown">blogdown <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data-viz">data-viz <span class="quarto-category-count">(1)</span></div><div class="category" data-category="docker">docker <span class="quarto-category-count">(1)</span></div><div class="category" data-category="etl">etl <span class="quarto-category-count">(1)</span></div><div class="category" data-category="hack-a-thon">hack-a-thon <span class="quarto-category-count">(1)</span></div><div class="category" data-category="markdown">markdown <span class="quarto-category-count">(1)</span></div><div class="category" data-category="modeling">modeling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ocr">ocr <span class="quarto-category-count">(1)</span></div><div class="category" data-category="panel">panel <span class="quarto-category-count">(1)</span></div><div class="category" data-category="plumber">plumber <span class="quarto-category-count">(1)</span></div><div class="category" data-category="purrr">purrr <span class="quarto-category-count">(1)</span></div><div class="category" data-category="python">python <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quosures">quosures <span class="quarto-category-count">(1)</span></div><div class="category" data-category="rvest">rvest <span class="quarto-category-count">(1)</span></div><div class="category" data-category="simulation">simulation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="social">social <span class="quarto-category-count">(10)</span></div><div class="category" data-category="sparklyr">sparklyr <span class="quarto-category-count">(1)</span></div><div class="category" data-category="spotlight">spotlight <span class="quarto-category-count">(4)</span></div><div class="category" data-category="text-mining">text-mining <span class="quarto-category-count">(2)</span></div><div class="category" data-category="tidyverse">tidyverse <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(33)</span></div><div class="category" data-category="blogdown">blogdown <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data-viz">data-viz <span class="quarto-category-count">(1)</span></div><div class="category" data-category="docker">docker <span class="quarto-category-count">(1)</span></div><div class="category" data-category="etl">etl <span class="quarto-category-count">(1)</span></div><div class="category" data-category="hack-a-thon">hack-a-thon <span class="quarto-category-count">(1)</span></div><div class="category" data-category="markdown">markdown <span class="quarto-category-count">(1)</span></div><div class="category" data-category="modeling">modeling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ocr">ocr <span class="quarto-category-count">(1)</span></div><div class="category" data-category="panel">panel <span class="quarto-category-count">(1)</span></div><div class="category" data-category="plumber">plumber <span class="quarto-category-count">(1)</span></div><div class="category" data-category="purrr">purrr <span class="quarto-category-count">(1)</span></div><div class="category" data-category="python">python <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quosures">quosures <span class="quarto-category-count">(1)</span></div><div class="category" data-category="rvest">rvest <span class="quarto-category-count">(1)</span></div><div class="category" data-category="simulation">simulation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="social">social <span class="quarto-category-count">(10)</span></div><div class="category" data-category="sparklyr">sparklyr <span class="quarto-category-count">(1)</span></div><div class="category" data-category="spotlight">spotlight <span class="quarto-category-count">(5)</span></div><div class="category" data-category="text-mining">text-mining <span class="quarto-category-count">(2)</span></div><div class="category" data-category="tidyverse">tidyverse <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -173,34 +208,66 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="spotlight" data-listing-date-sort="1714449600000" data-listing-file-modified-sort="1714508999635" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<div class="quarto-post image-right" data-index="0" data-categories="spotlight" data-listing-date-sort="1716436800000" data-listing-file-modified-sort="1716401677825" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="650">
 <div class="thumbnail">
-<p><a href="./posts/031_monthly_spotlight_susan_mcclatchy/index.html"> <img src="./posts/031_monthly_spotlight_susan_mcclatchy/susan_mcclatchy_spotlight_image.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/034_monthly_spotlight_louisa_smith/index.html" class="no-external"></a></p><a href="./posts/034_monthly_spotlight_louisa_smith/index.html" class="no-external">
+<p><img src="./posts/034_monthly_spotlight_louisa_smith/louisa_smith_spotlight_logo.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/034_monthly_spotlight_louisa_smith/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/031_monthly_spotlight_susan_mcclatchy/index.html">
 <h3 class="no-anchor listing-title">
-April Spotlight: Sue McClatchy - Integrating Bioinformatics and Educational Outreach at Jackson Laboratory
+<a href="./posts/034_monthly_spotlight_louisa_smith/index.html" class="no-external">May Spotlight: Louisa Smith - Connecting Data Science and Public Health at the Roux Institute</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/034_monthly_spotlight_louisa_smith/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('spotlight'); return false;">
 spotlight
 </div>
 </div>
-<a href="./posts/031_monthly_spotlight_susan_mcclatchy/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/031_monthly_spotlight_susan_mcclatchy/index.html -->
+<a href="./posts/034_monthly_spotlight_louisa_smith/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/034_monthly_spotlight_louisa_smith/index.html --></a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/034_monthly_spotlight_louisa_smith/index.html" class="no-external">
+<div class="listing-date">
+May 23, 2024
+</div>
+<div class="listing-author">
+Donald S.
 </div>
 </a>
 </div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="spotlight" data-listing-date-sort="1714449600000" data-listing-file-modified-sort="1716381373608" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="835">
+<div class="thumbnail">
+<p><a href="./posts/031_monthly_spotlight_susan_mcclatchy/index.html" class="no-external"></a></p><a href="./posts/031_monthly_spotlight_susan_mcclatchy/index.html" class="no-external">
+<p><img src="./posts/031_monthly_spotlight_susan_mcclatchy/susan_mcclatchy_spotlight_image.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/031_monthly_spotlight_susan_mcclatchy/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/031_monthly_spotlight_susan_mcclatchy/index.html" class="no-external">April Spotlight: Sue McClatchy - Integrating Bioinformatics and Educational Outreach at Jackson Laboratory</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/031_monthly_spotlight_susan_mcclatchy/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('spotlight'); return false;">
+spotlight
+</div>
+</div>
+<div class="listing-description">
+<a href="./posts/031_monthly_spotlight_susan_mcclatchy/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/031_monthly_spotlight_susan_mcclatchy/index.html --></a>
+</div>
+</div>
 <div class="metadata">
-<a href="./posts/031_monthly_spotlight_susan_mcclatchy/index.html">
+<a href="./posts/031_monthly_spotlight_susan_mcclatchy/index.html" class="no-external">
 <div class="listing-date">
 Apr 30, 2024
 </div>
@@ -210,32 +277,30 @@ Donald S.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="spotlight" data-listing-date-sort="1711684800000" data-listing-file-modified-sort="1711725069885" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<div class="quarto-post image-right" data-index="2" data-categories="spotlight" data-listing-date-sort="1711684800000" data-listing-file-modified-sort="1716381373608" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="875">
 <div class="thumbnail">
-<p><a href="./posts/030_monthly_spotlight_anya_cutler/index.html"> <img src="./posts/030_monthly_spotlight_anya_cutler/anya_cutler_spotlight-image.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/030_monthly_spotlight_anya_cutler/index.html" class="no-external"></a></p><a href="./posts/030_monthly_spotlight_anya_cutler/index.html" class="no-external">
+<p><img src="./posts/030_monthly_spotlight_anya_cutler/anya_cutler_spotlight-image.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/030_monthly_spotlight_anya_cutler/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/030_monthly_spotlight_anya_cutler/index.html">
 <h3 class="no-anchor listing-title">
-March Spotlight: Anya Cutler - Bridging Data Science and Neonatal Care at Maine Medical Center
+<a href="./posts/030_monthly_spotlight_anya_cutler/index.html" class="no-external">March Spotlight: Anya Cutler - Bridging Data Science and Neonatal Care at Maine Medical Center</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/030_monthly_spotlight_anya_cutler/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('spotlight'); return false;">
 spotlight
 </div>
 </div>
-<a href="./posts/030_monthly_spotlight_anya_cutler/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/030_monthly_spotlight_anya_cutler/index.html -->
+<a href="./posts/030_monthly_spotlight_anya_cutler/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/030_monthly_spotlight_anya_cutler/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/030_monthly_spotlight_anya_cutler/index.html">
+<a href="./posts/030_monthly_spotlight_anya_cutler/index.html" class="no-external">
 <div class="listing-date">
 Mar 29, 2024
 </div>
@@ -245,32 +310,30 @@ Donald S.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="spotlight" data-listing-date-sort="1709182800000" data-listing-file-modified-sort="1709185087277" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
+<div class="quarto-post image-right" data-index="3" data-categories="spotlight" data-listing-date-sort="1709182800000" data-listing-file-modified-sort="1716381373608" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1156">
 <div class="thumbnail">
-<p><a href="./posts/029_monthly_spotlight_adam_kerberling/index.html"> <img src="./posts/029_monthly_spotlight_adam_kerberling/adam_kemberling_spotlight-image.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/029_monthly_spotlight_adam_kerberling/index.html" class="no-external"></a></p><a href="./posts/029_monthly_spotlight_adam_kerberling/index.html" class="no-external">
+<p><img src="./posts/029_monthly_spotlight_adam_kerberling/adam_kemberling_spotlight-image.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/029_monthly_spotlight_adam_kerberling/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/029_monthly_spotlight_adam_kerberling/index.html">
 <h3 class="no-anchor listing-title">
-February Spotlight: Charting New Waters - Adam Kemberling’s Voyage Through Marine Research and R Innovation at the Gulf of Maine Research Institute
+<a href="./posts/029_monthly_spotlight_adam_kerberling/index.html" class="no-external">February Spotlight: Charting New Waters - Adam Kemberling’s Voyage Through Marine Research and R Innovation at the Gulf of Maine Research Institute</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/029_monthly_spotlight_adam_kerberling/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('spotlight'); return false;">
 spotlight
 </div>
 </div>
-<a href="./posts/029_monthly_spotlight_adam_kerberling/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/029_monthly_spotlight_adam_kerberling/index.html -->
+<a href="./posts/029_monthly_spotlight_adam_kerberling/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/029_monthly_spotlight_adam_kerberling/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/029_monthly_spotlight_adam_kerberling/index.html">
+<a href="./posts/029_monthly_spotlight_adam_kerberling/index.html" class="no-external">
 <div class="listing-date">
 Feb 29, 2024
 </div>
@@ -280,32 +343,30 @@ Donald S.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="spotlight" data-listing-date-sort="1706677200000" data-listing-file-modified-sort="1707149266726" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="quarto-post image-right" data-index="4" data-categories="spotlight" data-listing-date-sort="1706677200000" data-listing-file-modified-sort="1716381373608" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="712">
 <div class="thumbnail">
-<p><a href="./posts/028_monthly_spotlight_jan_angie/index.html"> <img src="./posts/028_monthly_spotlight_jan_angie/angie_reed_spotlight-image.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/028_monthly_spotlight_jan_angie/index.html" class="no-external"></a></p><a href="./posts/028_monthly_spotlight_jan_angie/index.html" class="no-external">
+<p><img src="./posts/028_monthly_spotlight_jan_angie/angie_reed_spotlight-image.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/028_monthly_spotlight_jan_angie/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/028_monthly_spotlight_jan_angie/index.html">
 <h3 class="no-anchor listing-title">
-January Spotlight: Integrating R in Watershed Restoration Data Advocacy: Angie Reed’s Journey in Tribal Communities
+<a href="./posts/028_monthly_spotlight_jan_angie/index.html" class="no-external">January Spotlight: Integrating R in Watershed Restoration Data Advocacy: Angie Reed’s Journey in Tribal Communities</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/028_monthly_spotlight_jan_angie/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('spotlight'); return false;">
 spotlight
 </div>
 </div>
-<a href="./posts/028_monthly_spotlight_jan_angie/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/028_monthly_spotlight_jan_angie/index.html -->
+<a href="./posts/028_monthly_spotlight_jan_angie/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/028_monthly_spotlight_jan_angie/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/028_monthly_spotlight_jan_angie/index.html">
+<a href="./posts/028_monthly_spotlight_jan_angie/index.html" class="no-external">
 <div class="listing-date">
 Jan 31, 2024
 </div>
@@ -315,32 +376,30 @@ Donald S.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="social" data-listing-date-sort="1696392000000" data-listing-file-modified-sort="1707148243640" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="5" data-categories="social" data-listing-date-sort="1696392000000" data-listing-file-modified-sort="1716381373587" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
 <div class="thumbnail">
-<p><a href="./posts/027_lightning-talks-jax/index.html"> <img src="./posts/027_lightning-talks-jax/jackson_labs.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/027_lightning-talks-jax/index.html" class="no-external"></a></p><a href="./posts/027_lightning-talks-jax/index.html" class="no-external">
+<p><img src="./posts/027_lightning-talks-jax/jackson_labs.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/027_lightning-talks-jax/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/027_lightning-talks-jax/index.html">
 <h3 class="no-anchor listing-title">
-Bar Harbor Networking Event
+<a href="./posts/027_lightning-talks-jax/index.html" class="no-external">Bar Harbor Networking Event</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/027_lightning-talks-jax/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
 social
 </div>
 </div>
-<a href="./posts/027_lightning-talks-jax/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/027_lightning-talks-jax/index.html -->
+<a href="./posts/027_lightning-talks-jax/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/027_lightning-talks-jax/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/027_lightning-talks-jax/index.html">
+<a href="./posts/027_lightning-talks-jax/index.html" class="no-external">
 <div class="listing-date">
 Oct 4, 2023
 </div>
@@ -350,32 +409,30 @@ Donald S.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="social" data-listing-date-sort="1695182400000" data-listing-file-modified-sort="1697148782354" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="6" data-categories="social" data-listing-date-sort="1695182400000" data-listing-file-modified-sort="1716381373585" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33">
 <div class="thumbnail">
-<p><a href="./posts/026_positconf23_chicago/index.html"> <img src="./posts/026_positconf23_chicago/positconf.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/026_positconf23_chicago/index.html" class="no-external"></a></p><a href="./posts/026_positconf23_chicago/index.html" class="no-external">
+<p><img src="./posts/026_positconf23_chicago/positconf.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/026_positconf23_chicago/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/026_positconf23_chicago/index.html">
 <h3 class="no-anchor listing-title">
-MaineR’s at POSIT::CONF(2023)
+<a href="./posts/026_positconf23_chicago/index.html" class="no-external">MaineR’s at POSIT::CONF(2023)</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/026_positconf23_chicago/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
 social
 </div>
 </div>
-<a href="./posts/026_positconf23_chicago/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/026_positconf23_chicago/index.html -->
+<a href="./posts/026_positconf23_chicago/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/026_positconf23_chicago/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/026_positconf23_chicago/index.html">
+<a href="./posts/026_positconf23_chicago/index.html" class="no-external">
 <div class="listing-date">
 Sep 20, 2023
 </div>
@@ -385,32 +442,30 @@ Donald S.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="social" data-listing-date-sort="1689134400000" data-listing-file-modified-sort="1691701682328" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="7" data-categories="social" data-listing-date-sort="1689134400000" data-listing-file-modified-sort="1716381373583" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="67">
 <div class="thumbnail">
-<p><a href="./posts/025_meet-up_data-on-tap/index.html"> <img src="./posts/025_meet-up_data-on-tap/data_on_tap_logo2.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/025_meet-up_data-on-tap/index.html" class="no-external"></a></p><a href="./posts/025_meet-up_data-on-tap/index.html" class="no-external">
+<p><img src="./posts/025_meet-up_data-on-tap/data_on_tap_logo2.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/025_meet-up_data-on-tap/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/025_meet-up_data-on-tap/index.html">
 <h3 class="no-anchor listing-title">
-July Data on Tap - MaineR Users Group Social Hour
+<a href="./posts/025_meet-up_data-on-tap/index.html" class="no-external">July Data on Tap - MaineR Users Group Social Hour</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/025_meet-up_data-on-tap/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
 social
 </div>
 </div>
-<a href="./posts/025_meet-up_data-on-tap/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/025_meet-up_data-on-tap/index.html -->
+<a href="./posts/025_meet-up_data-on-tap/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/025_meet-up_data-on-tap/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/025_meet-up_data-on-tap/index.html">
+<a href="./posts/025_meet-up_data-on-tap/index.html" class="no-external">
 <div class="listing-date">
 Jul 12, 2023
 </div>
@@ -420,32 +475,30 @@ Donald S.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="social" data-listing-date-sort="1685505600000" data-listing-file-modified-sort="1691701140294" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="8" data-categories="social" data-listing-date-sort="1685505600000" data-listing-file-modified-sort="1716381373562" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="216">
 <div class="thumbnail">
-<p><a href="./posts/024_introduction_to_targets/index.html"> <img src="./posts/024_introduction_to_targets/intro_targets_logo.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/024_introduction_to_targets/index.html" class="no-external"></a></p><a href="./posts/024_introduction_to_targets/index.html" class="no-external">
+<p><img src="./posts/024_introduction_to_targets/intro_targets_logo.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/024_introduction_to_targets/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/024_introduction_to_targets/index.html">
 <h3 class="no-anchor listing-title">
-Introduction to {targets}
+<a href="./posts/024_introduction_to_targets/index.html" class="no-external">Introduction to {targets}</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/024_introduction_to_targets/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
 social
 </div>
 </div>
-<a href="./posts/024_introduction_to_targets/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/024_introduction_to_targets/index.html -->
+<a href="./posts/024_introduction_to_targets/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/024_introduction_to_targets/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/024_introduction_to_targets/index.html">
+<a href="./posts/024_introduction_to_targets/index.html" class="no-external">
 <div class="listing-date">
 May 31, 2023
 </div>
@@ -455,32 +508,30 @@ Donald S.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="social" data-listing-date-sort="1680148800000" data-listing-file-modified-sort="1697144979665" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="9" data-categories="social" data-listing-date-sort="1680148800000" data-listing-file-modified-sort="1716381373541" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="105">
 <div class="thumbnail">
-<p><a href="./posts/023_meet-up_data-mining/index.html"> <img src="./posts/023_meet-up_data-mining/data_mining_logo_5.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/023_meet-up_data-mining/index.html" class="no-external"></a></p><a href="./posts/023_meet-up_data-mining/index.html" class="no-external">
+<p><img src="./posts/023_meet-up_data-mining/data_mining_logo_5.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/023_meet-up_data-mining/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/023_meet-up_data-mining/index.html">
 <h3 class="no-anchor listing-title">
-Data Mining Methods for Improving Health Outcomes
+<a href="./posts/023_meet-up_data-mining/index.html" class="no-external">Data Mining Methods for Improving Health Outcomes</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/023_meet-up_data-mining/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
 social
 </div>
 </div>
-<a href="./posts/023_meet-up_data-mining/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/023_meet-up_data-mining/index.html -->
+<a href="./posts/023_meet-up_data-mining/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/023_meet-up_data-mining/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/023_meet-up_data-mining/index.html">
+<a href="./posts/023_meet-up_data-mining/index.html" class="no-external">
 <div class="listing-date">
 Mar 30, 2023
 </div>
@@ -490,32 +541,30 @@ Donald S.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="social" data-listing-date-sort="1679976000000" data-listing-file-modified-sort="1691701704987" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="10" data-categories="social" data-listing-date-sort="1679976000000" data-listing-file-modified-sort="1716381373493" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
 <div class="thumbnail">
-<p><a href="./posts/022_linux interview/index.html"> <img src="./posts/022_linux interview/rconsortium_thumbnail.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/022_linux interview/index.html" class="no-external"></a></p><a href="./posts/022_linux interview/index.html" class="no-external">
+<p><img src="./posts/022_linux interview/rconsortium_thumbnail.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/022_linux interview/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/022_linux interview/index.html">
 <h3 class="no-anchor listing-title">
-Donald Szlosek, the organizer of MaineR, interviewed by the R Consortium and Linux Foundation
+<a href="./posts/022_linux interview/index.html" class="no-external">Donald Szlosek, the organizer of MaineR, interviewed by the R Consortium and Linux Foundation</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/022_linux interview/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
 social
 </div>
 </div>
-<a href="./posts/022_linux interview/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/022_linux interview/index.html -->
+<a href="./posts/022_linux interview/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/022_linux interview/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/022_linux interview/index.html">
+<a href="./posts/022_linux interview/index.html" class="no-external">
 <div class="listing-date">
 Mar 28, 2023
 </div>
@@ -525,32 +574,30 @@ Donald S.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="social" data-listing-date-sort="1674709200000" data-listing-file-modified-sort="1675131542091" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="11" data-categories="social" data-listing-date-sort="1674709200000" data-listing-file-modified-sort="1716381373493" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="56">
 <div class="thumbnail">
-<p><a href="./posts/021_meet-up_data-on-tap/index.html"> <img src="./posts/021_meet-up_data-on-tap/data_on_tap_logo2.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/021_meet-up_data-on-tap/index.html" class="no-external"></a></p><a href="./posts/021_meet-up_data-on-tap/index.html" class="no-external">
+<p><img src="./posts/021_meet-up_data-on-tap/data_on_tap_logo2.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/021_meet-up_data-on-tap/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/021_meet-up_data-on-tap/index.html">
 <h3 class="no-anchor listing-title">
-January Data on Tap - MaineR Users Group Social Hour
+<a href="./posts/021_meet-up_data-on-tap/index.html" class="no-external">January Data on Tap - MaineR Users Group Social Hour</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/021_meet-up_data-on-tap/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
 social
 </div>
 </div>
-<a href="./posts/021_meet-up_data-on-tap/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/021_meet-up_data-on-tap/index.html -->
+<a href="./posts/021_meet-up_data-on-tap/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/021_meet-up_data-on-tap/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/021_meet-up_data-on-tap/index.html">
+<a href="./posts/021_meet-up_data-on-tap/index.html" class="no-external">
 <div class="listing-date">
 Jan 26, 2023
 </div>
@@ -560,32 +607,30 @@ Donald S.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="news" data-listing-date-sort="1673672400000" data-listing-file-modified-sort="1675394461945" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="12" data-categories="news" data-listing-date-sort="1673672400000" data-listing-file-modified-sort="1716381373210" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
 <div class="thumbnail">
-<p><a href="./posts/001_welcome/index.html"> <img src="./posts/001_welcome/maine_r_user_logo.PNG" class="thumbnail-image"> </a></p>
+<p><a href="./posts/001_welcome/index.html" class="no-external"></a></p><a href="./posts/001_welcome/index.html" class="no-external">
+<p><img src="./posts/001_welcome/maine_r_user_logo.PNG" class="thumbnail-image"></p>
+</a><p><a href="./posts/001_welcome/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/001_welcome/index.html">
 <h3 class="no-anchor listing-title">
-It’s 2023 and we’re Back!
+<a href="./posts/001_welcome/index.html" class="no-external">It’s 2023 and we’re Back!</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/001_welcome/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/001_welcome/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/001_welcome/index.html -->
+<a href="./posts/001_welcome/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/001_welcome/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/001_welcome/index.html">
+<a href="./posts/001_welcome/index.html" class="no-external">
 <div class="listing-date">
 Jan 14, 2023
 </div>
@@ -595,19 +640,19 @@ Donald Szlosek
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="text-mining,rvest" data-listing-date-sort="1635998400000" data-listing-file-modified-sort="1675119207357" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="13" data-categories="text-mining,rvest" data-listing-date-sort="1635998400000" data-listing-file-modified-sort="1716381373472" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="71">
 <div class="thumbnail">
-<p><a href="./posts/020_meet-up_explore-nature-rvest/index.html"> <img src="./posts/020_meet-up_explore-nature-rvest/nature_rvest.PNG" class="thumbnail-image"> </a></p>
+<p><a href="./posts/020_meet-up_explore-nature-rvest/index.html" class="no-external"></a></p><a href="./posts/020_meet-up_explore-nature-rvest/index.html" class="no-external">
+<p><img src="./posts/020_meet-up_explore-nature-rvest/nature_rvest.PNG" class="thumbnail-image"></p>
+</a><p><a href="./posts/020_meet-up_explore-nature-rvest/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/020_meet-up_explore-nature-rvest/index.html">
 <h3 class="no-anchor listing-title">
-Exploring nature through {rvest}
+<a href="./posts/020_meet-up_explore-nature-rvest/index.html" class="no-external">Exploring nature through {rvest}</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/020_meet-up_explore-nature-rvest/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('text-mining'); return false;">
 text-mining
@@ -616,14 +661,12 @@ text-mining
 rvest
 </div>
 </div>
-<a href="./posts/020_meet-up_explore-nature-rvest/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/020_meet-up_explore-nature-rvest/index.html -->
+<a href="./posts/020_meet-up_explore-nature-rvest/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/020_meet-up_explore-nature-rvest/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/020_meet-up_explore-nature-rvest/index.html">
+<a href="./posts/020_meet-up_explore-nature-rvest/index.html" class="no-external">
 <div class="listing-date">
 Nov 4, 2021
 </div>
@@ -633,32 +676,30 @@ Adam B.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="panel" data-listing-date-sort="1633579200000" data-listing-file-modified-sort="1675119207336" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="14" data-categories="panel" data-listing-date-sort="1633579200000" data-listing-file-modified-sort="1716381373443" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="125">
 <div class="thumbnail">
-<p><a href="./posts/019_meet-up_panel-wagy-valcourt/index.html"> <img src="./posts/019_meet-up_panel-wagy-valcourt/panel.PNG" class="thumbnail-image"> </a></p>
+<p><a href="./posts/019_meet-up_panel-wagy-valcourt/index.html" class="no-external"></a></p><a href="./posts/019_meet-up_panel-wagy-valcourt/index.html" class="no-external">
+<p><img src="./posts/019_meet-up_panel-wagy-valcourt/panel.PNG" class="thumbnail-image"></p>
+</a><p><a href="./posts/019_meet-up_panel-wagy-valcourt/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/019_meet-up_panel-wagy-valcourt/index.html">
 <h3 class="no-anchor listing-title">
-Panel: A conversation with Scott Valcourt and Mark Wagy
+<a href="./posts/019_meet-up_panel-wagy-valcourt/index.html" class="no-external">Panel: A conversation with Scott Valcourt and Mark Wagy</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/019_meet-up_panel-wagy-valcourt/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('panel'); return false;">
 panel
 </div>
 </div>
-<a href="./posts/019_meet-up_panel-wagy-valcourt/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/019_meet-up_panel-wagy-valcourt/index.html -->
+<a href="./posts/019_meet-up_panel-wagy-valcourt/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/019_meet-up_panel-wagy-valcourt/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/019_meet-up_panel-wagy-valcourt/index.html">
+<a href="./posts/019_meet-up_panel-wagy-valcourt/index.html" class="no-external">
 <div class="listing-date">
 Oct 7, 2021
 </div>
@@ -668,32 +709,30 @@ Umesh H. Adam B.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="text-mining" data-listing-date-sort="1630555200000" data-listing-file-modified-sort="1675119207312" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="15" data-categories="text-mining" data-listing-date-sort="1630555200000" data-listing-file-modified-sort="1716381373436" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="126">
 <div class="thumbnail">
-<p><a href="./posts/018_meet-up_text-mining/index.html"> <img src="./posts/018_meet-up_text-mining/text_mining_word.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/018_meet-up_text-mining/index.html" class="no-external"></a></p><a href="./posts/018_meet-up_text-mining/index.html" class="no-external">
+<p><img src="./posts/018_meet-up_text-mining/text_mining_word.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/018_meet-up_text-mining/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/018_meet-up_text-mining/index.html">
 <h3 class="no-anchor listing-title">
-Text Mining with R: Extracting insights from user-generated content
+<a href="./posts/018_meet-up_text-mining/index.html" class="no-external">Text Mining with R: Extracting insights from user-generated content</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/018_meet-up_text-mining/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('text-mining'); return false;">
 text-mining
 </div>
 </div>
-<a href="./posts/018_meet-up_text-mining/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/018_meet-up_text-mining/index.html -->
+<a href="./posts/018_meet-up_text-mining/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/018_meet-up_text-mining/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/018_meet-up_text-mining/index.html">
+<a href="./posts/018_meet-up_text-mining/index.html" class="no-external">
 <div class="listing-date">
 Sep 2, 2021
 </div>
@@ -703,32 +742,30 @@ Umesh H.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-categories="simulation" data-listing-date-sort="1628136000000" data-listing-file-modified-sort="1675119207294" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="16" data-categories="simulation" data-listing-date-sort="1628136000000" data-listing-file-modified-sort="1716381373408" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="105">
 <div class="thumbnail">
-<p><a href="./posts/017_meet-up_monte-carlo-finance/index.html"> <img src="./posts/017_meet-up_monte-carlo-finance/finance.PNG" class="thumbnail-image"> </a></p>
+<p><a href="./posts/017_meet-up_monte-carlo-finance/index.html" class="no-external"></a></p><a href="./posts/017_meet-up_monte-carlo-finance/index.html" class="no-external">
+<p><img src="./posts/017_meet-up_monte-carlo-finance/finance.PNG" class="thumbnail-image"></p>
+</a><p><a href="./posts/017_meet-up_monte-carlo-finance/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/017_meet-up_monte-carlo-finance/index.html">
 <h3 class="no-anchor listing-title">
-R in Finance: Monte Carlo Model for Pricing European Options
+<a href="./posts/017_meet-up_monte-carlo-finance/index.html" class="no-external">R in Finance: Monte Carlo Model for Pricing European Options</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/017_meet-up_monte-carlo-finance/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('simulation'); return false;">
 simulation
 </div>
 </div>
-<a href="./posts/017_meet-up_monte-carlo-finance/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/017_meet-up_monte-carlo-finance/index.html -->
+<a href="./posts/017_meet-up_monte-carlo-finance/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/017_meet-up_monte-carlo-finance/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/017_meet-up_monte-carlo-finance/index.html">
+<a href="./posts/017_meet-up_monte-carlo-finance/index.html" class="no-external">
 <div class="listing-date">
 Aug 5, 2021
 </div>
@@ -738,32 +775,30 @@ Umesh H. &amp; Adam B.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="social" data-listing-date-sort="1625112000000" data-listing-file-modified-sort="1675119207272" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="17" data-categories="social" data-listing-date-sort="1625112000000" data-listing-file-modified-sort="1716381373392" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
 <div class="thumbnail">
-<p><a href="./posts/016_meet-up_analytics-open-mic-iI/index.html"> <img src="./posts/016_meet-up_analytics-open-mic-iI/roux.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/016_meet-up_analytics-open-mic-iI/index.html" class="no-external"></a></p><a href="./posts/016_meet-up_analytics-open-mic-iI/index.html" class="no-external">
+<p><img src="./posts/016_meet-up_analytics-open-mic-iI/roux.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/016_meet-up_analytics-open-mic-iI/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/016_meet-up_analytics-open-mic-iI/index.html">
 <h3 class="no-anchor listing-title">
-July Analytics Open Mic Night
+<a href="./posts/016_meet-up_analytics-open-mic-iI/index.html" class="no-external">July Analytics Open Mic Night</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/016_meet-up_analytics-open-mic-iI/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
 social
 </div>
 </div>
-<a href="./posts/016_meet-up_analytics-open-mic-iI/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/016_meet-up_analytics-open-mic-iI/index.html -->
+<a href="./posts/016_meet-up_analytics-open-mic-iI/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/016_meet-up_analytics-open-mic-iI/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/016_meet-up_analytics-open-mic-iI/index.html">
+<a href="./posts/016_meet-up_analytics-open-mic-iI/index.html" class="no-external">
 <div class="listing-date">
 Jul 1, 2021
 </div>
@@ -773,32 +808,30 @@ Umesh H.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-categories="social" data-listing-date-sort="1623902400000" data-listing-file-modified-sort="1675119207253" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="18" data-categories="social" data-listing-date-sort="1623902400000" data-listing-file-modified-sort="1716381373386" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
 <div class="thumbnail">
-<p><a href="./posts/015_meet-up_analytics-open-mic-i/index.html"> <img src="./posts/015_meet-up_analytics-open-mic-i/roux.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/015_meet-up_analytics-open-mic-i/index.html" class="no-external"></a></p><a href="./posts/015_meet-up_analytics-open-mic-i/index.html" class="no-external">
+<p><img src="./posts/015_meet-up_analytics-open-mic-i/roux.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/015_meet-up_analytics-open-mic-i/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/015_meet-up_analytics-open-mic-i/index.html">
 <h3 class="no-anchor listing-title">
-June Analytics Open Mic Night
+<a href="./posts/015_meet-up_analytics-open-mic-i/index.html" class="no-external">June Analytics Open Mic Night</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/015_meet-up_analytics-open-mic-i/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
 social
 </div>
 </div>
-<a href="./posts/015_meet-up_analytics-open-mic-i/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/015_meet-up_analytics-open-mic-i/index.html -->
+<a href="./posts/015_meet-up_analytics-open-mic-i/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/015_meet-up_analytics-open-mic-i/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/015_meet-up_analytics-open-mic-i/index.html">
+<a href="./posts/015_meet-up_analytics-open-mic-i/index.html" class="no-external">
 <div class="listing-date">
 Jun 17, 2021
 </div>
@@ -808,32 +841,30 @@ Umesh H.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="18" data-categories="blogdown" data-listing-date-sort="1610514000000" data-listing-file-modified-sort="1675119207234" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="19" data-categories="blogdown" data-listing-date-sort="1610514000000" data-listing-file-modified-sort="1716381373370" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="38">
 <div class="thumbnail">
-<p><a href="./posts/014_meet-up_blogdown/index.html"> <img src="./posts/014_meet-up_blogdown/blogdown.PNG" class="thumbnail-image"> </a></p>
+<p><a href="./posts/014_meet-up_blogdown/index.html" class="no-external"></a></p><a href="./posts/014_meet-up_blogdown/index.html" class="no-external">
+<p><img src="./posts/014_meet-up_blogdown/blogdown.PNG" class="thumbnail-image"></p>
+</a><p><a href="./posts/014_meet-up_blogdown/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/014_meet-up_blogdown/index.html">
 <h3 class="no-anchor listing-title">
-Turning your R code into a blog post
+<a href="./posts/014_meet-up_blogdown/index.html" class="no-external">Turning your R code into a blog post</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/014_meet-up_blogdown/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('blogdown'); return false;">
 blogdown
 </div>
 </div>
-<a href="./posts/014_meet-up_blogdown/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/014_meet-up_blogdown/index.html -->
+<a href="./posts/014_meet-up_blogdown/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/014_meet-up_blogdown/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/014_meet-up_blogdown/index.html">
+<a href="./posts/014_meet-up_blogdown/index.html" class="no-external">
 <div class="listing-date">
 Jan 13, 2021
 </div>
@@ -843,32 +874,30 @@ Adam B. Frank B.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="19" data-categories="plumber" data-listing-date-sort="1605762000000" data-listing-file-modified-sort="1675119207212" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="20" data-categories="plumber" data-listing-date-sort="1605762000000" data-listing-file-modified-sort="1716381373343" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
 <div class="thumbnail">
-<p><a href="./posts/013_meet-up_api-plumber/index.html"> <img src="./posts/013_meet-up_api-plumber/plumber.PNG" class="thumbnail-image"> </a></p>
+<p><a href="./posts/013_meet-up_api-plumber/index.html" class="no-external"></a></p><a href="./posts/013_meet-up_api-plumber/index.html" class="no-external">
+<p><img src="./posts/013_meet-up_api-plumber/plumber.PNG" class="thumbnail-image"></p>
+</a><p><a href="./posts/013_meet-up_api-plumber/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/013_meet-up_api-plumber/index.html">
 <h3 class="no-anchor listing-title">
-Testing an API wrapper with Plumber
+<a href="./posts/013_meet-up_api-plumber/index.html" class="no-external">Testing an API wrapper with Plumber</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/013_meet-up_api-plumber/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('plumber'); return false;">
 plumber
 </div>
 </div>
-<a href="./posts/013_meet-up_api-plumber/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/013_meet-up_api-plumber/index.html -->
+<a href="./posts/013_meet-up_api-plumber/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/013_meet-up_api-plumber/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/013_meet-up_api-plumber/index.html">
+<a href="./posts/013_meet-up_api-plumber/index.html" class="no-external">
 <div class="listing-date">
 Nov 19, 2020
 </div>
@@ -878,32 +907,30 @@ Adam B.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="20" data-categories="hack-a-thon" data-listing-date-sort="1583384400000" data-listing-file-modified-sort="1675119207194" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="21" data-categories="hack-a-thon" data-listing-date-sort="1583384400000" data-listing-file-modified-sort="1716381373335" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="76">
 <div class="thumbnail">
-<p><a href="./posts/012_meet-up_r-hack-a-thon/index.html"> <img src="./posts/012_meet-up_r-hack-a-thon/hackathon.PNG" class="thumbnail-image"> </a></p>
+<p><a href="./posts/012_meet-up_r-hack-a-thon/index.html" class="no-external"></a></p><a href="./posts/012_meet-up_r-hack-a-thon/index.html" class="no-external">
+<p><img src="./posts/012_meet-up_r-hack-a-thon/hackathon.PNG" class="thumbnail-image"></p>
+</a><p><a href="./posts/012_meet-up_r-hack-a-thon/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/012_meet-up_r-hack-a-thon/index.html">
 <h3 class="no-anchor listing-title">
-R Hack-a-thon
+<a href="./posts/012_meet-up_r-hack-a-thon/index.html" class="no-external">R Hack-a-thon</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/012_meet-up_r-hack-a-thon/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('hack-a-thon'); return false;">
 hack-a-thon
 </div>
 </div>
-<a href="./posts/012_meet-up_r-hack-a-thon/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/012_meet-up_r-hack-a-thon/index.html -->
+<a href="./posts/012_meet-up_r-hack-a-thon/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/012_meet-up_r-hack-a-thon/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/012_meet-up_r-hack-a-thon/index.html">
+<a href="./posts/012_meet-up_r-hack-a-thon/index.html" class="no-external">
 <div class="listing-date">
 Mar 5, 2020
 </div>
@@ -913,32 +940,30 @@ Adam B.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="21" data-categories="social" data-listing-date-sort="1576731600000" data-listing-file-modified-sort="1675119207175" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="22" data-categories="social" data-listing-date-sort="1576731600000" data-listing-file-modified-sort="1716381373308" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
 <div class="thumbnail">
-<p><a href="./posts/011_meet-up_hexmas-party/index.html"> <img src="./posts/011_meet-up_hexmas-party/hexmas.PNG" class="thumbnail-image"> </a></p>
+<p><a href="./posts/011_meet-up_hexmas-party/index.html" class="no-external"></a></p><a href="./posts/011_meet-up_hexmas-party/index.html" class="no-external">
+<p><img src="./posts/011_meet-up_hexmas-party/hexmas.PNG" class="thumbnail-image"></p>
+</a><p><a href="./posts/011_meet-up_hexmas-party/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/011_meet-up_hexmas-party/index.html">
 <h3 class="no-anchor listing-title">
-Merry Hexmas: A holiday paRty
+<a href="./posts/011_meet-up_hexmas-party/index.html" class="no-external">Merry Hexmas: A holiday paRty</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/011_meet-up_hexmas-party/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
 social
 </div>
 </div>
-<a href="./posts/011_meet-up_hexmas-party/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/011_meet-up_hexmas-party/index.html -->
+<a href="./posts/011_meet-up_hexmas-party/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/011_meet-up_hexmas-party/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/011_meet-up_hexmas-party/index.html">
+<a href="./posts/011_meet-up_hexmas-party/index.html" class="no-external">
 <div class="listing-date">
 Dec 19, 2019
 </div>
@@ -948,32 +973,30 @@ David D. &amp; Jaclyn J.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="22" data-categories="modeling" data-listing-date-sort="1573016400000" data-listing-file-modified-sort="1675119207156" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="23" data-categories="modeling" data-listing-date-sort="1573016400000" data-listing-file-modified-sort="1716381373293" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="91">
 <div class="thumbnail">
-<p><a href="./posts/010_meet-up_ecosystem-modeling/index.html"> <img src="./posts/010_meet-up_ecosystem-modeling/eco_system.PNG" class="thumbnail-image"> </a></p>
+<p><a href="./posts/010_meet-up_ecosystem-modeling/index.html" class="no-external"></a></p><a href="./posts/010_meet-up_ecosystem-modeling/index.html" class="no-external">
+<p><img src="./posts/010_meet-up_ecosystem-modeling/eco_system.PNG" class="thumbnail-image"></p>
+</a><p><a href="./posts/010_meet-up_ecosystem-modeling/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/010_meet-up_ecosystem-modeling/index.html">
 <h3 class="no-anchor listing-title">
-Ecosystem modeling with presence-only data in R
+<a href="./posts/010_meet-up_ecosystem-modeling/index.html" class="no-external">Ecosystem modeling with presence-only data in R</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/010_meet-up_ecosystem-modeling/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('modeling'); return false;">
 modeling
 </div>
 </div>
-<a href="./posts/010_meet-up_ecosystem-modeling/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/010_meet-up_ecosystem-modeling/index.html -->
+<a href="./posts/010_meet-up_ecosystem-modeling/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/010_meet-up_ecosystem-modeling/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/010_meet-up_ecosystem-modeling/index.html">
+<a href="./posts/010_meet-up_ecosystem-modeling/index.html" class="no-external">
 <div class="listing-date">
 Nov 6, 2019
 </div>
@@ -983,32 +1006,30 @@ David D.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="23" data-categories="etl" data-listing-date-sort="1569470400000" data-listing-file-modified-sort="1675119207136" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="24" data-categories="etl" data-listing-date-sort="1569470400000" data-listing-file-modified-sort="1716381373282" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="92">
 <div class="thumbnail">
-<p><a href="./posts/009_meet-up_etl-machine/index.html"> <img src="./posts/009_meet-up_etl-machine/etl_machine.PNG" class="thumbnail-image"> </a></p>
+<p><a href="./posts/009_meet-up_etl-machine/index.html" class="no-external"></a></p><a href="./posts/009_meet-up_etl-machine/index.html" class="no-external">
+<p><img src="./posts/009_meet-up_etl-machine/etl_machine.PNG" class="thumbnail-image"></p>
+</a><p><a href="./posts/009_meet-up_etl-machine/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/009_meet-up_etl-machine/index.html">
 <h3 class="no-anchor listing-title">
-The ETL Machine: An approach to ETL in R, Part 1 - Writing good functions
+<a href="./posts/009_meet-up_etl-machine/index.html" class="no-external">The ETL Machine: An approach to ETL in R, Part 1 - Writing good functions</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/009_meet-up_etl-machine/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('etl'); return false;">
 etl
 </div>
 </div>
-<a href="./posts/009_meet-up_etl-machine/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/009_meet-up_etl-machine/index.html -->
+<a href="./posts/009_meet-up_etl-machine/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/009_meet-up_etl-machine/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/009_meet-up_etl-machine/index.html">
+<a href="./posts/009_meet-up_etl-machine/index.html" class="no-external">
 <div class="listing-date">
 Sep 26, 2019
 </div>
@@ -1018,32 +1039,30 @@ David D.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="24" data-categories="data-viz" data-listing-date-sort="1561003200000" data-listing-file-modified-sort="1675119207115" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="25" data-categories="data-viz" data-listing-date-sort="1561003200000" data-listing-file-modified-sort="1716381373261" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
 <div class="thumbnail">
-<p><a href="./posts/008_meet-up_us-mapping/index.html"> <img src="./posts/008_meet-up_us-mapping/us-mapping.PNG" class="thumbnail-image"> </a></p>
+<p><a href="./posts/008_meet-up_us-mapping/index.html" class="no-external"></a></p><a href="./posts/008_meet-up_us-mapping/index.html" class="no-external">
+<p><img data-src="./posts/008_meet-up_us-mapping/us-mapping.PNG" class="thumbnail-image"></p>
+</a><p><a href="./posts/008_meet-up_us-mapping/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/008_meet-up_us-mapping/index.html">
 <h3 class="no-anchor listing-title">
-Visualizing Socioeconomic Status in the United States
+<a href="./posts/008_meet-up_us-mapping/index.html" class="no-external">Visualizing Socioeconomic Status in the United States</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/008_meet-up_us-mapping/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('data-viz'); return false;">
 data-viz
 </div>
 </div>
-<a href="./posts/008_meet-up_us-mapping/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/008_meet-up_us-mapping/index.html -->
+<a href="./posts/008_meet-up_us-mapping/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/008_meet-up_us-mapping/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/008_meet-up_us-mapping/index.html">
+<a href="./posts/008_meet-up_us-mapping/index.html" class="no-external">
 <div class="listing-date">
 Jun 20, 2019
 </div>
@@ -1053,32 +1072,30 @@ David D.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="25" data-categories="ocr" data-listing-date-sort="1556769600000" data-listing-file-modified-sort="1675119207096" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="26" data-categories="ocr" data-listing-date-sort="1556769600000" data-listing-file-modified-sort="1716381373243" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
 <div class="thumbnail">
-<p><a href="./posts/007_meet-up_tesseract-ocr/index.html"> <img data-src="./posts/007_meet-up_tesseract-ocr/tesseract.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/007_meet-up_tesseract-ocr/index.html" class="no-external"></a></p><a href="./posts/007_meet-up_tesseract-ocr/index.html" class="no-external">
+<p><img data-src="./posts/007_meet-up_tesseract-ocr/tesseract.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/007_meet-up_tesseract-ocr/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/007_meet-up_tesseract-ocr/index.html">
 <h3 class="no-anchor listing-title">
-Optical character recognition using Tesseract
+<a href="./posts/007_meet-up_tesseract-ocr/index.html" class="no-external">Optical character recognition using Tesseract</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/007_meet-up_tesseract-ocr/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('ocr'); return false;">
 ocr
 </div>
 </div>
-<a href="./posts/007_meet-up_tesseract-ocr/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/007_meet-up_tesseract-ocr/index.html -->
+<a href="./posts/007_meet-up_tesseract-ocr/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/007_meet-up_tesseract-ocr/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/007_meet-up_tesseract-ocr/index.html">
+<a href="./posts/007_meet-up_tesseract-ocr/index.html" class="no-external">
 <div class="listing-date">
 May 2, 2019
 </div>
@@ -1088,32 +1105,30 @@ David D.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="26" data-categories="sparklyr" data-listing-date-sort="1551934800000" data-listing-file-modified-sort="1675119207077" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="27" data-categories="sparklyr" data-listing-date-sort="1551934800000" data-listing-file-modified-sort="1716381373210" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="76">
 <div class="thumbnail">
-<p><a href="./posts/006_meet-up_spark/index.html"> <img data-src="./posts/006_meet-up_spark/sparklyr.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/006_meet-up_spark/index.html" class="no-external"></a></p><a href="./posts/006_meet-up_spark/index.html" class="no-external">
+<p><img data-src="./posts/006_meet-up_spark/sparklyr.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/006_meet-up_spark/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/006_meet-up_spark/index.html">
 <h3 class="no-anchor listing-title">
-Analyzing Large Datasets in R or: How I Learned to Stop Worrying and Love Spark
+<a href="./posts/006_meet-up_spark/index.html" class="no-external">Analyzing Large Datasets in R or: How I Learned to Stop Worrying and Love Spark</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/006_meet-up_spark/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('sparklyr'); return false;">
 sparklyr
 </div>
 </div>
-<a href="./posts/006_meet-up_spark/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/006_meet-up_spark/index.html -->
+<a href="./posts/006_meet-up_spark/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/006_meet-up_spark/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/006_meet-up_spark/index.html">
+<a href="./posts/006_meet-up_spark/index.html" class="no-external">
 <div class="listing-date">
 Mar 7, 2019
 </div>
@@ -1123,19 +1138,19 @@ David D.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="27" data-categories="docker,markdown" data-listing-date-sort="1548306000000" data-listing-file-modified-sort="1675119207076" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="28" data-categories="docker,markdown" data-listing-date-sort="1548306000000" data-listing-file-modified-sort="1716381373210" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="72">
 <div class="thumbnail">
-<p><a href="./posts/005_meet-up_rmarkdown-docker/index.html"> <img data-src="./posts/005_meet-up_rmarkdown-docker/docker.PNG" class="thumbnail-image"> </a></p>
+<p><a href="./posts/005_meet-up_rmarkdown-docker/index.html" class="no-external"></a></p><a href="./posts/005_meet-up_rmarkdown-docker/index.html" class="no-external">
+<p><img data-src="./posts/005_meet-up_rmarkdown-docker/docker.PNG" class="thumbnail-image"></p>
+</a><p><a href="./posts/005_meet-up_rmarkdown-docker/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/005_meet-up_rmarkdown-docker/index.html">
 <h3 class="no-anchor listing-title">
-A modern reporting toolchain: RMarkdown with containers
+<a href="./posts/005_meet-up_rmarkdown-docker/index.html" class="no-external">A modern reporting toolchain: RMarkdown with containers</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/005_meet-up_rmarkdown-docker/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('docker'); return false;">
 docker
@@ -1144,14 +1159,12 @@ docker
 markdown
 </div>
 </div>
-<a href="./posts/005_meet-up_rmarkdown-docker/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/005_meet-up_rmarkdown-docker/index.html -->
+<a href="./posts/005_meet-up_rmarkdown-docker/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/005_meet-up_rmarkdown-docker/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/005_meet-up_rmarkdown-docker/index.html">
+<a href="./posts/005_meet-up_rmarkdown-docker/index.html" class="no-external">
 <div class="listing-date">
 Jan 24, 2019
 </div>
@@ -1161,32 +1174,30 @@ Zhenning X.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="28" data-categories="python" data-listing-date-sort="1544072400000" data-listing-file-modified-sort="1675119207072" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="29" data-categories="python" data-listing-date-sort="1544072400000" data-listing-file-modified-sort="1716381373210" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="106">
 <div class="thumbnail">
-<p><a href="./posts/004_meet-up_r-python-love-story/index.html"> <img data-src="./posts/004_meet-up_r-python-love-story/python_r.PNG" class="thumbnail-image"> </a></p>
+<p><a href="./posts/004_meet-up_r-python-love-story/index.html" class="no-external"></a></p><a href="./posts/004_meet-up_r-python-love-story/index.html" class="no-external">
+<p><img data-src="./posts/004_meet-up_r-python-love-story/python_r.PNG" class="thumbnail-image"></p>
+</a><p><a href="./posts/004_meet-up_r-python-love-story/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/004_meet-up_r-python-love-story/index.html">
 <h3 class="no-anchor listing-title">
-R + Python: A Love Story
+<a href="./posts/004_meet-up_r-python-love-story/index.html" class="no-external">R + Python: A Love Story</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/004_meet-up_r-python-love-story/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
 python
 </div>
 </div>
-<a href="./posts/004_meet-up_r-python-love-story/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/004_meet-up_r-python-love-story/index.html -->
+<a href="./posts/004_meet-up_r-python-love-story/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/004_meet-up_r-python-love-story/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/004_meet-up_r-python-love-story/index.html">
+<a href="./posts/004_meet-up_r-python-love-story/index.html" class="no-external">
 <div class="listing-date">
 Dec 6, 2018
 </div>
@@ -1196,32 +1207,30 @@ David D. &amp; Adam R.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="29" data-categories="tidyverse" data-listing-date-sort="1540440000000" data-listing-file-modified-sort="1675119207070" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="30" data-categories="tidyverse" data-listing-date-sort="1540440000000" data-listing-file-modified-sort="1716381373210" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="89">
 <div class="thumbnail">
-<p><a href="./posts/003_meet-up_dplyr-tidyverse/index.html"> <img data-src="./posts/003_meet-up_dplyr-tidyverse/dplyr2.PNG" class="thumbnail-image"> </a></p>
+<p><a href="./posts/003_meet-up_dplyr-tidyverse/index.html" class="no-external"></a></p><a href="./posts/003_meet-up_dplyr-tidyverse/index.html" class="no-external">
+<p><img data-src="./posts/003_meet-up_dplyr-tidyverse/dplyr2.PNG" class="thumbnail-image"></p>
+</a><p><a href="./posts/003_meet-up_dplyr-tidyverse/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/003_meet-up_dplyr-tidyverse/index.html">
 <h3 class="no-anchor listing-title">
-Dplyr and the Tidyverse: A crash course
+<a href="./posts/003_meet-up_dplyr-tidyverse/index.html" class="no-external">Dplyr and the Tidyverse: A crash course</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/003_meet-up_dplyr-tidyverse/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('tidyverse'); return false;">
 tidyverse
 </div>
 </div>
-<a href="./posts/003_meet-up_dplyr-tidyverse/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/003_meet-up_dplyr-tidyverse/index.html -->
+<a href="./posts/003_meet-up_dplyr-tidyverse/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/003_meet-up_dplyr-tidyverse/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/003_meet-up_dplyr-tidyverse/index.html">
+<a href="./posts/003_meet-up_dplyr-tidyverse/index.html" class="no-external">
 <div class="listing-date">
 Oct 25, 2018
 </div>
@@ -1231,19 +1240,19 @@ David D.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="30" data-categories="purrr,quosures" data-listing-date-sort="1537416000000" data-listing-file-modified-sort="1675119207066" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="31" data-categories="purrr,quosures" data-listing-date-sort="1537416000000" data-listing-file-modified-sort="1716381373210" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="111">
 <div class="thumbnail">
-<p><a href="./posts/002_meet-up_inaugural/index.html"> <img data-src="./posts/002_meet-up_inaugural/magrittr.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/002_meet-up_inaugural/index.html" class="no-external"></a></p><a href="./posts/002_meet-up_inaugural/index.html" class="no-external">
+<p><img data-src="./posts/002_meet-up_inaugural/magrittr.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/002_meet-up_inaugural/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/002_meet-up_inaugural/index.html">
 <h3 class="no-anchor listing-title">
-Inaugural meetup for the Greater Portland useR Group
+<a href="./posts/002_meet-up_inaugural/index.html" class="no-external">Inaugural meetup for the Greater Portland useR Group</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/002_meet-up_inaugural/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('purrr'); return false;">
 purrr
@@ -1252,14 +1261,12 @@ purrr
 quosures
 </div>
 </div>
-<a href="./posts/002_meet-up_inaugural/index.html">
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/002_meet-up_inaugural/index.html -->
+<a href="./posts/002_meet-up_inaugural/index.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/002_meet-up_inaugural/index.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/002_meet-up_inaugural/index.html">
+<a href="./posts/002_meet-up_inaugural/index.html" class="no-external">
 <div class="listing-date">
 Sep 20, 2018
 </div>
@@ -1269,25 +1276,25 @@ Adam B.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="31" data-listing-date-sort="NaN" data-listing-file-modified-sort="1680232377186" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="21">
+<div class="quarto-post image-right" data-index="32" data-listing-date-sort="NaN" data-listing-file-modified-sort="1716381373543" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="21" data-listing-word-count-sort="4192">
 <div class="thumbnail">
-<p><a href="./posts/023_meet-up_data-mining/meetup/meetup.html"> <!-- img(9CEB782EFEE6)[progressive=true, height=]:posts/023_meet-up_data-mining/meetup/meetup.html --> </a></p>
+<p><a href="./posts/023_meet-up_data-mining/meetup/meetup.html" class="no-external"></a></p><a href="./posts/023_meet-up_data-mining/meetup/meetup.html" class="no-external">
+<!-- img(9CEB782EFEE6)[progressive=true, height=]:posts/023_meet-up_data-mining/meetup/meetup.html -->
+</a><p><a href="./posts/023_meet-up_data-mining/meetup/meetup.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/023_meet-up_data-mining/meetup/meetup.html">
 <h3 class="no-anchor listing-title">
-Frequent Symptom Mining
+<a href="./posts/023_meet-up_data-mining/meetup/meetup.html" class="no-external">Frequent Symptom Mining</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/023_meet-up_data-mining/meetup/meetup.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-<!-- desc(5A0113B34292)[max=175]:posts/023_meet-up_data-mining/meetup/meetup.html -->
+<a href="./posts/023_meet-up_data-mining/meetup/meetup.html" class="no-external"><!-- desc(5A0113B34292)[max=175]:posts/023_meet-up_data-mining/meetup/meetup.html --></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/023_meet-up_data-mining/meetup/meetup.html">
+<a href="./posts/023_meet-up_data-mining/meetup/meetup.html" class="no-external">
 <div class="listing-date">
 Invalid Date
 </div>
@@ -1384,10 +1391,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1397,8 +1421,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1410,7 +1443,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -1454,6 +1610,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1479,6 +1636,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1539,6 +1722,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 

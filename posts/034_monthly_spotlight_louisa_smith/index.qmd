@@ -8,7 +8,7 @@ image: "louisa_smith_spotlight_logo.png"
 
 ```{r echo=FALSE}
 
-knitr::include_graphics("susan_mcclatchy_spotlight_image.png")
+knitr::include_graphics("louisa_smith_spotlight_logo.png")
 
 ```
 
