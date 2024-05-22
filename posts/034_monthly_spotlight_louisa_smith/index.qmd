@@ -1,0 +1,53 @@
+---
+title: "May Spotlight: Louisa Smith - Connecting Data Science and Public Health at the Roux Institute"
+author: "Donald S."
+date: 2024-05-23
+categories: [spotlight]
+image: "louisa_smith_spotlight_logo.png"
+---
+
+```{r echo=FALSE}
+
+knitr::include_graphics("susan_mcclatchy_spotlight_image.png")
+
+```
+
+**Introduction:**
+
+I am Louisa Smith, an Assistant Professor in the Northeastern Department of Public Health and Health Sciences. I also have a joint appointment at the Roux Institute, where I contribute to various interdisciplinary projects. As an epidemiologist and biostatistician, I focus on public health research, data analysis, and mentoring students in these fields.
+
+**1. Discovering R - My Initial Spark:**
+
+*What got you interested in R?*
+
+I started learning R at the beginning of my Master's degree in epidemiology back in 2014. As I was starting grad school, I knew I would need to learn some statistical software. There was an introductory R class offered right before real classes started, so I decided to attend. I just showed up and fell in love with it from the very beginning.
+
+**2. R in Practice: Leveraging Statistical Computing to Drive Healthcare Research**
+
+*Do you use R at work? How?*
+
+Yes, I use R extensively at work. It's the main software I rely on for my analyses. Although I don't get to do as much of my own coding as I used to since I spend a lot of time advising students, I still use R weekly. I perform all my statistical analyses, create figures and tables, and often write manuscripts using R. I've even created my personal website in R. Beyond work, I use R for fun projects and data analysis in my personal life. It’s truly an integral part of everything I do.
+
+**3. Beyond Programming**
+
+*What do you do when you're not programming?*
+
+When I'm not programming, I spend a lot of time working with students, writing papers, and attending meetings. I also design studies that will eventually use R. Outside of work, I love to be outdoors—hiking, running, and biking are some of my favorite activities. I also enjoy reading and relaxing. 
+
+**4. Anticipating Trends**
+
+*What trends do you see in R language over the next year?*
+
+I feel a bit out of the loop with what's currently trending in the R community since I left Twitter and most R-related people moved away from the platform. However, I see the capabilities and creativity people have with R continuing to grow. Quarto, for example, has been fantastic to learn. I'm trying to move everything I used to do in R Markdown over to Quarto, as I believe it's the way of the future. While I don’t use Python much, I appreciate that Quarto integrates well with it, which is really useful.
+
+**5. Community and Coding**
+
+*What is your favorite R event that you have attended?*
+
+My favorite R event was with the Boston R Ladies group, where I had the opportunity to give a talk. It wasn't my talk that made it my favorite, but the chance to meet so many people who use R. There were a lot of young people and students who were interested in what I had to say, which made it a fun and engaging community experience. My talk was about how I used R in various ways to explore different aspects of my experience going through cancer treatment.
+
+**6. Future Endeavors**
+
+*What projects (R-focused or otherwise) are you excited about in the coming year?*
+
+I have several research projects that I'm excited about for the coming year. One of the most interesting directions I'm moving into is more qualitative and community-based research. One project we're working on involves rural obstetrics facilities, particularly looking at why many rural hospitals have closed their maternity units, exploring the challenges in attracting healthcare professionals to rural areas and improving support for these communities. As part of another project, we’re conducting a survey about paid postpartum leave, with the goal of studying Maine's new paid family and medical leave law and its effects on the health of new mothers and babies. This law provides an option for non-employer-sponsored paid family and medical leave for various reasons, including the arrival of a new child or a medical issue, and offers up to 12 weeks of leave.
