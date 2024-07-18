@@ -1,0 +1,53 @@
+---
+title: "June Spotlight: David Denton - From Excel to R: My Journey in Data Engineering and Community Building"
+author: "Donald S."
+date: 2024-06-30
+categories: [spotlight]
+image: "denton_logo.png"
+---
+
+```{r echo=FALSE}
+
+knitr::include_graphics("denton_logo.png")
+
+```
+
+**Introduction:**
+
+I am David Denton, a Data Engineer at the Medical Data Insights team at IDEXX Laboratories. Additionally, I am the founder of the MaineR User Group, formerly the Greater Portland R UserGroup.
+
+**1. Discovering R - My Initial Spark:**
+
+*What got you interested in R?*
+
+I initially began using R during my graduate program at the University of Maine. I was a TA for a finance professor, and one of my responsibilities was to help him collect data for various research projects. He had several dozen Excel workbooks with VBA that collected bid-ask spread data from public exchanges like Yahoo Finance. Dealing with the inefficiency of that process made me realize there must be a better option than using Excel and VBA. That realization led me to discover and start using R.
+
+**2. R in Practice: Explaining Data Clearly Through Dashboarding**
+
+*Do you use R at work? How?*
+
+Yes, I have used R extensively in the past. I worked as an analyst and data visualization engineer at Cashtar Maine Health and Northern Light Health for about eight years. During that time, I used R almost daily for analytical tasks, creating visualizations, and building dashboards with tools like Shiny and Flexdashboard. Nowadays, as a Data Engineer, I support a team that uses R heavily, so while I'm involved with it peripherally, it's not as central to my day-to-day activities as it once was.
+
+**3. Beyond Programming**
+
+*What do you do when you're not programming?*
+
+When I'm not programming, I like to be outdoors and stay as active as possible with my family. We enjoy hiking, fishing, biking, and apple picking, depending on the season. I also love reading, playing video games, and cooking.
+
+**4. Anticipating Trends**
+
+*What trends do you see in R language over the next year?*
+
+Predicting trends can be tricky, but I'll share what I hope to see continue. One of the things I really appreciate about R is the ecosystem surrounding it. R is becoming more like a platform than just a language, with tools like Shiny, Quarto, Flexdashboard, and R Markdown extending its capabilities into publishing and communicating insights. This ecosystem makes it easy to build dashboards and communicate results without needing expensive software licenses like Power BI or Tableau. I hope to see this trend of integrated, powerful tools in the R ecosystem continue to grow.
+
+**5. Community and Coding**
+
+*What is your favorite R event that you have attended?*
+
+My favorite R event is the RStudio Conference. I've attended it two or three times, and it stands out for its excellent educational workshops, which are better than any other conference I've been to. The event gathers a great collection of people and offers valuable learning opportunities, making it a truly enjoyable experience.
+
+**6. Future Endeavors**
+
+*What projects (R-focused or otherwise) are you excited about in the coming year?*
+
+I was really excited about the possibilities of programming, even though I was only about four or five years into my programming journey at that time. The ability to explore new frontiers and unlock new opportunities through programming was thrilling. At my company, there weren't many avid R users, so I felt there must be more people in the Portland area or throughout Maine who shared this interest. Seeing that there were R user groups all over the country and receiving sponsorship support from the R Consortium, starting a local R user group seemed like an easy and beneficial decision.
