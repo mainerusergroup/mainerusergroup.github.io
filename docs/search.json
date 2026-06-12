@@ -1,80 +1,24 @@
 [
   {
+    "objectID": "future_presenters.html",
+    "href": "future_presenters.html",
+    "title": "Call for Presentations",
+    "section": "",
+    "text": "Want to give talk at a MaineR Event?\nThis is a great opportunity for R users and enthusiasts to come together, share their knowledge, and learn from one another in a relaxed and supportive setting. Whether you’re a beginner, an intermediate user, or an advanced practitioner, you are welcome to join us.\nThe format of our meetings is informal and interactive, allowing for an open exchange of ideas and experiences. We encourage attendees to actively participate in the discussions and ask questions. This is a wonderful opportunity to expand your understanding of R, and to connect with others who share your passion for this powerful tool.\nWe are currently looking for presenters to share their work, projects, and insights with the group. If you have something to share, we would love to hear from you! This is a great opportunity to showcase your skills and get feedback from the community.\nTo submit a topic proposal, please contact us with a brief description of what you would like to present. If you’re not sure what to present, don’t worry - we are happy to help you come up with something.\nWe are open to all of the following events types:\n\nSocial Gatherings (local breweries/ event spaces)\nWorkshops (virtual and in-person)\nPresentations (Guest speaker / lecture style)\n\nWhere will these events take place?\n\nWe are currently open to both virtual and hybrid events across Maine!\nPresentations with a physical location will be dependent on interest and availability."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "MaineR Users Group",
     "section": "",
-    "text": "June Spotlight: David Denton - From Excel to R: My Journey in Data Engineering and Community Building\n\n\n\n\n\n\nspotlight\n\n\n\n\n\n\n\n\n\nJun 30, 2024\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nMay Spotlight: Louisa Smith - Connecting Data Science and Public Health at the Roux Institute\n\n\n\n\n\n\nspotlight\n\n\n\n\n\n\n\n\n\nMay 23, 2024\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nApril Spotlight: Sue McClatchy - Integrating Bioinformatics and Educational Outreach at Jackson Laboratory\n\n\n\n\n\n\nspotlight\n\n\n\n\n\n\n\n\n\nApr 30, 2024\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nMarch Spotlight: Anya Cutler - Bridging Data Science and Neonatal Care at Maine Medical Center\n\n\n\n\n\n\nspotlight\n\n\n\n\n\n\n\n\n\nMar 29, 2024\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nFebruary Spotlight: Charting New Waters - Adam Kemberling’s Voyage Through Marine Research and R Innovation at the Gulf of Maine Research Institute\n\n\n\n\n\n\nspotlight\n\n\n\n\n\n\n\n\n\nFeb 29, 2024\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nJanuary Spotlight: Integrating R in Watershed Restoration Data Advocacy: Angie Reed’s Journey in Tribal Communities\n\n\n\n\n\n\nspotlight\n\n\n\n\n\n\n\n\n\nJan 31, 2024\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nBar Harbor Networking Event\n\n\n\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nOct 4, 2023\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nMaineR’s at POSIT::CONF(2023)\n\n\n\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nSep 20, 2023\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nJuly Data on Tap - MaineR Users Group Social Hour\n\n\n\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nJul 12, 2023\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to {targets}\n\n\n\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nMay 31, 2023\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nData Mining Methods for Improving Health Outcomes\n\n\n\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nMar 30, 2023\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nDonald Szlosek, the organizer of MaineR, interviewed by the R Consortium and Linux Foundation\n\n\n\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nMar 28, 2023\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nJanuary Data on Tap - MaineR Users Group Social Hour\n\n\n\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nJan 26, 2023\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nIt’s 2023 and we’re Back!\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 14, 2023\n\n\nDonald Szlosek\n\n\n\n\n\n\n\n\n\n\n\n\nExploring nature through {rvest}\n\n\n\n\n\n\ntext-mining\n\n\nrvest\n\n\n\n\n\n\n\n\n\nNov 4, 2021\n\n\nAdam B.\n\n\n\n\n\n\n\n\n\n\n\n\nPanel: A conversation with Scott Valcourt and Mark Wagy\n\n\n\n\n\n\npanel\n\n\n\n\n\n\n\n\n\nOct 7, 2021\n\n\nUmesh H. Adam B.\n\n\n\n\n\n\n\n\n\n\n\n\nText Mining with R: Extracting insights from user-generated content\n\n\n\n\n\n\ntext-mining\n\n\n\n\n\n\n\n\n\nSep 2, 2021\n\n\nUmesh H.\n\n\n\n\n\n\n\n\n\n\n\n\nR in Finance: Monte Carlo Model for Pricing European Options\n\n\n\n\n\n\nsimulation\n\n\n\n\n\n\n\n\n\nAug 5, 2021\n\n\nUmesh H. & Adam B.\n\n\n\n\n\n\n\n\n\n\n\n\nJuly Analytics Open Mic Night\n\n\n\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nJul 1, 2021\n\n\nUmesh H.\n\n\n\n\n\n\n\n\n\n\n\n\nJune Analytics Open Mic Night\n\n\n\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nJun 17, 2021\n\n\nUmesh H.\n\n\n\n\n\n\n\n\n\n\n\n\nTurning your R code into a blog post\n\n\n\n\n\n\nblogdown\n\n\n\n\n\n\n\n\n\nJan 13, 2021\n\n\nAdam B. Frank B.\n\n\n\n\n\n\n\n\n\n\n\n\nTesting an API wrapper with Plumber\n\n\n\n\n\n\nplumber\n\n\n\n\n\n\n\n\n\nNov 19, 2020\n\n\nAdam B.\n\n\n\n\n\n\n\n\n\n\n\n\nR Hack-a-thon\n\n\n\n\n\n\nhack-a-thon\n\n\n\n\n\n\n\n\n\nMar 5, 2020\n\n\nAdam B.\n\n\n\n\n\n\n\n\n\n\n\n\nMerry Hexmas: A holiday paRty\n\n\n\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nDec 19, 2019\n\n\nDavid D. & Jaclyn J.\n\n\n\n\n\n\n\n\n\n\n\n\nEcosystem modeling with presence-only data in R\n\n\n\n\n\n\nmodeling\n\n\n\n\n\n\n\n\n\nNov 6, 2019\n\n\nDavid D.\n\n\n\n\n\n\n\n\n\n\n\n\nThe ETL Machine: An approach to ETL in R, Part 1 - Writing good functions\n\n\n\n\n\n\netl\n\n\n\n\n\n\n\n\n\nSep 26, 2019\n\n\nDavid D.\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Socioeconomic Status in the United States\n\n\n\n\n\n\ndata-viz\n\n\n\n\n\n\n\n\n\nJun 20, 2019\n\n\nDavid D.\n\n\n\n\n\n\n\n\n\n\n\n\nOptical character recognition using Tesseract\n\n\n\n\n\n\nocr\n\n\n\n\n\n\n\n\n\nMay 2, 2019\n\n\nDavid D.\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyzing Large Datasets in R or: How I Learned to Stop Worrying and Love Spark\n\n\n\n\n\n\nsparklyr\n\n\n\n\n\n\n\n\n\nMar 7, 2019\n\n\nDavid D.\n\n\n\n\n\n\n\n\n\n\n\n\nA modern reporting toolchain: RMarkdown with containers\n\n\n\n\n\n\ndocker\n\n\nmarkdown\n\n\n\n\n\n\n\n\n\nJan 24, 2019\n\n\nZhenning X.\n\n\n\n\n\n\n\n\n\n\n\n\nR + Python: A Love Story\n\n\n\n\n\n\npython\n\n\n\n\n\n\n\n\n\nDec 6, 2018\n\n\nDavid D. & Adam R.\n\n\n\n\n\n\n\n\n\n\n\n\nDplyr and the Tidyverse: A crash course\n\n\n\n\n\n\ntidyverse\n\n\n\n\n\n\n\n\n\nOct 25, 2018\n\n\nDavid D.\n\n\n\n\n\n\n\n\n\n\n\n\nInaugural meetup for the Greater Portland useR Group\n\n\n\n\n\n\npurrr\n\n\nquosures\n\n\n\n\n\n\n\n\n\nSep 20, 2018\n\n\nAdam B.\n\n\n\n\n\n\n\n\n\n\n\n\nFrequent Symptom Mining\n\n\n\n\n\n\n\n\n\n\n\nInvalid Date\n\n\nJames Quinlan, Ph.D.\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Hello MaineRs!\nThe Greater Portland R User Group was initially founded in 2018 as a way to bring the R Users of Portland Maine together. With the hopes of becoming a state-wide user group, we have renamed to the MaineR Users Group.\nThe goal of this group is to explore and discuss R and how it is being used in data science, data analysis, visualization, data mining, predictive analytics, and beyond!\nPeople of all levels are welcome to attend, from those just getting started with R and predictive modelling to experts using R every day. While the focus is on the R programming language, presentations / talks from other languages/ fields are more than welcome!"
-  },
-  {
-    "objectID": "posts/001_welcome/index.html",
-    "href": "posts/001_welcome/index.html",
-    "title": "It’s 2023 and we’re Back!",
-    "section": "",
-    "text": "Hello, World!\n\n\n\n\n\nWith the hopes of becoming a state-wide user group, we have renamed to the MaineR Users Group!\nOur goal is to collaborate with different academic, industrial, and research organizations across the state of Maine!\nThis year, we are hoping to plan six events (one event every other month)!\nWhere can you find us?\nMeetUp\nLinkedIn\nEmail Us!"
-  },
-  {
-    "objectID": "posts/002_meet-up_inaugural/index.html",
-    "href": "posts/002_meet-up_inaugural/index.html",
-    "title": "Inaugural meetup for the Greater Portland useR Group",
-    "section": "",
-    "text": "Adam Black, Research Analyst at Maine Medical Center, will be presenting a talk on some advanced R programming concepts.\nThe talk will center around understanding a single function used for cleaning data in a database. By examining the function we will explore some of the more advanced programming concepts and language features in R. Topics will include the “…” (dot dot dot) argument, the pipe “%>%”, dplyr to SQL translation, the map reduce pattern using purrr, expressions and quosures, tidy evaluation, and meta programming. We will only be touching on each topic briefly in the context of understanding the data cleaning function.\nPeople of all skill levels are welcome (and encouraged) to join.\nhttps://www.meetup.com/greater-portland-data-science/events/253681409/"
+    "text": "June Spotlight: David Denton - From Excel to R: My Journey in Data Engineering and Community Building\n\n\n\nspotlight\n\n\n\n\n\n\n\n\n\nJun 30, 2024\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nMay Spotlight: Louisa Smith - Connecting Data Science and Public Health at the Roux Institute\n\n\n\nspotlight\n\n\n\n\n\n\n\n\n\nMay 23, 2024\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nApril Spotlight: Sue McClatchy - Integrating Bioinformatics and Educational Outreach at Jackson Laboratory\n\n\n\nspotlight\n\n\n\n\n\n\n\n\n\nApr 30, 2024\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nMarch Spotlight: Anya Cutler - Bridging Data Science and Neonatal Care at Maine Medical Center\n\n\n\nspotlight\n\n\n\n\n\n\n\n\n\nMar 29, 2024\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nFebruary Spotlight: Charting New Waters - Adam Kemberling’s Voyage Through Marine Research and R Innovation at the Gulf of Maine Research Institute\n\n\n\nspotlight\n\n\n\n\n\n\n\n\n\nFeb 29, 2024\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nJanuary Spotlight: Integrating R in Watershed Restoration Data Advocacy: Angie Reed’s Journey in Tribal Communities\n\n\n\nspotlight\n\n\n\n\n\n\n\n\n\nJan 31, 2024\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nBar Harbor Networking Event\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nOct 4, 2023\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nMaineR’s at POSIT::CONF(2023)\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nSep 20, 2023\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nJuly Data on Tap - MaineR Users Group Social Hour\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nJul 12, 2023\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to {targets}\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nMay 31, 2023\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nData Mining Methods for Improving Health Outcomes\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nMar 30, 2023\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nDonald Szlosek, the organizer of MaineR, interviewed by the R Consortium and Linux Foundation\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nMar 28, 2023\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nJanuary Data on Tap - MaineR Users Group Social Hour\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nJan 26, 2023\n\n\nDonald S.\n\n\n\n\n\n\n\n\n\n\n\n\nIt’s 2023 and we’re Back!\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 14, 2023\n\n\nDonald Szlosek\n\n\n\n\n\n\n\n\n\n\n\n\nExploring nature through {rvest}\n\n\n\ntext-mining\n\nrvest\n\n\n\n\n\n\n\n\n\nNov 4, 2021\n\n\nAdam B.\n\n\n\n\n\n\n\n\n\n\n\n\nPanel: A conversation with Scott Valcourt and Mark Wagy\n\n\n\npanel\n\n\n\n\n\n\n\n\n\nOct 7, 2021\n\n\nUmesh H. Adam B.\n\n\n\n\n\n\n\n\n\n\n\n\nText Mining with R: Extracting insights from user-generated content\n\n\n\ntext-mining\n\n\n\n\n\n\n\n\n\nSep 2, 2021\n\n\nUmesh H.\n\n\n\n\n\n\n\n\n\n\n\n\nR in Finance: Monte Carlo Model for Pricing European Options\n\n\n\nsimulation\n\n\n\n\n\n\n\n\n\nAug 5, 2021\n\n\nUmesh H. & Adam B.\n\n\n\n\n\n\n\n\n\n\n\n\nJuly Analytics Open Mic Night\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nJul 1, 2021\n\n\nUmesh H.\n\n\n\n\n\n\n\n\n\n\n\n\nJune Analytics Open Mic Night\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nJun 17, 2021\n\n\nUmesh H.\n\n\n\n\n\n\n\n\n\n\n\n\nTurning your R code into a blog post\n\n\n\nblogdown\n\n\n\n\n\n\n\n\n\nJan 13, 2021\n\n\nAdam B. Frank B.\n\n\n\n\n\n\n\n\n\n\n\n\nTesting an API wrapper with Plumber\n\n\n\nplumber\n\n\n\n\n\n\n\n\n\nNov 19, 2020\n\n\nAdam B.\n\n\n\n\n\n\n\n\n\n\n\n\nR Hack-a-thon\n\n\n\nhack-a-thon\n\n\n\n\n\n\n\n\n\nMar 5, 2020\n\n\nAdam B.\n\n\n\n\n\n\n\n\n\n\n\n\nMerry Hexmas: A holiday paRty\n\n\n\nsocial\n\n\n\n\n\n\n\n\n\nDec 19, 2019\n\n\nDavid D. & Jaclyn J.\n\n\n\n\n\n\n\n\n\n\n\n\nEcosystem modeling with presence-only data in R\n\n\n\nmodeling\n\n\n\n\n\n\n\n\n\nNov 6, 2019\n\n\nDavid D.\n\n\n\n\n\n\n\n\n\n\n\n\nThe ETL Machine: An approach to ETL in R, Part 1 - Writing good functions\n\n\n\netl\n\n\n\n\n\n\n\n\n\nSep 26, 2019\n\n\nDavid D.\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Socioeconomic Status in the United States\n\n\n\ndata-viz\n\n\n\n\n\n\n\n\n\nJun 20, 2019\n\n\nDavid D.\n\n\n\n\n\n\n\n\n\n\n\n\nOptical character recognition using Tesseract\n\n\n\nocr\n\n\n\n\n\n\n\n\n\nMay 2, 2019\n\n\nDavid D.\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyzing Large Datasets in R or: How I Learned to Stop Worrying and Love Spark\n\n\n\nsparklyr\n\n\n\n\n\n\n\n\n\nMar 7, 2019\n\n\nDavid D.\n\n\n\n\n\n\n\n\n\n\n\n\nA modern reporting toolchain: RMarkdown with containers\n\n\n\ndocker\n\nmarkdown\n\n\n\n\n\n\n\n\n\nJan 24, 2019\n\n\nZhenning X.\n\n\n\n\n\n\n\n\n\n\n\n\nInaugural meetup for the Greater Portland useR Group\n\n\n\npurrr\n\nquosures\n\n\n\n\n\n\n\n\n\nSep 20, 2018\n\n\nAdam B.\n\n\n\n\n\n\n\n\n\n\n\n\nFrequent Symptom Mining\n\n\n\n\n\n\n\n\nInvalid Date\n\n\nJames Quinlan, Ph.D.\n\n\n\n\n\n\n\n\n\n\n\n\nR + Python: A Love Story\n\n\n\npython\n\n\n\n\n\n\n\n\n\nDec 6, 2018\n\n\nDavid D. & Adam R.\n\n\n\n\n\n\n\n\n\n\n\n\nDplyr and the Tidyverse: A crash course\n\n\n\ntidyverse\n\n\n\n\n\n\n\n\n\nOct 25, 2018\n\n\nDavid D.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/003_meet-up_dplyr-tidyverse/index.html",
     "href": "posts/003_meet-up_dplyr-tidyverse/index.html",
     "title": "Dplyr and the Tidyverse: A crash course",
     "section": "",
-    "text": "David Denton, BI engineer at CashStar, will be taking the group on a deep dive into the world of data wrangling with dplyr. He will also discuss the analytical methodology that underlies all of the packages in the tidyverse. Novice and intermediate R users are encouraged to attend.\nThis meetup will be an interactive workshop where users can follow along and develop their own code as we go. Please have the “tidyverse” and “rlang” packages installed if you plan to write and run some of your own examples.\n> install.packages(c(‘tidyverse’, ‘rlang’))\nhttps://github.com/davidldenton/useR_group_20181025\nhttps://www.meetup.com/greater-portland-data-science/events/254992025/"
-  },
-  {
-    "objectID": "posts/004_meet-up_r-python-love-story/index.html",
-    "href": "posts/004_meet-up_r-python-love-story/index.html",
-    "title": "R + Python: A Love Story",
-    "section": "",
-    "text": "Adam Rosenblit, Data Scientist at Vets First Choice, and David Denton, BI Engineer at CashStar, will be co-hosting this Meetup, which aims to demonstrate how R and Python can be integrated in the same RStudio workflow via the Reticulate package. David will begin where we left off last time, with some tidyverse style data manipulation (and maybe a little plotting), and Adam will usher us into the realm of machine learning where he will be using Python’s XGBoost library for binary classification. If time permits, we will import the resulting model back into R and use it to make some pretty pictures to illustrate our results.\nhttps://www.meetup.com/greater-portland-data-science/events/256384084/"
-  },
-  {
-    "objectID": "posts/005_meet-up_rmarkdown-docker/index.html",
-    "href": "posts/005_meet-up_rmarkdown-docker/index.html",
-    "title": "A modern reporting toolchain: RMarkdown with containers",
-    "section": "",
-    "text": "We’ve got good tools for collaborating on code. Wouldn’t it be nice if we could collaborate on prose in similar ways? Using RMarkdown and Docker, Elliot Murphy will demonstrate how to build a custom report generation pipeline without the need to manage each collaborator’s development environment.\nElliot is the founder of kindlyops.com, a cybersecurity firm specializing in DevOps approaches to governance risk & compliance, serving regulated industries such as biotech, finance, and energy.\nhttps://www.meetup.com/greater-portland-data-science/events/257757046/"
-  },
-  {
-    "objectID": "posts/006_meet-up_spark/index.html",
-    "href": "posts/006_meet-up_spark/index.html",
-    "title": "Analyzing Large Datasets in R or: How I Learned to Stop Worrying and Love Spark",
-    "section": "",
-    "text": "The analysis of large datasets in R can be difficult. Available RAM limits the amount of data that can be efficiently loaded and processed in a typical R session. Thankfully, there are solutions to this problem. David Denton, a biomedical informatics engineer at the Maine Medical Center Research Institute, will explain how Spark can be used on the Google Cloud Platform to tame unwieldy data, using the same tidy tools that R users know and love.\nhttps://www.meetup.com/greater-portland-data-science/events/258798120/"
-  },
-  {
-    "objectID": "posts/007_meet-up_tesseract-ocr/index.html",
-    "href": "posts/007_meet-up_tesseract-ocr/index.html",
-    "title": "Optical character recognition using Tesseract",
-    "section": "",
-    "text": "Donald Szlosek, Biostatistician at IDEXX, will do a demonstration of optical character recognition in R. Optical character recognition is a process through which images of typed, handwritten, or printed text are electronically converted into machine-encoded text. The tesseract package provides R bindings to Tesseract, a powerful optical character recognition (OCR) engine that supports over 100 languages. Novice and intermediate R users are encouraged to attend.\nhttps://www.meetup.com/greater-portland-data-science/events/260738720/"
-  },
-  {
-    "objectID": "posts/008_meet-up_us-mapping/index.html",
-    "href": "posts/008_meet-up_us-mapping/index.html",
-    "title": "Visualizing Socioeconomic Status in the United States",
-    "section": "",
-    "text": "Frank Boscoe, Ph.D., recently retired from the New York State Department of Health and moved to Portland to start a consulting company, Pumphandle LLC, where he wrangles health data for the CDC and other clients. He will be demonstrating techniques for visualizing the socioeconomic profiles of U.S. states and cities using census data.\nhttps://www.meetup.com/greater-portland-data-science/events/261839539/"
-  },
-  {
-    "objectID": "posts/009_meet-up_etl-machine/index.html",
-    "href": "posts/009_meet-up_etl-machine/index.html",
-    "title": "The ETL Machine: An approach to ETL in R, Part 1 - Writing good functions",
-    "section": "",
-    "text": "There are lots of good reasons to avoid using R for ETL. But that doesn’t mean one shouldn’t try. Sometimes business constraints and lack of adequate tools make ETL orchestration far more painful than it needs to be. That is why David Denton is currently endeavoring to build a robust, portable, ETL Machine with R & Shiny. This is a work in progress that he is sharing in hopes of eliciting some helpful feedback (booing and hissing is acceptable as well). Part 1 will focus on writing versatile, well-documented functions in R.\nhttps://www.meetup.com/greater-portland-data-science/events/264749154/"
+    "text": "David Denton, BI engineer at CashStar, will be taking the group on a deep dive into the world of data wrangling with dplyr. He will also discuss the analytical methodology that underlies all of the packages in the tidyverse. Novice and intermediate R users are encouraged to attend.\nThis meetup will be an interactive workshop where users can follow along and develop their own code as we go. Please have the “tidyverse” and “rlang” packages installed if you plan to write and run some of your own examples.\n&gt; install.packages(c(‘tidyverse’, ‘rlang’))\nhttps://github.com/davidldenton/useR_group_20181025\nhttps://www.meetup.com/greater-portland-data-science/events/254992025/"
   },
   {
     "objectID": "posts/010_meet-up_ecosystem-modeling/index.html",
@@ -84,46 +28,11 @@
     "text": "Dr. Nick Record and Ben Tupper will share some of the modeling and forecasting work they have done using citizen observations and quasi-public presence-only data. They have developed several model and forecast systems for a variety of ecological species and events including jellyfish, ticks, and moose-vehicle crashes.\nDr. Nick Record is a computational ocean ecologist and senior research scientist at the Bigelow Laboratory for Ocean Sciences. Nick is also director of the Colby at Bigelow Semester program.\nBen Tupper is a software developer and senior lackey at the Bigelow Laboratory for Ocean Sciences."
   },
   {
-    "objectID": "posts/011_meet-up_hexmas-party/index.html",
-    "href": "posts/011_meet-up_hexmas-party/index.html",
-    "title": "Merry Hexmas: A holiday paRty",
+    "objectID": "posts/031_monthly_spotlight_susan_mcclatchy/index.html",
+    "href": "posts/031_monthly_spotlight_susan_mcclatchy/index.html",
+    "title": "April Spotlight: Sue McClatchy - Integrating Bioinformatics and Educational Outreach at Jackson Laboratory",
     "section": "",
-    "text": "We’ll be gathering at the Great Lost Bear for an informal holiday paRty. Feel free to bring your laptop and hack away at a Tidy Tuesday challenge, solicit group input for your new stats project, or just drink and be merry. ’Tis the season, after all.\nhttps://www.meetup.com/greater-portland-data-science/events/266969678/"
-  },
-  {
-    "objectID": "posts/012_meet-up_r-hack-a-thon/index.html",
-    "href": "posts/012_meet-up_r-hack-a-thon/index.html",
-    "title": "R Hack-a-thon",
-    "section": "",
-    "text": "Greetings R users!\nStarting out 2020 we would like to host an R hack-a-thon. Bring your laptops and we will break into groups and hack away at a tidy tuesday dataset from this repo: https://github.com/rfordatascience/tidytuesday/tree/master/data/2020\nThe most recent dataset is Measles vaccination data which might be a timely topic but you could also choose a different one as well. After ~45 minutes of hacking each group will give a ~10 minute presentation to group about what they found.\nhttps://www.meetup.com/greater-portland-data-science/events/268995227/"
-  },
-  {
-    "objectID": "posts/013_meet-up_api-plumber/index.html",
-    "href": "posts/013_meet-up_api-plumber/index.html",
-    "title": "Testing an API wrapper with Plumber",
-    "section": "",
-    "text": "It’s about time we get the group going again. I’ll get us started by talking about a recent challenge I had - how to write reproducible tests for an API wrapper package. Enter plumber - a easy way to create an restful API endpoint in R to test against. This will be a virtual meeting hosted on zoom. RSVP to get the zoom link.\nhttps://www.meetup.com/greater-portland-data-science/events/274355687/"
-  },
-  {
-    "objectID": "posts/014_meet-up_blogdown/index.html",
-    "href": "posts/014_meet-up_blogdown/index.html",
-    "title": "Turning your R code into a blog post",
-    "section": "",
-    "text": "If you are interested in embedding R code into a blog post, this presentation will show you how, using the blogdown package. You will also learn how to extend this approach to publish your own ebook using bookdown.\nhttps://www.meetup.com/greater-portland-data-science/events/275333867/"
-  },
-  {
-    "objectID": "posts/015_meet-up_analytics-open-mic-i/index.html",
-    "href": "posts/015_meet-up_analytics-open-mic-i/index.html",
-    "title": "June Analytics Open Mic Night",
-    "section": "",
-    "text": "In partnership with the Roux Institute in Portland we are starting a new series of meetups around data science and engineering. We hope this meetup will have some interesting content for R users but will not be restricted to R. We will meet every other week on Zoom and/or in person on the Roux campus. The format will be an informal analytics “open mic night” where anyone can bring a topic, present for 20-30 minutes, and get feedback from the group."
-  },
-  {
-    "objectID": "posts/016_meet-up_analytics-open-mic-iI/index.html",
-    "href": "posts/016_meet-up_analytics-open-mic-iI/index.html",
-    "title": "July Analytics Open Mic Night",
-    "section": "",
-    "text": "In partnership with the Roux Institute in Portland we are starting a new series of meetups around data science and engineering. We hope this meetup will have some interesting content for R users but will not be restricted to R. We will meet every other week on Zoom and/or in person on the Roux campus. The format will be an informal analytics “open mic night” where anyone can bring a topic, present for 20-30 minutes, and get feedback from the group."
+    "text": "Introduction:\nI’m Sue McClatchy, a bioinformatics analyst at Jackson Laboratory. I moved to Maine 20 years ago to join the lab after finding a job posting that seemed perfectly tailored for me—it required a computational biologist with teaching expertise, which fit my background precisely. Over the years, I’ve engaged in statistical genetics and teaching, working closely with Gary Churchill, who is also my manager. My work and the stimulating intellectual environment at Jackson Lab, combined with the incredible natural surroundings of Maine, have made this a fulfilling place to thrive professionally and personally.\n1. Discovering R - My Initial Spark:\nWhat got you interested in R?\nMy interest in R began when I started working in statistical genetics here at Jackson Lab. I was immediately impressed by the powerful graphics and the ability to produce detailed reports, which significantly enhanced the communication of our scientific findings. Particularly, tools like ggplot and the tidyverse package opened up new ways for us to visualize complex data clearly and effectively. This capability was transformative for my work, prompting me to start teaching R to high school students. I was impressed by how quickly these high school students could grasp statistical genetics or R, even conducting their own computational research projects and presenting their findings at scientific competitions.\n2. R in Practice: Leveraging Statistical Computing to Drive Healthcare Research\nDo you use R at work? How?\nYes, I use R extensively at work, primarily for quantitative trait locus (QTL) analysis, which helps identify the genomic locations associated with specific traits like cholesterol levels, blood pressure, or blood sugar. This type of analysis is crucial for understanding the genetic foundations of these traits, aiding in the identification of genes that influence them, and suggesting further experiments. R’s robust statistical tools allow us to pinpoint these genetic influences accurately.\nAdditionally, I use R in teaching and lesson development. It’s not just a tool for professional researchers; I also incorporate it into educational programs, teaching high school students and others how to apply R in real-world genetic research. This dual use of R—for both cutting-edge research and education—highlights its flexibility and power in various aspects of scientific inquiry and learning.\n3. Beyond Programming\nWhat do you do when you’re not programming?\nWhen I’m not programming, I try to disconnect from work and engage with the outdoors as much as possible. Living next to Acadia National Park offers a magnificent escape into nature, which I find both refreshing and inspiring. Recently, I’ve embraced the challenge of finding joy in the rain—turning what could be gloomy weather into an opportunity for adventure. This mindset shift has led me to volunteer with projects like the Acadia Amphibian Project and Maine Big Night, where I help monitor and safely assist amphibians crossroads during their critical migration periods.\n4. Anticipating Trends\nWhat trends do you see in R language over the next year?\nOver the next year, I expect to see continued innovation in the R language, particularly in its capabilities for graphics and data modeling. Tools like ggplot are likely to become even more powerful and user-friendly, enhancing their utility in scientific visualization.\n5. Community and Coding\nWhat is your favorite R event that you have attended?\nMy favorite R-related event was a Data Carpentry workshop that I led with Angie Reed from the Penobscot Nation. This wasn’t just any workshop; it was specifically designed to empower tribal professionals from across the Northeast. We focused on teaching them how to organize their data and use R to enhance their work in monitoring and protecting natural resources. I taught this course alongside Julia Brown from the Bigelow Lab in Boothbay, which made the experience even more enriching.\nThis event was particularly meaningful because it aligned with my personal values of making a positive impact through education and conservation. Providing these crucial skills to tribal professionals, who play a key role in preserving their communities’ natural resources, was immensely fulfilling. It demonstrated how R can be a powerful tool for social change and community empowerment, making it my favorite event for its impact and the meaningful connections it fostered.\n6. Future Endeavors\nWhat projects (R-focused or otherwise) are you excited about in the coming year?\nIn the coming year, I’m particularly excited about a potential project that involves teaching R and bioinformatics to Native students in New Mexico, alongside providing them with industry internships. This project, if funded, would not only enhance their career opportunities but also enable them to give back to their tribes by sharing their newfound skills. It’s a wonderful intersection of education, empowerment, and community service, all facilitated through the power of R.\nAdditionally, I am involved in writing grants to secure funding for these initiatives. The success of these applications would allow me to continue doing work that is deeply meaningful to me—using my skills in R to effect real change in communities and help address broader issues like education accessibility and environmental conservation. This blend of R’s technical capabilities with its potential for social impact is what I find most thrilling about the projects lined up for the next year."
   },
   {
     "objectID": "posts/017_meet-up_monte-carlo-finance/index.html",
@@ -133,123 +42,438 @@
     "text": "On August 5th, Philip Munyua, PhD, will be presenting “R in Finance: Monte Carlo Model for Pricing European Options” at our monthly”Analytics Open Mic Night” at Roux campus.\nThis presentation will apply R-programming language to price a financial instrument, European Option. Monte Carlo simulation is used to price the option.\nPhilip is a PhD trained unicorn Data Scientist leader with over 14 years work experience that is responsible for data mining, modeling and analytics and providing innovative business intelligence (strategic business insights) to Executive Leadership and Business Unit Managers. Operates across functions in business and finance units; investments, insurance, consumer welfare, marketing, product, sales, and IT (engineering).\nhttps://www.meetup.com/greater-portland-data-science/events/279674234/"
   },
   {
-    "objectID": "posts/018_meet-up_text-mining/index.html",
-    "href": "posts/018_meet-up_text-mining/index.html",
-    "title": "Text Mining with R: Extracting insights from user-generated content",
+    "objectID": "posts/016_meet-up_analytics-open-mic-iI/index.html",
+    "href": "posts/016_meet-up_analytics-open-mic-iI/index.html",
+    "title": "July Analytics Open Mic Night",
     "section": "",
-    "text": "In this presentation, text mining methods and code in the R-programming language applied in two class projects will be presented. For one project, product improvement opportunities were identified by mining online user reviews. For the other, emerging use cases of a product were identified by mining for hashtags in user-generated content.\nRyan Goebel is a Roux student pursuing a Master’s degree in Analytics. Ryan has over 17 years of professional experience as an engineer: first, as a structural engineer investigating structural failures and designing repairs, and second as a field engineer collecting and presenting data in the oil & gas drilling industry. He holds a BS in Civil Engineering from the University of Arizona and an MS in Civil Engineering from the University of Illinois at Urbana-Champaign."
+    "text": "In partnership with the Roux Institute in Portland we are starting a new series of meetups around data science and engineering. We hope this meetup will have some interesting content for R users but will not be restricted to R. We will meet every other week on Zoom and/or in person on the Roux campus. The format will be an informal analytics “open mic night” where anyone can bring a topic, present for 20-30 minutes, and get feedback from the group."
   },
   {
-    "objectID": "posts/019_meet-up_panel-wagy-valcourt/index.html",
-    "href": "posts/019_meet-up_panel-wagy-valcourt/index.html",
-    "title": "Panel: A conversation with Scott Valcourt and Mark Wagy",
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html",
+    "title": "Frequent Symptom Mining",
     "section": "",
-    "text": "This meetup will be an open panel discussion with Mark Wagy and Scott Valcourt on startups, data science, networks and the science of learning.\nScotts current work is in telehealth and the science of learning and how they are supported in computer science. He has a background in data science and analytics around the best ways to arrange and work with data. He has participated in the NSF iCorps program and has experience with a variety of network technologies.\nMark is the cofounder of a fintech startup Solve finance. He has experience in machine learning and AI and previously led the Data Science team at Wex. He is currently helping develop the Applied Machine Intelligence program at the Roux.\nI hope you can join for this interesting discussion!\nhttps://www.meetup.com/greater-portland-data-science/events/281144048/"
+    "text": "“In God we trust, all others bring data.” - W. Edwards Deming\n“Data mining is not about finding the right answers, it’s about asking the right questions.” - Anonymous\n“Data mining is the process of finding needles in haystacks, and then finding the other needles that are hidden in those needles.” - Anonymous\n“You didn’t know? You better call somebody!” - Road Dogg, WWE"
   },
   {
-    "objectID": "posts/020_meet-up_explore-nature-rvest/index.html",
-    "href": "posts/020_meet-up_explore-nature-rvest/index.html",
-    "title": "Exploring nature through {rvest}",
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#quotes",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#quotes",
+    "title": "Frequent Symptom Mining",
     "section": "",
-    "text": "Are cell biologists the most long-winded academics? How curt are physicists when describing their own research? This presentation will cover the basics of using {rvest} package to easily web scrape data from html web pages. We will be exploring how to develop a workflow to web scrap article titles from www.nature.com and to discover the insights that nature has in store for us.\nCome learn about the rvest package with Donald Szlosek!\nhttps://www.meetup.com/greater-portland-data-science/events/281548240/"
+    "text": "“In God we trust, all others bring data.” - W. Edwards Deming\n“Data mining is not about finding the right answers, it’s about asking the right questions.” - Anonymous\n“Data mining is the process of finding needles in haystacks, and then finding the other needles that are hidden in those needles.” - Anonymous\n“You didn’t know? You better call somebody!” - Road Dogg, WWE"
   },
   {
-    "objectID": "posts/021_meet-up_data-on-tap/index.html",
-    "href": "posts/021_meet-up_data-on-tap/index.html",
-    "title": "January Data on Tap - MaineR Users Group Social Hour",
-    "section": "",
-    "text": "With the hopes of becoming a state-wide user group, we have renamed to the MaineR Users Group!\nOur goal is to collaborate with different academic, industrial, and research organizations across the state of Maine!\nThe first event of the year will be held physically at in Portland Maine at The King’s Head Pub as a social hour!"
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#outline",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#outline",
+    "title": "Frequent Symptom Mining",
+    "section": "Outline",
+    "text": "Outline\n\nBackground of the Problem\nBackground of the Method\nR packages\nBasic example(s)\nThe crux of the matter\nSymptom mining"
   },
   {
-    "objectID": "future_presenters.html",
-    "href": "future_presenters.html",
-    "title": "Call for Presentations",
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section",
+    "title": "Frequent Symptom Mining",
     "section": "",
-    "text": "Want to give talk at a MaineR Event?\nThis is a great opportunity for R users and enthusiasts to come together, share their knowledge, and learn from one another in a relaxed and supportive setting. Whether you’re a beginner, an intermediate user, or an advanced practitioner, you are welcome to join us.\nThe format of our meetings is informal and interactive, allowing for an open exchange of ideas and experiences. We encourage attendees to actively participate in the discussions and ask questions. This is a wonderful opportunity to expand your understanding of R, and to connect with others who share your passion for this powerful tool.\nWe are currently looking for presenters to share their work, projects, and insights with the group. If you have something to share, we would love to hear from you! This is a great opportunity to showcase your skills and get feedback from the community.\nTo submit a topic proposal, please contact us with a brief description of what you would like to present. If you’re not sure what to present, don’t worry - we are happy to help you come up with something.\nWe are open to all of the following events types:\n\nSocial Gatherings (local breweries/ event spaces)\nWorkshops (virtual and in-person)\nPresentations (Guest speaker / lecture style)\n\nWhere will these events take place?\n\nWe are currently open to both virtual and hybrid events across Maine!\nPresentations with a physical location will be dependent on interest and availability."
+    "text": "Disclosure"
   },
   {
-    "objectID": "yearly_events.html",
-    "href": "yearly_events.html",
-    "title": "Events",
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-1",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-1",
+    "title": "Frequent Symptom Mining",
     "section": "",
-    "text": "Want to give talk at a MaineR Event?\nBased off feedback from the start of the year survey we are hoping to plan a mix on social, virtual, workshop, and in-person events all throughout the year! (Maybe even multiple a month!).\nHere is the current 2024 event calender:\n\nJanuary\nFebruary\nMarch\nApril\nMay\nJuly\n\nWatershed Project with Penobscot Nation (Location, TBD)\n\nSeptember\nOctober\nDecember\n\nTo RSVP to one of our events, check out our MeetUp page."
+    "text": "Background of the Problem"
   },
   {
-    "objectID": "posts/022_linux interview/index.html",
-    "href": "posts/022_linux interview/index.html",
-    "title": "Donald Szlosek, the organizer of MaineR, interviewed by the R Consortium and Linux Foundation",
-    "section": "",
-    "text": "Donald Szlosek, the MaineR User Group organizer, recently highlighted the significant growth and impact of the R community in Maine to the R Consortium. Donald emphasizes the crucial role of the R language in life sciences and showcases the group’s remarkable work in bridging the gap and empowering data professionals through collaboration and insights throughout the state of Maine.\n📝 Blog\n🕊 Twitter\n🐘 Mastodon\n🔗 LinkedIn\n🤖 Reddit"
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#neonatal-abstinence-syndrome-nas",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#neonatal-abstinence-syndrome-nas",
+    "title": "Frequent Symptom Mining",
+    "section": "Neonatal Abstinence Syndrome (NAS)",
+    "text": "Neonatal Abstinence Syndrome (NAS)\n\nIn utero opiod exposure\nCharacterized by withdrawal symptoms\nICD-9 779.5\nICD-10 P96.1\nNumber of diagnoses increasing\nControl costs (lengthy stays)\nDetection is essential for health of infant\nTreatment is pharmacological therapy with morphine, methadone, or phenobarbital"
   },
   {
-    "objectID": "posts/023_meet-up_data-mining/index.html",
-    "href": "posts/023_meet-up_data-mining/index.html",
-    "title": "Data Mining Methods for Improving Health Outcomes",
-    "section": "",
-    "text": "James Quinlan Ph.D., associate professor of mathematics and data science at the University of New England’s Mathematical and Physical Sciences will be presenting on the use of R for frequent dataset mining, with a focus on its applications in improving health outcomes.\nData mining involves discovering patterns and insights from large datasets, with the goal of using this information to make better decisions or predictions. Frequent dataset mining is a specific type of data mining that involves identifying frequent patterns or associations within a dataset.\nSlides\nUseful Links:\n\narules\narules JSS article\narules JMLR article\narulesViz\ncSPADE"
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#finnigan-nas-score-fnass",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#finnigan-nas-score-fnass",
+    "title": "Frequent Symptom Mining",
+    "section": "Finnigan NAS Score (FNASS)",
+    "text": "Finnigan NAS Score (FNASS)\n\n21 symptoms scored\n5 gastronintesinal (e.g., vomit)\n7 Centrial nerous system (e.g., tremors)\n9 Respiratory (e.g., stuffiness, flaring)\nScored every 4 hours\nMany scoring systems\n\nLipsitz (Lipsitz, 1975)\nNeonatal Withdrawal Inventory (Zahorodny et al., 1998)\nFNASS (Finnegan et al., 1975)"
   },
   {
-    "objectID": "posts/024_meet-up_intro-to_targets/index.html",
-    "href": "posts/024_meet-up_intro-to_targets/index.html",
-    "title": "Introduction to {targets}",
-    "section": "",
-    "text": "Dr. Smith is an epidemiologist who focuses on developing and applying methods for causal inference in public health research. Dr. Smith approaches her applied research using a target trial framework, through which she has helped to clarify questions about exposures during pregnancy and to improve understanding of the effects of COVID-19 on birth outcomes. Her work in prostate and breast cancer addresses questions about complex treatment strategies over time. Her previous work on sensitivity analysis extended the E-value framework to quantify possible effects of selection bias, alone and jointly with other biases. She has also contributed to the literature on mediation, including sensitivity analysis for unmeasured mediator-outcome confounding. Currently she is researching methods to assess sensitivity to missing data under various assumptions.\nThe {targets} package is a workflow tool for R that allows you to split your data tasks into pieces and only re-run the necessary ones when you change the data, model, or a parameter. In this presentation, we will introduce the package and demonstrate how it can be used to manage the pipeline of R projects both big and small. We’ll work through a simple example and show how it can be extended through the use of branching. You are welcome to bring your laptop to follow along or just sit back and listen.\nSlides"
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#goal",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#goal",
+    "title": "Frequent Symptom Mining",
+    "section": "Goal",
+    "text": "Goal\n\nReduce the number of items\nESC (Curran et al., 2020)\nMine frequent (assocaiated) symptoms"
   },
   {
-    "objectID": "posts/025_meet-up_data-on-tap/index.html",
-    "href": "posts/025_meet-up_data-on-tap/index.html",
-    "title": "July Data on Tap - MaineR Users Group Social Hour",
-    "section": "",
-    "text": "Join us for a social hour on Wednesday, July 12th at 6:30 PM EDT to chat with other MaineR users, share tips and tricks, and just have some fun.\nWe’ll be meeting at Novare Res Bier Café, so please RSVP!\nWhat to expect:\n\nCasual conversation about all things R\nSharing of tips and tricks\nJust a chance to connect with other MaineR users\n\nHope to see you all there!"
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#research-team",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#research-team",
+    "title": "Frequent Symptom Mining",
+    "section": "Research Team",
+    "text": "Research Team\n\nTina Holt, M.D., Maine Medical Center\nMeg Curran, M.D., Maine Medical Center\nMichael Arciero, Ph.D. University of New England\nCurran, M., Holt, C., Arciero, M., Quinlan, J., Cox, D., & Craig, A. (2020). Proxy Finnegan component scores for eat, sleep, console in a cohort of opioid-exposed neonates. Hospital Pediatrics, 10(12), 1053-1058."
   },
   {
-    "objectID": "posts/024_introduction_to_targets/index.html",
-    "href": "posts/024_introduction_to_targets/index.html",
-    "title": "Introduction to {targets}",
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-2",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-2",
+    "title": "Frequent Symptom Mining",
     "section": "",
-    "text": "Dr. Smith is an epidemiologist who focuses on developing and applying methods for causal inference in public health research. Dr. Smith approaches her applied research using a target trial framework, through which she has helped to clarify questions about exposures during pregnancy and to improve understanding of the effects of COVID-19 on birth outcomes. Her work in prostate and breast cancer addresses questions about complex treatment strategies over time. Her previous work on sensitivity analysis extended the E-value framework to quantify possible effects of selection bias, alone and jointly with other biases. She has also contributed to the literature on mediation, including sensitivity analysis for unmeasured mediator-outcome confounding. Currently she is researching methods to assess sensitivity to missing data under various assumptions.\nThe {targets} package is a workflow tool for R that allows you to split your data tasks into pieces and only re-run the necessary ones when you change the data, model, or a parameter. In this presentation, we will introduce the package and demonstrate how it can be used to manage the pipeline of R projects both big and small. We’ll work through a simple example and show how it can be extended through the use of branching. You are welcome to bring your laptop to follow along or just sit back and listen.\nSlides"
+    "text": "Background of the Method"
   },
   {
-    "objectID": "posts/026_lightning-talks-jax/index.html",
-    "href": "posts/026_lightning-talks-jax/index.html",
-    "title": "Bar Harbor Networking Event",
-    "section": "",
-    "text": "Are you passionate about data analytics, visualization, and programming with R? If so, mark your calendar for the upcoming Maine R User Group Meetup in gorgeous Bar Harbor! Meet other data enthusiasts for an evening of knowledge sharing, collaboration, and community building!\nDate: Thursday, Oct 5\nTime: 4:00 - 6:00 pm\nLocation: Blaze, 198 Main Street, Bar Harbor\nEvent Highlights:\nNetwork with R users from IDEXX, MaineHealth, the Roux Institute, The Jackson Laboratory and beyond. Exchange ideas, tips, and best practices for leveraging R in data analysis, statistics, and more. Expand your network and forge meaningful connections within the Maine R community. Whether you’re a seasoned R expert or just getting started, this event promises valuable insights, inspiring conversations, and a chance to connect with fellow R enthusiasts in the beautiful state of Maine. Don’t miss out on this fantastic opportunity to enhance your R skills, broaden your network, and be a part of the vibrant Maine R User Group community."
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#itemset-rule-mining",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#itemset-rule-mining",
+    "title": "Frequent Symptom Mining",
+    "section": "Itemset & Rule Mining",
+    "text": "Itemset & Rule Mining\n\nFind (useful) patterns in a database\nFrequent co-occurrence\nFrequent Itemset Mining\nSequence Mining\nMarket Basket Analysis\n\nModern parlance"
   },
   {
-    "objectID": "posts/026_positconf23_chicago/index.html",
-    "href": "posts/026_positconf23_chicago/index.html",
-    "title": "MaineR’s at POSIT::CONF(2023)",
-    "section": "",
-    "text": "Excited to see fellow MaineRs at Posit::conf, Adam Black (left, Odysseus Data Services, Inc.), Jaclyn Janis (left center, Posit),, Alexandra Hinton (right center, Maine Medical Center), and Donald Szlosek (right, IDEXX Laboratories)."
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#applications",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#applications",
+    "title": "Frequent Symptom Mining",
+    "section": "Applications",
+    "text": "Applications\n\nRetail sales (MBA)\nWeb usage (data information brokers)\nCongressional Voting Records\nLaw enforcement profiling\nRecommender systems\nSupply chain analysis\nExtract information hidden in DNA sequences\nGene ontology\nConcussion symptims (sleep, light sensitivity)"
   },
   {
-    "objectID": "posts/028_monthly_spotlight_jan_angie/index.html",
-    "href": "posts/028_monthly_spotlight_jan_angie/index.html",
-    "title": "January Spotlight: Integrating R in Watershed Restoration Data Advocacy: Angie Reed’s Journey in Tribal Communities",
-    "section": "",
-    "text": "Introduction:\nAngie Reed, celebrating 20 years as a Water Resources Planner for the Penobscot Nation, sheds light on the practical application of using R for data analysis for watershed protection and restoration. Working alongside numerous Tribes, state and federal agencies, and academic staff, Angie also contributes to national tribal workgroups. Her engagement with Native Nations has a strong emphasis on the Wabanaki homelands, but her influence and work extend throughout Turtle Island.\n1. Discovering R - My Initial Spark:\nWhat got you interested in R?\nMy adventure with R began in a class taught by the guidance of Dennis Helsel, a renowned figure in water resources who, after working with the United States Geological Survey (USGS) opened his own business called Practical Stats. It was during this course I started to use R Commander for my analysis of the changes in water quality as a result of a dam removal project on the Penobscot River. This experience was a revelation, leading me to a self-learning path where I dove into programming in R and continued education opportunities through “The Carpentries” classes. My first Carpentries class was more than just an introduction to R; it was a gateway to a whole new world of data analysis possibilities.\n2. R at Work - A Game Changer in Environmental Data:\nDo you use R at work? How?\nAt Penobscot Nation, R has become an indispensable part of my work. From statistical analysis to managing sensor data files, R has revolutionized the way I handle environmental data. One of my key projects involves using R for processing and analyzing data from environmental sensors collecting measurements all year every 30 minutes, illustrating how technology can be a powerful ally in ecological studies. Our transition from Microsoft Access to R, especially for reporting to the Environmental Protection Agency and sharing data with the Maine Department of Environmental Protection, showcases the efficiency and adaptability of R in various facets of data management and reporting.\n3. Beyond Programming - My Passion for the Outdoors:\nWhat do you do when you’re not programming?\nWhen I’m not programming, I’m often found immersing myself in the beautiful landscapes of northern Maine. I volunteer to collect temperature data for the Maine Department of Inland Fisheries from rivers and streams in the North Maine Woods, merging my professional skills with my love for nature. This combination of my career and personal passion is a testament to how fulfilling life can be when your work and personal interests align so closely.\n4. Anticipating Trends - The Future of R and Python:\nWhat trends do you see in R language over the next year?\nLooking ahead, I’m particularly intrigued by the growing synergy between R and Python. This trend towards language integration reflects a broader movement in technology towards utilizing the best tools available, regardless of the language. It’s an exciting time in programming, where adaptability and continuous learning are more important than ever.\n5. Community and Coding - My Favorite R Experience:\nWhat is your favorite R event that you have attended?\nOne of my most cherished experiences in the R community wasn’t a large conference, but the formation of the (unofficially named) Pacific Northwest Tribal Coding group during a Tribal Exchange Network Group meeting in partnership with the Northwest Indian Fisheries Commission (NWIFC).  This group has broadened to include member Tribes of the Columbia River Inter-Tribal Fish Commission and highlights the importance of community, collaborative learning, and mutual support in technology. It’s a reminder of the power of grassroots movements in fostering a sense of belonging and collective advancement in coding skills. Working for the Penobscot Nation and seeing the collective effort in supporting each other, thus improving our daily routines, is truly gratifying and a source of great pride for me.\n6. Future Endeavors - Shiny and Community Engagement:\nWhat projects (R-focused or otherwise) are you excited about in the coming year?\nIn the coming year, I’m eager to enhance my skills in Shiny, aiming to create public-facing data visualizations. This project, along with my involvement in the Pacific Northwest Tribal Coding group, signifies my commitment to using R not just for data analysis but as a tool for community engagement, education, and environmental advocacy. I am also excited to continue my community outreach that involves engaging children from Indian Island School (pre-K to 8th grade) and local middle and high schools."
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#terminology",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#terminology",
+    "title": "Frequent Symptom Mining",
+    "section": "Terminology",
+    "text": "Terminology\n\nItems are denoted by \\(\\mathcal{I} = \\{i_1, i_2, \\dots, i_n \\}\\) and transactions (a.k.a. events, observations, records) as \\(T = \\{t_1, t_2, \\dots, t_N\\}\\) where \\(N &gt; n\\) and \\(N \\gg 1\\).\n\n“Items” are symptoms in our case\n\nItemset is any group of one or more items, also called basket or cart.\n\ne.g., \\(X = \\{ i_3, i_{17}, i_{1325} \\}\\)\n\nFrequent item set is an itemset that meets (some) criteria.\nLet \\(X\\) be a subset of items, then the support count is the number of transactions containing \\(X\\). [ { (X) = | {t_i | X t_i T }| } ]\nAssociation Rule is an implication of the form \\(X \\Rightarrow Y\\) where \\(X \\cap Y = \\emptyset\\)."
   },
   {
-    "objectID": "posts/027_lightning-talks-jax/index.html",
-    "href": "posts/027_lightning-talks-jax/index.html",
-    "title": "Bar Harbor Networking Event",
-    "section": "",
-    "text": "Are you passionate about data analytics, visualization, and programming with R? If so, mark your calendar for the upcoming Maine R User Group Meetup in gorgeous Bar Harbor! Meet other data enthusiasts for an evening of knowledge sharing, collaboration, and community building!\nDate: Thursday, Oct 5\nTime: 4:00 - 6:00 pm\nLocation: Blaze, 198 Main Street, Bar Harbor\nEvent Highlights:\nNetwork with R users from IDEXX, MaineHealth, the Roux Institute, The Jackson Laboratory and beyond. Exchange ideas, tips, and best practices for leveraging R in data analysis, statistics, and more. Expand your network and forge meaningful connections within the Maine R community. Whether you’re a seasoned R expert or just getting started, this event promises valuable insights, inspiring conversations, and a chance to connect with fellow R enthusiasts in the beautiful state of Maine. Don’t miss out on this fantastic opportunity to enhance your R skills, broaden your network, and be a part of the vibrant Maine R User Group community."
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#measures-of-strength-and-interest",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#measures-of-strength-and-interest",
+    "title": "Frequent Symptom Mining",
+    "section": "Measures of Strength and Interest",
+    "text": "Measures of Strength and Interest\nThe following measure the strength of an association or frequency of an itemset.\n\nThe support (how often the rule applies) \\[\n\\large{\nS(X \\Rightarrow Y) = \\frac{\\sigma(X \\cup Y)}{N}\n}\n\\] where \\(N\\) is the total number of transactions in the database.\n\n\n\nConfidence how frequently items in \\(Y\\) appears in transactions that contain \\(X\\).\n\\[\n\\large{\nC(X \\Rightarrow Y) = \\frac{\\sigma(X \\cup Y)}{\\sigma(X)}\n}\n\\]\nLift (Brin et al., 1997), ratio of combined support from expected independence \\[\n\\large{\nL(X \\Rightarrow Y) = \\frac{ N \\sigma(X \\cup Y)}{\\sigma(X) \\cdot  \\sigma(Y)} = \\frac{C(X,Y)}{S(Y)}\n}\n\\]"
   },
   {
-    "objectID": "yearly_events.html#january",
-    "href": "yearly_events.html#january",
-    "title": "Events",
-    "section": "## January",
-    "text": "## January\n\n\nJanuary\nFebruary\nMarch\nApril\nMay\nJuly\n\nWatershed Project with Penobscot Nation (Location, TBD)\n\nSeptember\nOctober\nDecember\n\nTo RSVP to one of our events, check out our MeetUp page."
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#example",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#example",
+    "title": "Frequent Symptom Mining",
+    "section": "Example",
+    "text": "Example\n\n\n\n1\n\n\nMilk\n\n\nEggs\n\n\nDiapers\n\n\nBeer\n\n\n\n\n2\n\n\nMilk\n\n\n\n\nDiapers\n\n\n\n\n\n\n3\n\n\n\n\nEggs\n\n\nDiapers\n\n\nBeer\n\n\n\n\n4\n\n\nMilk\n\n\nEggs\n\n\n\n\n\n\n\n\n5\n\n\nMilk\n\n\n\n\nDiapers\n\n\nBeer\n\n\n\nConsider the transaction database with \\(X = \\{ \\text{Diapers} \\}\\) and \\(Y = \\{\\text{Beer}\\}\\).\n\nSupport, \\(S(X,Y) = 3/5 = 0.6\\)\nConfidence, \\(C(X,Y) = 3/4 = 0.75\\)\nLift, \\(L(X,Y) = (5 \\cdot 3) / (4 \\cdot 3) = 1.25\\)"
   },
   {
-    "objectID": "posts/029_monthly_spotlight_adam_kerberling/index.html",
-    "href": "posts/029_monthly_spotlight_adam_kerberling/index.html",
-    "title": "February Spotlight: Charting New Waters - Adam Kemberling’s Voyage Through Marine Research and R Innovation at the Gulf of Maine Research Institute",
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#binary-database",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#binary-database",
+    "title": "Frequent Symptom Mining",
+    "section": "Binary Database",
+    "text": "Binary Database\n\n\n\ntid\n\n\nMilk\n\n\nEggs\n\n\nDiapers\n\n\nBeer\n\n\n\n\n1\n\n\n1\n\n\n1\n\n\n1\n\n\n1\n\n\n\n\n2\n\n\n1\n\n\n0\n\n\n1\n\n\n0\n\n\n\n\n3\n\n\n0\n\n\n1\n\n\n1\n\n\n1\n\n\n\n\n4\n\n\n1\n\n\n1\n\n\n0\n\n\n0\n\n\n\n\n5\n\n\n1\n\n\n0\n\n\n1\n\n\n1"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#rule-mining-itemset-selection",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#rule-mining-itemset-selection",
+    "title": "Frequent Symptom Mining",
+    "section": "Rule Mining / Itemset Selection",
+    "text": "Rule Mining / Itemset Selection\n\nFrequent item set is an itemset that meets minimum support criteria.\nGiven \\(d\\) items, exclude the \\(0\\) element set and the \\(d\\) element set.\nFor each subset \\(k\\)-element subset \\(X\\), we consider the \\(d-k\\) element subsets \\(Y\\). [ {k = 1}^{d-1} {i = 1}^{d-k} = 3^d - 2^{d+1} + 1 ]\nBrute force is computationally prohibitive\n\nExponential time, \\(O(3^d)\\)\n\nSubset reduction needed\n\nApriori Algorithm"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#aprior-algorithm",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#aprior-algorithm",
+    "title": "Frequent Symptom Mining",
+    "section": "Aprior Algorithm",
+    "text": "Aprior Algorithm\n\nApriori Principle: If an itemset is frequent, then all its subsets are frequent.\nContrapositive: If a subset is infrequent, then all its supersets are infrequent."
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-3",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-3",
+    "title": "Frequent Symptom Mining",
     "section": "",
-    "text": "Introduction:\nAdam Kemberling is a Research Associate at the Gulf of Maine Research Institute, where he has been contributing his expertise for over four years. Working under the guidance of Dr. Kathy Mills, he is an integral part of the research team focused on understanding the consequences of the rapidly warming Gulf of Maine. His work encompasses tracking sea surface temperature increases, reporting on environmental trends, and exploring the responses of marine species to changing oceanic conditions. Through his research, Kemberling aims to shed light on the complex interactions taking place within marine ecosystems as they adapt to climate change.\n1. Discovering R - My Initial Spark:\nWhat got you interested in R?\nI was initially blindsided by R as both a concept and a software during a quantitative fisheries class. The professor announced, “Everyone, open R Studio,” and I found myself wondering if I should have already been familiar with the tools as my peers all loaded up their projects. As my studies progressed, it became apparent that mastering R was not just beneficial, but necessary for completing the statistical analyses for my thesis work. Initially, my relationship with R was begrudging. The real turning point came when I started to use R Markdown and ggplot2. These tools transformed my ability to communicate my findings, making it possible to present data and insights more clearly and efficiently. Before learning these tools, I lacked a medium to convey my research effectively. Gaining proficiency in statistics and R gave me not just a new set of skills but also a sense of empowerment in my work, allowing me to tackle new questions and produce work that I was truly proud of.\n2. R at Work\nDo you use R at work? How?\nYes, I use R extensively in my work at the Gulf of Maine Research Institute. It’s an essential tool for analyzing the vast amounts of data we collect on oceanic conditions, marine species distributions, and other environmental parameters in a reproducible way. With R, I track trends in the rapidly warming Gulf of Maine, report on our findings, and delve into research questions about how marine life is adapting to changes in their habitat. R’s capabilities for statistical analysis and data visualization are crucial for my research. Tools like Quarto and ggplot2 have revolutionized the way I present my data and findings, enabling me to communicate complex scientific information in a clear, comprehensible, and visually appealing manner. This not only supports our team’s internal collaboration but also enhances our ability to share insights with external stakeholders, including academic peers, conservation organizations, and governmental agencies.\n3. R for Fun\nDo you have any favorite R projects you have worked on in the past?\nWhen I first moved to Maine and began working with my new team, I was encouraged by my mentor to apply for a code sprint that I had come across. Code sprints in the marine ecology space were something I had never seen, nor taken part in and I was nervous that I was both underqualified and not talented enough of a coder. The project was funded by NSF as part of the Coastlines and People Program, and it asked participants to bring a research idea to pitch to the others - ideas focused on using open data to do science related to Coastlines and People. I ended up applying and participating with a group from North Carolina that aimed to train a machine learning model to detect when roads were flooded using live traffic camera feeds. It was a clever idea that leveraged public datasets for a public good and I really enjoyed that. The participants involved were great people, we launched a shiny app to collect labeled training data, and we wrote some good documentation of the experience. It was one of the best experiences I have had collaborating on a project, and it was with people that I otherwise would never have had the opportunity to work with.\n4. Beyond Programming\nWhat do you do when you’re not programming?\nWhen I am not programming, my priorities shift towards spending time with my family and indulging in personal hobbies. I have a dog who loves to go for walks and enjoys splashing around at the beach, and a lovely wife who enjoys biking around town with me. I love to cook and make sure there is always something delicious and comforting ready to help us unwind after a long day. Since the pandemic, I have also taken up running more consistently. I have found that running, or doing anything outdoors really offers a refreshing break from the challenges of coding and research. It is a way to get a mental reset that helps me tackle problems I am stuck on. On the weekends, I prefer to be outside, either hiking or simply enjoying the natural beauty of Maine to recharge and find balance.\n5. Anticipating Trends\nWhat trends do you see in R language over the next year?\nIn the coming year, I foresee significant advancements in R’s capabilities for reproducible research and open science, enhancing tools like Quarto for greater transparency in sharing findings. In addition, the R community’s emphasis on collaboration and education will likely lead to an increase in online resources and community projects, lowering barriers for newcomers and fostering knowledge sharing in specialized fields like marine research. Research work has become increasingly data-centric, and I am energized by how the open science community is embracing these tools and increasing our capacity to collaborate.\n5. Community and Coding\nWhat is your favorite R event that you have attended?\nMy favorite R event that I have attended was an RStudio Conference. I had just finished graduate school, was anxious about getting a job, and used this conference to explore alternative career options and broaden my big data knowledge. The experience demystified the professional worlds that R users occupy, revealing that we all share similar challenges regardless of our fields, and highlighted the welcoming and sharing nature of the R community. This conference not only provided me with valuable insights but also left me inspired by the kindness of fellow attendees and the collective desire to give back to the R community. If the conference were not a million dollars now, I would try to attend again.\n6. Future Endeavors\nWhat projects (R-focused or otherwise) are you excited about in the coming year?\nIn the coming year, I am particularly excited about expanding our research on the impacts of climate change on the Gulf of Maine, leveraging R to model future scenarios of marine species distribution under varying climate conditions. Another project that piques my interest involves developing an R-based tool for enhancing the accessibility and understanding of our research findings, making it easier for stakeholders to visualize the changes occurring in marine ecosystems. Lastly, I am eager to contribute to open science initiatives, aiming to create R packages that can be used by the wider research community to analyze environmental data, fostering collaboration and innovation in tackling global environmental challenges."
+    "text": "\\(\\mathcal{P}(\\{ a, b, c, d \\})\\)"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-4",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-4",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "Suppose \\(a\\) is infrequent"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-5",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-5",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "\\(a\\) and its supersets"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-6",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-6",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "Prune those (infrequent) itemsets"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#compact-representations",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#compact-representations",
+    "title": "Frequent Symptom Mining",
+    "section": "Compact representations",
+    "text": "Compact representations\n\n\nDefinition - A frequent itemset is maximal if none of its immediate supersets are frequent.\n\nAll frequent itemsets are a subset of the maximal itemsets."
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#compact-representations-cont",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#compact-representations-cont",
+    "title": "Frequent Symptom Mining",
+    "section": "Compact representations (cont)",
+    "text": "Compact representations (cont)\n\nDefinition - An itemset \\(X\\) is closed if none of its immediate supersets has exactly the same support count as \\(X\\). An itemset is a closed frequent itemset if it is closed and its support is greater than or equal to minimum support.\n\n\n\n\n\nClosed itemsets"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#compact-representation-diagram",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#compact-representation-diagram",
+    "title": "Frequent Symptom Mining",
+    "section": "Compact Representation Diagram",
+    "text": "Compact Representation Diagram"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-7",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-7",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "R packages"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#r-packages-1",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#r-packages-1",
+    "title": "Frequent Symptom Mining",
+    "section": "R packages",
+    "text": "R packages\n\naRules - Mining Association Rules and Frequent Itemsets\n\nApriori and eclat algorithms\n\naRulesViz - Visualize Association Rules\narulesSequences - Mining Frequent Sequences\ntidyverse - Tidy ecosystem"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#install-and-load",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#install-and-load",
+    "title": "Frequent Symptom Mining",
+    "section": "Install and Load",
+    "text": "Install and Load\n\n# install.packages(\"tidyverse\")\n# install.packages(\"arules\")\n# install.packages(\"arulesViz\")\n# install.packages(\"arulesSequences\")\n\nlibrary(tidyverse)\nlibrary(arules)\nlibrary(arulesViz)\nlibrary(arulesSequences)"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#arules-1.7-5",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#arules-1.7-5",
+    "title": "Frequent Symptom Mining",
+    "section": "aRules 1.7-5",
+    "text": "aRules 1.7-5\n\ninspect - display rules in readable form\nitemFrequency - Frequency/Support for Single Items\nitemMatrix - building block for transactions\napriori - Mine frequent itemsets, association rules\neclat - Mine frequent itemsets with the Eclat algorithm.\n\nequivalence class clustering along with bottom-up lattice traversal.\n\ntransactions - subclass of itemMatrix. Note: Data typically starts as a data.frame or a matrix and needs to be prepared before it can be converted into transactions\nRead the Manual\n\nhttps://cran.r-project.org/web/packages/arules/arules.pdf\n\nCheck dependencies (e.g., Matrix \\(\\ge\\) 1.4)"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#example-1",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#example-1",
+    "title": "Frequent Symptom Mining",
+    "section": "Example",
+    "text": "Example\n\n\n# Load Example Data (from aRules package)\ndata(\"Groceries\")\nclass(Groceries)\n\n[1] \"transactions\"\nattr(,\"package\")\n[1] \"arules\""
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-8",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-8",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "head(as(Groceries, \"data.frame\"), 10)\n\n                                                                    items\n1                {citrus fruit,semi-finished bread,margarine,ready soups}\n2                                          {tropical fruit,yogurt,coffee}\n3                                                            {whole milk}\n4                           {pip fruit,yogurt,cream cheese ,meat spreads}\n5   {other vegetables,whole milk,condensed milk,long life bakery product}\n6                        {whole milk,butter,yogurt,rice,abrasive cleaner}\n7                                                            {rolls/buns}\n8  {other vegetables,UHT-milk,rolls/buns,bottled beer,liquor (appetizer)}\n9                                                            {pot plants}\n10                                                   {whole milk,cereals}"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-9",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-9",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "freqItems &lt;- apriori(Groceries, \n                 parameter = list(\n                   supp   = 0.01, \n                   conf   = 0.5, \n                   target = \"frequent itemsets\", \n                   minlen = 3, \n                   maxlen = 5)\n                 )\n\nApriori\n\nParameter specification:\n confidence minval smax arem  aval originalSupport maxtime support minlen\n         NA    0.1    1 none FALSE            TRUE       5    0.01      3\n maxlen            target  ext\n      5 frequent itemsets TRUE\n\nAlgorithmic control:\n filter tree heap memopt load sort verbose\n    0.1 TRUE TRUE  FALSE TRUE    2    TRUE\n\nAbsolute minimum support count: 98 \n\nset item appearances ...[0 item(s)] done [0.00s].\nset transactions ...[169 item(s), 9835 transaction(s)] done [0.00s].\nsorting and recoding items ... [88 item(s)] done [0.00s].\ncreating transaction tree ... done [0.00s].\nchecking subsets of size 1 2 3 4 done [0.00s].\nsorting transactions ... done [0.00s].\nwriting ... [32 set(s)] done [0.00s].\ncreating S4 object  ... done [0.00s]."
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-10",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-10",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "head(as(freqItems,\"data.frame\") %&gt;% arrange(desc(count)),10)\n\n                                              items    support count\n1     {root vegetables,other vegetables,whole milk} 0.02318251   228\n2              {other vegetables,whole milk,yogurt} 0.02226741   219\n3          {other vegetables,whole milk,rolls/buns} 0.01789527   176\n4      {tropical fruit,other vegetables,whole milk} 0.01708185   168\n5                    {whole milk,yogurt,rolls/buns} 0.01555669   153\n6                {tropical fruit,whole milk,yogurt} 0.01514997   149\n7  {other vegetables,whole milk,whipped/sour cream} 0.01464159   144\n8               {root vegetables,whole milk,yogurt} 0.01453991   143\n9                {other vegetables,whole milk,soda} 0.01392984   137\n10          {pip fruit,other vegetables,whole milk} 0.01352313   133"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-11",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-11",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "rules &lt;- apriori(Groceries, \n                 parameter = list(\n                   supp   = 0.01, \n                   conf   = 0.5, \n                   target = \"rules\", \n                   minlen = 1, \n                   maxlen = 10)\n                 )\n\n\nhead(as(rules,\"data.frame\") %&gt;% arrange(desc(count)))\n\n                                                  rules    support confidence\n1             {other vegetables,yogurt} =&gt; {whole milk} 0.02226741  0.5128806\n2               {tropical fruit,yogurt} =&gt; {whole milk} 0.01514997  0.5173611\n3 {other vegetables,whipped/sour cream} =&gt; {whole milk} 0.01464159  0.5070423\n4              {root vegetables,yogurt} =&gt; {whole milk} 0.01453991  0.5629921\n5          {pip fruit,other vegetables} =&gt; {whole milk} 0.01352313  0.5175097\n6        {root vegetables,yogurt} =&gt; {other vegetables} 0.01291307  0.5000000\n    coverage     lift count\n1 0.04341637 2.007235   219\n2 0.02928317 2.024770   149\n3 0.02887646 1.984385   144\n4 0.02582613 2.203354   143\n5 0.02613116 2.025351   133\n6 0.02582613 2.584078   127"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-12",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-12",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "summary(rules)\n\nset of 15 rules\n\nrule length distribution (lhs + rhs):sizes\n 3 \n15 \n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n      3       3       3       3       3       3 \n\nsummary of quality measures:\n    support          confidence        coverage            lift      \n Min.   :0.01007   Min.   :0.5000   Min.   :0.01729   Min.   :1.984  \n 1st Qu.:0.01174   1st Qu.:0.5151   1st Qu.:0.02089   1st Qu.:2.036  \n Median :0.01230   Median :0.5245   Median :0.02430   Median :2.203  \n Mean   :0.01316   Mean   :0.5411   Mean   :0.02454   Mean   :2.299  \n 3rd Qu.:0.01403   3rd Qu.:0.5718   3rd Qu.:0.02598   3rd Qu.:2.432  \n Max.   :0.02227   Max.   :0.5862   Max.   :0.04342   Max.   :3.030  \n     count      \n Min.   : 99.0  \n 1st Qu.:115.5  \n Median :121.0  \n Mean   :129.4  \n 3rd Qu.:138.0  \n Max.   :219.0  \n\nmining info:\n      data ntransactions support confidence\n Groceries          9835    0.01        0.5\n                                                                                                            call\n apriori(data = Groceries, parameter = list(supp = 0.01, conf = 0.5, target = \"rules\", minlen = 1, maxlen = 10))"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-13",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-13",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "inspect(rules[1:10], by =\"lift\")\n\n     lhs                                       rhs                support   \n[1]  {curd, yogurt}                         =&gt; {whole milk}       0.01006609\n[2]  {other vegetables, butter}             =&gt; {whole milk}       0.01148958\n[3]  {other vegetables, domestic eggs}      =&gt; {whole milk}       0.01230300\n[4]  {yogurt, whipped/sour cream}           =&gt; {whole milk}       0.01087951\n[5]  {other vegetables, whipped/sour cream} =&gt; {whole milk}       0.01464159\n[6]  {pip fruit, other vegetables}          =&gt; {whole milk}       0.01352313\n[7]  {citrus fruit, root vegetables}        =&gt; {other vegetables} 0.01037112\n[8]  {tropical fruit, root vegetables}      =&gt; {other vegetables} 0.01230300\n[9]  {tropical fruit, root vegetables}      =&gt; {whole milk}       0.01199797\n[10] {tropical fruit, yogurt}               =&gt; {whole milk}       0.01514997\n     confidence coverage   lift     count\n[1]  0.5823529  0.01728521 2.279125  99  \n[2]  0.5736041  0.02003050 2.244885 113  \n[3]  0.5525114  0.02226741 2.162336 121  \n[4]  0.5245098  0.02074225 2.052747 107  \n[5]  0.5070423  0.02887646 1.984385 144  \n[6]  0.5175097  0.02613116 2.025351 133  \n[7]  0.5862069  0.01769192 3.029608 102  \n[8]  0.5845411  0.02104728 3.020999 121  \n[9]  0.5700483  0.02104728 2.230969 118  \n[10] 0.5173611  0.02928317 2.024770 149"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#arulesviz-1.5-2",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#arulesviz-1.5-2",
+    "title": "Frequent Symptom Mining",
+    "section": "arulesViz 1.5-2",
+    "text": "arulesViz 1.5-2\nVisualizing Association Rules and Frequent Itemsets\n\nhttps://cran.r-project.org/web/packages/arulesViz/arulesViz.pdf\nplot(rules, method=\"graph\")\nSee also ggraph package for graph and network visualizations"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-14",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-14",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "plot(rules[1:10], method = \"graph\")"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#frequent-sequences",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#frequent-sequences",
+    "title": "Frequent Symptom Mining",
+    "section": "Frequent Sequences",
+    "text": "Frequent Sequences\nMining frequent sequential patterns with the cSPADE algorithm\n\nSPADE (Sequential PAttern Discovery using Equivalence classes)\nTemporal transactions (grouped by customer)\n“If a customer buys \\(X\\) then in the next purchase will they buy \\(Y\\)”?\nWeb logs (\\(a \\to b \\to c \\to d\\))\narulesSequences 0.2-28\ncspade(transactions)"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-15",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-15",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "# create binary matrix of items\ndata &lt;- data.frame(sequenceID = as.factor(c(1, 1, 1, 1, 2, 2, 3, 4, 4, 4)),\n                   eventID = as.factor(c(1, 2, 3, 4, 1, 1, 1, 1, 2, 3)),\n                   A = c(0, 1, 1, 1, 1, 0, 1, 0, 0, 1),\n                   B = c(0, 1, 1, 0, 1, 0, 1, 0, 1, 0),\n                   C = c(1, 1, 0, 1, 0, 0, 0, 0, 0, 0),\n                   D = c(1, 0, 0, 0, 0, 0, 0, 1, 0, 0),\n                   E = c(0, 0, 0, 0, 0, 1, 0, 0, 0, 0),\n                   F = c(0, 0, 1, 1, 1, 0, 1, 0, 0, 1),\n                   G = c(0, 0, 0, 0, 0, 0, 0, 1, 1, 0),\n                   H = c(0, 0, 0, 0, 0, 0, 0, 1, 0, 1))\n\ndb &lt;- pivot_longer(data, cols = c(3,4,5,6,7,8,9,10)) %&gt;% filter(value &gt; 0)"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-16",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-16",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "sequences &lt;- db %&gt;%\n  group_by(sequenceID, eventID) %&gt;%\n  summarize(\n    SIZE = n(),\n    items = paste(as.character(name), collapse = ';')\n  )\n\n`summarise()` has regrouped the output.\nℹ Summaries were computed grouped by sequenceID and eventID.\nℹ Output is grouped by sequenceID.\nℹ Use `summarise(.groups = \"drop_last\")` to silence this message.\nℹ Use `summarise(.by = c(sequenceID, eventID))` for per-operation grouping\n  (`?dplyr::dplyr_by`) instead.\n\nnames(sequences) = c(\"sequenceID\", \"eventID\", \"SIZE\", \"items\")\n\nsequences &lt;- data.frame(lapply(sequences, as.factor))\nsequences &lt;- sequences[order(sequences$sequenceID, sequences$eventID),]\n\n# Convert to transaction matrix data type\nwrite.table(sequences, \"seqs.txt\", sep=\";\", row.names = FALSE, col.names = FALSE, quote = FALSE)\ntrans_matrix &lt;- read_baskets(\"seqs.txt\", sep = \";\", info = c(\"sequenceID\",\"eventID\",\"SIZE\"))"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-17",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-17",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "s1 &lt;- cspade(trans_matrix, parameter = list(support = 0.6, maxlen=5), control = list(verbose = TRUE))"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-18",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-18",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "summary(s1)\n\nset of 7 sequences with\n\nmost frequent items:\n      A       B       F (Other) \n      4       4       4       4 \n\nmost frequent elements:\n    {A}     {B}     {F}   {A,F}   {B,F} (Other) \n      1       1       1       1       1       2 \n\nelement (sequence) size distribution:\nsizes\n1 \n7 \n\nsequence length distribution:\nlengths\n1 2 3 \n3 3 1 \n\nsummary of quality measures:\n    support      \n Min.   :0.7500  \n 1st Qu.:0.7500  \n Median :1.0000  \n Mean   :0.8929  \n 3rd Qu.:1.0000  \n Max.   :1.0000  \n\nincludes transaction ID lists: FALSE \n\nmining info:\n         data ntransactions nsequences support\n trans_matrix             9          4     0.6"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-19",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-19",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "s1.df &lt;- as(s1, \"data.frame\")\ns1.df\n\n   sequence support\n1     &lt;{A}&gt;    1.00\n2     &lt;{B}&gt;    1.00\n3     &lt;{F}&gt;    1.00\n4   &lt;{A,F}&gt;    1.00\n5   &lt;{B,F}&gt;    0.75\n6 &lt;{A,B,F}&gt;    0.75\n7   &lt;{A,B}&gt;    0.75"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-20",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-20",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "Crux"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#cruxes",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#cruxes",
+    "title": "Frequent Symptom Mining",
+    "section": "Crux(es)",
+    "text": "Crux(es)\n\nData frame must be converted to a transaction\nFor arulesSequences\n\npivot_longer\nwrite_table\nread_baskets"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-21",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-21",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "Symptom Mining"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#symptom-mining-1",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#symptom-mining-1",
+    "title": "Frequent Symptom Mining",
+    "section": "Symptom Mining",
+    "text": "Symptom Mining\n\n# read data\nraw = read_csv('nas.csv', show_col_types = FALSE)\n\n# clean\ntidset = raw %&gt;% mutate(Tremors = tremors_disturbed + tremors_undisturbed) %&gt;%\n          select(-c(tid, bid, oid, nas, num_items, tremors_disturbed, tremors_undisturbed, Tremors, tone))\n\n\n# df --&gt; binary matrix --&gt; transactions\ntransactions = as(ifelse(tidset &gt; 0, 1, 0), \"transactions\")\n\n\nitemFrequency(transactions)\n\n   excoriations myoclonic_jerks             cry           sleep            moro \n    0.144866385     0.004018485     0.179827205     0.355234077     0.137030340 \n          sweat            yawn        mottling      stuffiness          sneeze \n    0.016073940     0.021097046     0.301185453     0.117942536     0.215993570 \n  nasal_flaring           fever    respirations         sucking         feeding \n    0.012256379     0.199718706     0.223226843     0.156519992     0.235081374 \n          vomit           stool \n    0.119750854     0.208157525"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-22",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-22",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "# Frequency Plots\nitemFrequencyPlot(transactions,topN=10,type=\"absolute\")"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#frequent-itemsets",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#frequent-itemsets",
+    "title": "Frequent Symptom Mining",
+    "section": "Frequent Itemsets",
+    "text": "Frequent Itemsets\n\nitemsets =  apriori(transactions, parameter = list(supp   = 0.03, \n                                                   conf   = 0.7,  \n                                                   minlen = 3, \n                                                   target = \"maximally frequent itemsets\")\n                    )\n\n\ninspect(itemsets, by = \"lift\")\n\n     items                           support    count\n[1]  {excoriations, sleep, mottling} 0.03054049 152  \n[2]  {cry, respirations, sucking}    0.03576452 178  \n[3]  {cry, sleep, sucking}           0.04641350 231  \n[4]  {sleep, sneeze, sucking}        0.03275065 163  \n[5]  {sleep, respirations, sucking}  0.04098855 204  \n[6]  {cry, sleep, fever}             0.03275065 163  \n[7]  {sleep, sneeze, fever}          0.04139040 206  \n[8]  {sleep, fever, respirations}    0.04560981 227  \n[9]  {sleep, mottling, fever}        0.03475990 173  \n[10] {cry, sleep, stool}             0.03154511 157  \n[11] {sleep, sneeze, stool}          0.03335343 166  \n[12] {sleep, respirations, stool}    0.03496082 174  \n[13] {cry, sleep, feeding}           0.03134418 156  \n[14] {cry, sleep, sneeze}            0.03737191 186  \n[15] {cry, sleep, respirations}      0.05123568 255  \n[16] {cry, sleep, mottling}          0.03596544 179  \n[17] {sleep, sneeze, feeding}        0.03033956 151  \n[18] {sleep, sneeze, respirations}   0.04741812 236  \n[19] {sleep, mottling, sneeze}       0.03757284 187  \n[20] {sleep, mottling, respirations} 0.03697006 184"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#frequent-rules",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#frequent-rules",
+    "title": "Frequent Symptom Mining",
+    "section": "Frequent Rules",
+    "text": "Frequent Rules\n\n# Generate and Prune ASSOCIATION RULES\nrules &lt;- apriori(transactions, parameter = list(supp = 0.01, \n                                               conf = 0.70, \n                                               minlen = 1, \n                                               maxlen = 5, \n                                               target = \"rules\")\n                )\nsortedRules &lt;- sort(rules, by=\"lift\", decreasing=TRUE)\n\n\nsummary(sortedRules)\n\nset of 42 rules\n\nrule length distribution (lhs + rhs):sizes\n 3  4  5 \n 5 36  1 \n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  3.000   4.000   4.000   3.905   4.000   5.000 \n\nsummary of quality measures:\n    support          confidence        coverage            lift      \n Min.   :0.01005   Min.   :0.7033   Min.   :0.01125   Min.   :1.980  \n 1st Qu.:0.01160   1st Qu.:0.7201   1st Qu.:0.01507   1st Qu.:2.027  \n Median :0.01366   Median :0.7489   Median :0.01849   Median :2.141  \n Mean   :0.01598   Mean   :0.7659   Mean   :0.02103   Mean   :2.234  \n 3rd Qu.:0.01703   3rd Qu.:0.7865   3rd Qu.:0.02270   3rd Qu.:2.239  \n Max.   :0.03737   Max.   :0.9107   Max.   :0.04842   Max.   :4.078  \n     count       \n Min.   : 50.00  \n 1st Qu.: 57.75  \n Median : 68.00  \n Mean   : 79.55  \n 3rd Qu.: 84.75  \n Max.   :186.00  \n\nmining info:\n         data ntransactions support confidence\n transactions          4977    0.01        0.7\n                                                                                                              call\n apriori(data = transactions, parameter = list(supp = 0.01, conf = 0.7, minlen = 1, maxlen = 5, target = \"rules\"))"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-23",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-23",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "inspect(sortedRules[1:10])\n\n     lhs                                   rhs            support    confidence\n[1]  {respirations, sucking, feeding}   =&gt; {cry}          0.01105083 0.7333333 \n[2]  {cry, fever, stool}                =&gt; {respirations} 0.01004621 0.7462687 \n[3]  {cry, sneeze, fever, respirations} =&gt; {sleep}        0.01024714 0.9107143 \n[4]  {cry, sneeze, fever}               =&gt; {sleep}        0.01547117 0.9058824 \n[5]  {excoriations, cry, respirations}  =&gt; {sleep}        0.01205546 0.8955224 \n[6]  {cry, mottling, sneeze}            =&gt; {sleep}        0.01326100 0.8684211 \n[7]  {sneeze, fever, sucking}           =&gt; {sleep}        0.01366285 0.8607595 \n[8]  {excoriations, cry, sucking}       =&gt; {sleep}        0.01084991 0.8437500 \n[9]  {cry, sneeze, respirations}        =&gt; {sleep}        0.01928873 0.8205128 \n[10] {excoriations, cry, mottling}      =&gt; {sleep}        0.01004621 0.8064516 \n     coverage   lift     count\n[1]  0.01506932 4.077989 55   \n[2]  0.01346192 3.343096 50   \n[3]  0.01125176 2.563702 51   \n[4]  0.01707856 2.550100 77   \n[5]  0.01346192 2.520936 60   \n[6]  0.01527024 2.444645 66   \n[7]  0.01587302 2.423077 68   \n[8]  0.01285915 2.375194 54   \n[9]  0.02350814 2.309781 96   \n[10] 0.01245730 2.270198 50"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-24",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-24",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "plot(sortedRules[1:10], method=\"graph\")"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#frequent-symptom-sequences",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#frequent-symptom-sequences",
+    "title": "Frequent Symptom Mining",
+    "section": "Frequent Symptom Sequences",
+    "text": "Frequent Symptom Sequences\n\nseqDB &lt;- raw %&gt;% mutate(sequenceID = bid, eventID = oid) %&gt;%\n          select(-c(tid, bid, oid, nas, num_items, tremors_disturbed, tremors_undisturbed, tone))\nseqDB &lt;- pivot_longer(seqDB, c(1:17) ) %&gt;% filter(value &gt; 0)\n\nsequences &lt;- seqDB %&gt;%\n  group_by(sequenceID, eventID) %&gt;%\n  summarize(\n    SIZE = n(),\n    items = paste(as.character(name), collapse = ';')\n  )\n\n`summarise()` has regrouped the output.\nℹ Summaries were computed grouped by sequenceID and eventID.\nℹ Output is grouped by sequenceID.\nℹ Use `summarise(.groups = \"drop_last\")` to silence this message.\nℹ Use `summarise(.by = c(sequenceID, eventID))` for per-operation grouping\n  (`?dplyr::dplyr_by`) instead.\n\nnames(sequences) = c(\"sequenceID\", \"eventID\", \"SIZE\", \"items\")\nsequences &lt;- data.frame(lapply(sequences, as.factor))\nsequences &lt;- sequences[order(sequences$sequenceID, sequences$eventID),]"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-25",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-25",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "write.table(sequences, \"seqDB.txt\", sep=\";\", row.names = FALSE, col.names = FALSE, quote = FALSE)\nseq_mat &lt;- read_baskets(\"seqDB.txt\", sep = \";\", info = c(\"sequenceID\",\"eventID\",\"SIZE\"))\n\ns1 &lt;- cspade(seq_mat, parameter = list(support = 0.4, maxsize = 5), control = list(verbose = TRUE))\n# PARAMETERS: \n# support: minimum support of a sequence (default 0.1).\n# maxsize: (integer) max number of items of an element of a sequence (default 10).\n# maxlen: (integer) max number of elements of a sequence (default 10).\n# mingap: (integer) min time diff between consecutive elements of a sequence (default none, range &gt;= 1).\n# maxgap: (integer) max time diff between consecutive elements of a sequence (default none).\n# maxwin: (integer) max time diff between any two elements of a sequence (default none."
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-26",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-26",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "s1.df &lt;- as(s1, \"data.frame\")\nsummary(s1)\n\nset of 30943 sequences with\n\nmost frequent items:\n       sleep       sneeze        fever respirations        stool      (Other) \n       28271        17044        15417        11055         6928        15716 \n\nmost frequent elements:\n       {sleep}       {sneeze}        {fever} {respirations}        {stool} \n         25124          14124          12874           8052           5980 \n       (Other) \n         31648 \n\nelement (sequence) size distribution:\nsizes\n   1    2    3    4    5    6    7    8    9   10 \n  75  818 3448 7437 8946 6422 2809  796  169   23 \n\nsequence length distribution:\nlengths\n   1    2    3    4    5    6    7    8    9   10 \n  13  199 1323 4560 8189 8931 5518 1806  369   35 \n\nsummary of quality measures:\n    support      \n Min.   :0.4012  \n 1st Qu.:0.4128  \n Median :0.4360  \n Mean   :0.4521  \n 3rd Qu.:0.4709  \n Max.   :1.0000  \n\nincludes transaction ID lists: FALSE \n\nmining info:\n    data ntransactions nsequences support\n seq_mat          4377        172     0.4"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-27",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-27",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "head(arrange(s1.df, desc(support)),30)\n\n                                    sequence   support\n1                                  &lt;{sleep}&gt; 1.0000000\n2                          &lt;{sleep},{sleep}&gt; 0.9941860\n3                  &lt;{sleep},{sleep},{sleep}&gt; 0.9651163\n4                                 &lt;{sneeze}&gt; 0.9302326\n5                                  &lt;{fever}&gt; 0.9127907\n6                         &lt;{sleep},{sneeze}&gt; 0.9069767\n7          &lt;{sleep},{sleep},{sleep},{sleep}&gt; 0.9069767\n8                          &lt;{fever},{sleep}&gt; 0.9011628\n9                         &lt;{sneeze},{sleep}&gt; 0.8953488\n10                                 &lt;{stool}&gt; 0.8837209\n11                &lt;{sleep},{sleep},{sneeze}&gt; 0.8779070\n12                          &lt;{respirations}&gt; 0.8662791\n13                         &lt;{sleep},{stool}&gt; 0.8662791\n14                &lt;{sneeze},{sleep},{sleep}&gt; 0.8662791\n15                 &lt;{fever},{sleep},{sleep}&gt; 0.8662791\n16 &lt;{sleep},{sleep},{sleep},{sleep},{sleep}&gt; 0.8546512\n17                                   &lt;{cry}&gt; 0.8430233\n18                 &lt;{sleep},{sleep},{stool}&gt; 0.8430233\n19                        &lt;{fever},{sneeze}&gt; 0.8430233\n20                       &lt;{sneeze},{sneeze}&gt; 0.8430233\n21                          &lt;{sleep,sneeze}&gt; 0.8372093\n22                         &lt;{stool},{sleep}&gt; 0.8372093\n23                &lt;{sleep},{sneeze},{sleep}&gt; 0.8372093\n24         &lt;{fever},{sleep},{sleep},{sleep}&gt; 0.8313953\n25                         &lt;{sleep},{fever}&gt; 0.8313953\n26                  &lt;{respirations},{sleep}&gt; 0.8255814\n27                  &lt;{sleep},{respirations}&gt; 0.8255814\n28        &lt;{sneeze},{sleep},{sleep},{sleep}&gt; 0.8197674\n29                           &lt;{cry},{sleep}&gt; 0.8139535\n30        &lt;{sleep},{sleep},{sleep},{sneeze}&gt; 0.8081395"
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/meetup/meetup.html#section-28",
+    "href": "posts/023_meet-up_data-mining/meetup/meetup.html#section-28",
+    "title": "Frequent Symptom Mining",
+    "section": "",
+    "text": "# Get induced temporal rules from frequent itemsets\nr1 &lt;- as(ruleInduction(s1, confidence = 0.9, control = list(verbose = TRUE)), \"data.frame\")\nhead(r1)\n\n                                                                 rule   support\n226         &lt;{respirations},{sleep},{sleep},{sucking}&gt; =&gt; &lt;{sucking}&gt; 0.4418605\n266  &lt;{respirations},{sleep},{respirations},{sucking}&gt; =&gt; &lt;{sucking}&gt; 0.4011628\n1338                                           &lt;{stool}&gt; =&gt; &lt;{stool}&gt; 0.7965116\n1376                                   &lt;{stool,sucking}&gt; =&gt; &lt;{stool}&gt; 0.4011628\n1436                                   &lt;{stool},{stool}&gt; =&gt; &lt;{stool}&gt; 0.7267442\n1441                                     &lt;{sleep,stool}&gt; =&gt; &lt;{stool}&gt; 0.6279070\n     confidence     lift\n226   0.9156627 1.175328\n266   0.9078947 1.165357\n1338  0.9013158 1.019910\n1376  0.9200000 1.041053\n1436  0.9124088 1.032463\n1441  0.9000000 1.018421"
+  },
+  {
+    "objectID": "posts/007_meet-up_tesseract-ocr/index.html",
+    "href": "posts/007_meet-up_tesseract-ocr/index.html",
+    "title": "Optical character recognition using Tesseract",
+    "section": "",
+    "text": "Donald Szlosek, Biostatistician at IDEXX, will do a demonstration of optical character recognition in R. Optical character recognition is a process through which images of typed, handwritten, or printed text are electronically converted into machine-encoded text. The tesseract package provides R bindings to Tesseract, a powerful optical character recognition (OCR) engine that supports over 100 languages. Novice and intermediate R users are encouraged to attend.\nhttps://www.meetup.com/greater-portland-data-science/events/260738720/"
+  },
+  {
+    "objectID": "posts/012_meet-up_r-hack-a-thon/index.html",
+    "href": "posts/012_meet-up_r-hack-a-thon/index.html",
+    "title": "R Hack-a-thon",
+    "section": "",
+    "text": "Greetings R users!\nStarting out 2020 we would like to host an R hack-a-thon. Bring your laptops and we will break into groups and hack away at a tidy tuesday dataset from this repo: https://github.com/rfordatascience/tidytuesday/tree/master/data/2020\nThe most recent dataset is Measles vaccination data which might be a timely topic but you could also choose a different one as well. After ~45 minutes of hacking each group will give a ~10 minute presentation to group about what they found.\nhttps://www.meetup.com/greater-portland-data-science/events/268995227/"
+  },
+  {
+    "objectID": "posts/014_meet-up_blogdown/index.html",
+    "href": "posts/014_meet-up_blogdown/index.html",
+    "title": "Turning your R code into a blog post",
+    "section": "",
+    "text": "If you are interested in embedding R code into a blog post, this presentation will show you how, using the blogdown package. You will also learn how to extend this approach to publish your own ebook using bookdown.\nhttps://www.meetup.com/greater-portland-data-science/events/275333867/"
   },
   {
     "objectID": "posts/030_monthly_spotlight_anya_cutler/index.html",
@@ -259,13 +483,6 @@
     "text": "Introduction:\nAnya Cutler, research data analyst at the Maine Health Institute for Research, works within the Center for Interdisciplinary and Population Health Research (CIPHR). Her role primarily involves partnering with principal investigators, who are PhDs in the center, as well as clinicians across Maine Health, to support research endeavors. Specifically, Anya serves as the in-house analyst for the Barbara Bush Children’s Hospital Scholars Academy, a group of pediatricians focused on enhancing their scholarly output and careers in research. In this capacity, she provides critical statistical support and data analysis, leveraging her expertise to advance healthcare research and outcomes.\n1. Discovering R - My Initial Spark:\nWhat got you interested in R?\nMy interest in R began during my first master’s degree in plant and soil science at the University of Vermont, where I was involved in analyzing microbial communities in compost-amended soils. This work required handling large sets of genetic data, and until then, I had only used relatively simple statistical software like Excel and GraphPad Prism. A faculty member in my department introduced me to R for its powerful capabilities in processing and analyzing big genetic data sets. Utilizing principal component analysis, I examined the similarities and differences among microbial communities. I explored how weather patterns influenced the survival of E. coli in compost-amended soil and how these environmental factors contributed to diverging microbial groups.\nDuring my Master of Public Health (MPH) at Emory University, my focus shifted towards epidemiology, where I delved into the microbiome of pregnant women. After my MPH I embarked on a fascinating journey into pollen genetics as a staff scientist at Emory University. Here, I worked on developing an analysis pipeline using R to quantify the relative abundance of different plant species from pollen samples. This work was pivotal to advancing our understanding of plant genetics, as well as demonstrating the potential applications of such data, ranging from ecological research to potentially aiding in geographical localization based on pollen signatures for the Department of Defense.\n2. R in Practice: Leveraging Statistical Computing to Drive Healthcare Research\nDo you use R at work? How?\nIn my role, I extensively use R for data cleaning, visualization, and analysis, pulling data directly from REDCap into R for comprehensive processing. I employ R Markdown and Shiny applications to create interactive reports and dashboards, making complex results accessible to non-technical stakeholders. My analytical tasks vary from multivariable regression to geospatial and longitudinal mixed-effects modeling, showcasing R’s versatility in handling diverse data analysis needs. Additionally, I produce both static and interactive visualizations, utilizing R’s robust functionality to communicate findings effectively in various formats, essential for both internal reviews and published reports.\n3. Beyond Programming\nWhat do you do when you’re not programming?\nWhen I’m not programming, my time is divided between professional and personal interests. Professionally, I engage in various activities such as reviewing manuscripts, writing up research methods, and attending numerous meetings to discuss study designs or data interpretations with colleagues. These tasks are crucial for advancing our research projects and ensuring collaboration and consensus among team members. On a personal level, my life is enriched by spending time with my young children, indulging in cooking, enjoying the outdoors whenever possible, and reading. These activities not only provide a necessary respite from the analytical rigor of my work but also contribute to my overall well-being and life balance, allowing me to return to my programming tasks with renewed focus and energy.\n4. Anticipating Trends\nWhat trends do you see in R language over the next year?\nOver the next year, I foresee R integrating more closely with other programming languages like Python to harness combined analytical strengths, enhancing data analysis and visualization capabilities. Advancements in R Markdown and Shiny are expected to improve user engagement and accessibility, making it simpler to create interactive documents and applications. These trends reflect R’s adaptability and growing significance in data science, emphasizing its role in facilitating comprehensive, user-friendly data analysis and visualization.\n5. Community and Coding\nWhat is your favorite R event that you have attended?\nMy favorite R event that I’ve attended was a workshop hosted by Posit (formerly RStudio), focused on tips and tricks in R Markdown. This workshop was particularly enlightening as it presented a series of rapid-fire insights into enhancing the utility and efficiency of R Markdown, a tool I use daily. We delved into custom snippets, the magic of rainbow parentheses for code readability, and various other hacks that immediately found their way into my routine, significantly streamlining my workflow. It stood out for its practical impact, offering immediate benefits to my work and providing insights that continue to influence how I approach data analysis and reporting in R.\n6. Future Endeavors\nWhat projects (R-focused or otherwise) are you excited about in the coming year?\nIn the coming year, I am particularly excited about a pioneering project that aims to revolutionize neonatal resuscitation training in rural hospitals, utilizing advanced technology. We have proposed an R01 grant for research using technologically advanced mannequins, including a “holographic baby,” or “holo-baby,” which employs augmented reality to enhance training realism and efficacy. This initiative will harness R for analyzing training outcomes, potentially transforming neonatal care preparedness in underserved areas. These endeavors epitomize the intersection of data science and healthcare, promising to uncover new insights and improve patient outcomes, reflecting my deep investment in impactful healthcare research."
   },
   {
-    "objectID": "posts/031_monthly_spotlight_susan_mcclatchy/index.html",
-    "href": "posts/031_monthly_spotlight_susan_mcclatchy/index.html",
-    "title": "April Spotlight: Sue McClatchy - Integrating Bioinformatics and Educational Outreach at Jackson Laboratory",
-    "section": "",
-    "text": "Introduction:\nI’m Sue McClatchy, a bioinformatics analyst at Jackson Laboratory. I moved to Maine 20 years ago to join the lab after finding a job posting that seemed perfectly tailored for me—it required a computational biologist with teaching expertise, which fit my background precisely. Over the years, I’ve engaged in statistical genetics and teaching, working closely with Gary Churchill, who is also my manager. My work and the stimulating intellectual environment at Jackson Lab, combined with the incredible natural surroundings of Maine, have made this a fulfilling place to thrive professionally and personally.\n1. Discovering R - My Initial Spark:\nWhat got you interested in R?\nMy interest in R began when I started working in statistical genetics here at Jackson Lab. I was immediately impressed by the powerful graphics and the ability to produce detailed reports, which significantly enhanced the communication of our scientific findings. Particularly, tools like ggplot and the tidyverse package opened up new ways for us to visualize complex data clearly and effectively. This capability was transformative for my work, prompting me to start teaching R to high school students. I was impressed by how quickly these high school students could grasp statistical genetics or R, even conducting their own computational research projects and presenting their findings at scientific competitions.\n2. R in Practice: Leveraging Statistical Computing to Drive Healthcare Research\nDo you use R at work? How?\nYes, I use R extensively at work, primarily for quantitative trait locus (QTL) analysis, which helps identify the genomic locations associated with specific traits like cholesterol levels, blood pressure, or blood sugar. This type of analysis is crucial for understanding the genetic foundations of these traits, aiding in the identification of genes that influence them, and suggesting further experiments. R’s robust statistical tools allow us to pinpoint these genetic influences accurately.\nAdditionally, I use R in teaching and lesson development. It’s not just a tool for professional researchers; I also incorporate it into educational programs, teaching high school students and others how to apply R in real-world genetic research. This dual use of R—for both cutting-edge research and education—highlights its flexibility and power in various aspects of scientific inquiry and learning.\n3. Beyond Programming\nWhat do you do when you’re not programming?\nWhen I’m not programming, I try to disconnect from work and engage with the outdoors as much as possible. Living next to Acadia National Park offers a magnificent escape into nature, which I find both refreshing and inspiring. Recently, I’ve embraced the challenge of finding joy in the rain—turning what could be gloomy weather into an opportunity for adventure. This mindset shift has led me to volunteer with projects like the Acadia Amphibian Project and Maine Big Night, where I help monitor and safely assist amphibians crossroads during their critical migration periods.\n4. Anticipating Trends\nWhat trends do you see in R language over the next year?\nOver the next year, I expect to see continued innovation in the R language, particularly in its capabilities for graphics and data modeling. Tools like ggplot are likely to become even more powerful and user-friendly, enhancing their utility in scientific visualization.\n5. Community and Coding\nWhat is your favorite R event that you have attended?\nMy favorite R-related event was a Data Carpentry workshop that I led with Angie Reed from the Penobscot Nation. This wasn’t just any workshop; it was specifically designed to empower tribal professionals from across the Northeast. We focused on teaching them how to organize their data and use R to enhance their work in monitoring and protecting natural resources. I taught this course alongside Julia Brown from the Bigelow Lab in Boothbay, which made the experience even more enriching.\nThis event was particularly meaningful because it aligned with my personal values of making a positive impact through education and conservation. Providing these crucial skills to tribal professionals, who play a key role in preserving their communities’ natural resources, was immensely fulfilling. It demonstrated how R can be a powerful tool for social change and community empowerment, making it my favorite event for its impact and the meaningful connections it fostered.\n6. Future Endeavors\nWhat projects (R-focused or otherwise) are you excited about in the coming year?\nIn the coming year, I’m particularly excited about a potential project that involves teaching R and bioinformatics to Native students in New Mexico, alongside providing them with industry internships. This project, if funded, would not only enhance their career opportunities but also enable them to give back to their tribes by sharing their newfound skills. It’s a wonderful intersection of education, empowerment, and community service, all facilitated through the power of R.\nAdditionally, I am involved in writing grants to secure funding for these initiatives. The success of these applications would allow me to continue doing work that is deeply meaningful to me—using my skills in R to effect real change in communities and help address broader issues like education accessibility and environmental conservation. This blend of R’s technical capabilities with its potential for social impact is what I find most thrilling about the projects lined up for the next year."
-  },
-  {
     "objectID": "posts/034_monthly_spotlight_louisa_smith/index.html",
     "href": "posts/034_monthly_spotlight_louisa_smith/index.html",
     "title": "May Spotlight: Louisa Smith - Connecting Data Science and Public Health at the Roux Institute",
@@ -273,10 +490,178 @@
     "text": "Introduction:\nI am Louisa Smith, an Assistant Professor in the Northeastern Department of Public Health and Health Sciences. I also have a joint appointment at the Roux Institute, where I contribute to various interdisciplinary projects. As an epidemiologist and biostatistician, I focus on public health research, data analysis, and mentoring students in these fields.\n1. Discovering R - My Initial Spark:\nWhat got you interested in R?\nI started learning R at the beginning of my Master’s degree in epidemiology back in 2014. As I was starting grad school, I knew I would need to learn some statistical software. There was an introductory R class offered right before real classes started, so I decided to attend. I just showed up and fell in love with it from the very beginning.\n2. R in Practice: Leveraging Statistical Computing to Drive Healthcare Research\nDo you use R at work? How?\nYes, I use R extensively at work. It’s the main software I rely on for my analyses. Although I don’t get to do as much of my own coding as I used to since I spend a lot of time advising students, I still use R weekly. I perform all my statistical analyses, create figures and tables, and often write manuscripts using R. I’ve even created my personal website in R. Beyond work, I use R for fun projects and data analysis in my personal life. It’s truly an integral part of everything I do.\n3. Beyond Programming\nWhat do you do when you’re not programming?\nWhen I’m not programming, I spend a lot of time working with students, writing papers, and attending meetings. I also design studies that will eventually use R. Outside of work, I love to be outdoors—hiking, running, and biking are some of my favorite activities. I also enjoy reading and relaxing.\n4. Anticipating Trends\nWhat trends do you see in R language over the next year?\nI feel a bit out of the loop with what’s currently trending in the R community since I left Twitter and most R-related people moved away from the platform. However, I see the capabilities and creativity people have with R continuing to grow. Quarto, for example, has been fantastic to learn. I’m trying to move everything I used to do in R Markdown over to Quarto, as I believe it’s the way of the future. While I don’t use Python much, I appreciate that Quarto integrates well with it, which is really useful.\n5. Community and Coding\nWhat is your favorite R event that you have attended?\nMy favorite R event was with the Boston R Ladies group, where I had the opportunity to give a talk. It wasn’t my talk that made it my favorite, but the chance to meet so many people who use R. There were a lot of young people and students who were interested in what I had to say, which made it a fun and engaging community experience. My talk was about how I used R in various ways to explore different aspects of my experience going through cancer treatment.\n6. Future Endeavors\nWhat projects (R-focused or otherwise) are you excited about in the coming year?\nI have several research projects that I’m excited about for the coming year. One of the most interesting directions I’m moving into is more qualitative and community-based research. One project we’re working on involves rural obstetrics facilities, particularly looking at why many rural hospitals have closed their maternity units, exploring the challenges in attracting healthcare professionals to rural areas and improving support for these communities. As part of another project, we’re conducting a survey about paid postpartum leave, with the goal of studying Maine’s new paid family and medical leave law and its effects on the health of new mothers and babies. This law provides an option for non-employer-sponsored paid family and medical leave for various reasons, including the arrival of a new child or a medical issue, and offers up to 12 weeks of leave."
   },
   {
+    "objectID": "posts/018_meet-up_text-mining/index.html",
+    "href": "posts/018_meet-up_text-mining/index.html",
+    "title": "Text Mining with R: Extracting insights from user-generated content",
+    "section": "",
+    "text": "In this presentation, text mining methods and code in the R-programming language applied in two class projects will be presented. For one project, product improvement opportunities were identified by mining online user reviews. For the other, emerging use cases of a product were identified by mining for hashtags in user-generated content.\nRyan Goebel is a Roux student pursuing a Master’s degree in Analytics. Ryan has over 17 years of professional experience as an engineer: first, as a structural engineer investigating structural failures and designing repairs, and second as a field engineer collecting and presenting data in the oil & gas drilling industry. He holds a BS in Civil Engineering from the University of Arizona and an MS in Civil Engineering from the University of Illinois at Urbana-Champaign."
+  },
+  {
+    "objectID": "posts/021_meet-up_data-on-tap/index.html",
+    "href": "posts/021_meet-up_data-on-tap/index.html",
+    "title": "January Data on Tap - MaineR Users Group Social Hour",
+    "section": "",
+    "text": "With the hopes of becoming a state-wide user group, we have renamed to the MaineR Users Group!\nOur goal is to collaborate with different academic, industrial, and research organizations across the state of Maine!\nThe first event of the year will be held physically at in Portland Maine at The King’s Head Pub as a social hour!"
+  },
+  {
+    "objectID": "posts/008_meet-up_us-mapping/index.html",
+    "href": "posts/008_meet-up_us-mapping/index.html",
+    "title": "Visualizing Socioeconomic Status in the United States",
+    "section": "",
+    "text": "Frank Boscoe, Ph.D., recently retired from the New York State Department of Health and moved to Portland to start a consulting company, Pumphandle LLC, where he wrangles health data for the CDC and other clients. He will be demonstrating techniques for visualizing the socioeconomic profiles of U.S. states and cities using census data.\nhttps://www.meetup.com/greater-portland-data-science/events/261839539/"
+  },
+  {
+    "objectID": "posts/025_meet-up_data-on-tap/index.html",
+    "href": "posts/025_meet-up_data-on-tap/index.html",
+    "title": "July Data on Tap - MaineR Users Group Social Hour",
+    "section": "",
+    "text": "Join us for a social hour on Wednesday, July 12th at 6:30 PM EDT to chat with other MaineR users, share tips and tricks, and just have some fun.\nWe’ll be meeting at Novare Res Bier Café, so please RSVP!\nWhat to expect:\n\nCasual conversation about all things R\nSharing of tips and tricks\nJust a chance to connect with other MaineR users\n\nHope to see you all there!"
+  },
+  {
+    "objectID": "posts/009_meet-up_etl-machine/index.html",
+    "href": "posts/009_meet-up_etl-machine/index.html",
+    "title": "The ETL Machine: An approach to ETL in R, Part 1 - Writing good functions",
+    "section": "",
+    "text": "There are lots of good reasons to avoid using R for ETL. But that doesn’t mean one shouldn’t try. Sometimes business constraints and lack of adequate tools make ETL orchestration far more painful than it needs to be. That is why David Denton is currently endeavoring to build a robust, portable, ETL Machine with R & Shiny. This is a work in progress that he is sharing in hopes of eliciting some helpful feedback (booing and hissing is acceptable as well). Part 1 will focus on writing versatile, well-documented functions in R.\nhttps://www.meetup.com/greater-portland-data-science/events/264749154/"
+  },
+  {
+    "objectID": "posts/013_meet-up_api-plumber/index.html",
+    "href": "posts/013_meet-up_api-plumber/index.html",
+    "title": "Testing an API wrapper with Plumber",
+    "section": "",
+    "text": "It’s about time we get the group going again. I’ll get us started by talking about a recent challenge I had - how to write reproducible tests for an API wrapper package. Enter plumber - a easy way to create an restful API endpoint in R to test against. This will be a virtual meeting hosted on zoom. RSVP to get the zoom link.\nhttps://www.meetup.com/greater-portland-data-science/events/274355687/"
+  },
+  {
+    "objectID": "posts/011_meet-up_hexmas-party/index.html",
+    "href": "posts/011_meet-up_hexmas-party/index.html",
+    "title": "Merry Hexmas: A holiday paRty",
+    "section": "",
+    "text": "We’ll be gathering at the Great Lost Bear for an informal holiday paRty. Feel free to bring your laptop and hack away at a Tidy Tuesday challenge, solicit group input for your new stats project, or just drink and be merry. ’Tis the season, after all.\nhttps://www.meetup.com/greater-portland-data-science/events/266969678/"
+  },
+  {
+    "objectID": "posts/024_introduction_to_targets/index.html",
+    "href": "posts/024_introduction_to_targets/index.html",
+    "title": "Introduction to {targets}",
+    "section": "",
+    "text": "Dr. Smith is an epidemiologist who focuses on developing and applying methods for causal inference in public health research. Dr. Smith approaches her applied research using a target trial framework, through which she has helped to clarify questions about exposures during pregnancy and to improve understanding of the effects of COVID-19 on birth outcomes. Her work in prostate and breast cancer addresses questions about complex treatment strategies over time. Her previous work on sensitivity analysis extended the E-value framework to quantify possible effects of selection bias, alone and jointly with other biases. She has also contributed to the literature on mediation, including sensitivity analysis for unmeasured mediator-outcome confounding. Currently she is researching methods to assess sensitivity to missing data under various assumptions.\nThe {targets} package is a workflow tool for R that allows you to split your data tasks into pieces and only re-run the necessary ones when you change the data, model, or a parameter. In this presentation, we will introduce the package and demonstrate how it can be used to manage the pipeline of R projects both big and small. We’ll work through a simple example and show how it can be extended through the use of branching. You are welcome to bring your laptop to follow along or just sit back and listen.\nSlides"
+  },
+  {
+    "objectID": "posts/015_meet-up_analytics-open-mic-i/index.html",
+    "href": "posts/015_meet-up_analytics-open-mic-i/index.html",
+    "title": "June Analytics Open Mic Night",
+    "section": "",
+    "text": "In partnership with the Roux Institute in Portland we are starting a new series of meetups around data science and engineering. We hope this meetup will have some interesting content for R users but will not be restricted to R. We will meet every other week on Zoom and/or in person on the Roux campus. The format will be an informal analytics “open mic night” where anyone can bring a topic, present for 20-30 minutes, and get feedback from the group."
+  },
+  {
+    "objectID": "posts/005_meet-up_rmarkdown-docker/index.html",
+    "href": "posts/005_meet-up_rmarkdown-docker/index.html",
+    "title": "A modern reporting toolchain: RMarkdown with containers",
+    "section": "",
+    "text": "We’ve got good tools for collaborating on code. Wouldn’t it be nice if we could collaborate on prose in similar ways? Using RMarkdown and Docker, Elliot Murphy will demonstrate how to build a custom report generation pipeline without the need to manage each collaborator’s development environment.\nElliot is the founder of kindlyops.com, a cybersecurity firm specializing in DevOps approaches to governance risk & compliance, serving regulated industries such as biotech, finance, and energy.\nhttps://www.meetup.com/greater-portland-data-science/events/257757046/"
+  },
+  {
+    "objectID": "posts/019_meet-up_panel-wagy-valcourt/index.html",
+    "href": "posts/019_meet-up_panel-wagy-valcourt/index.html",
+    "title": "Panel: A conversation with Scott Valcourt and Mark Wagy",
+    "section": "",
+    "text": "This meetup will be an open panel discussion with Mark Wagy and Scott Valcourt on startups, data science, networks and the science of learning.\nScotts current work is in telehealth and the science of learning and how they are supported in computer science. He has a background in data science and analytics around the best ways to arrange and work with data. He has participated in the NSF iCorps program and has experience with a variety of network technologies.\nMark is the cofounder of a fintech startup Solve finance. He has experience in machine learning and AI and previously led the Data Science team at Wex. He is currently helping develop the Applied Machine Intelligence program at the Roux.\nI hope you can join for this interesting discussion!\nhttps://www.meetup.com/greater-portland-data-science/events/281144048/"
+  },
+  {
+    "objectID": "posts/002_meet-up_inaugural/index.html",
+    "href": "posts/002_meet-up_inaugural/index.html",
+    "title": "Inaugural meetup for the Greater Portland useR Group",
+    "section": "",
+    "text": "Adam Black, Research Analyst at Maine Medical Center, will be presenting a talk on some advanced R programming concepts.\nThe talk will center around understanding a single function used for cleaning data in a database. By examining the function we will explore some of the more advanced programming concepts and language features in R. Topics will include the “…” (dot dot dot) argument, the pipe “%&gt;%”, dplyr to SQL translation, the map reduce pattern using purrr, expressions and quosures, tidy evaluation, and meta programming. We will only be touching on each topic briefly in the context of understanding the data cleaning function.\nPeople of all skill levels are welcome (and encouraged) to join.\nhttps://www.meetup.com/greater-portland-data-science/events/253681409/"
+  },
+  {
+    "objectID": "posts/026_positconf23_chicago/index.html",
+    "href": "posts/026_positconf23_chicago/index.html",
+    "title": "MaineR’s at POSIT::CONF(2023)",
+    "section": "",
+    "text": "Excited to see fellow MaineRs at Posit::conf, Adam Black (left, Odysseus Data Services, Inc.), Jaclyn Janis (left center, Posit),, Alexandra Hinton (right center, Maine Medical Center), and Donald Szlosek (right, IDEXX Laboratories)."
+  },
+  {
+    "objectID": "posts/006_meet-up_spark/index.html",
+    "href": "posts/006_meet-up_spark/index.html",
+    "title": "Analyzing Large Datasets in R or: How I Learned to Stop Worrying and Love Spark",
+    "section": "",
+    "text": "The analysis of large datasets in R can be difficult. Available RAM limits the amount of data that can be efficiently loaded and processed in a typical R session. Thankfully, there are solutions to this problem. David Denton, a biomedical informatics engineer at the Maine Medical Center Research Institute, will explain how Spark can be used on the Google Cloud Platform to tame unwieldy data, using the same tidy tools that R users know and love.\nhttps://www.meetup.com/greater-portland-data-science/events/258798120/"
+  },
+  {
+    "objectID": "posts/027_lightning-talks-jax/index.html",
+    "href": "posts/027_lightning-talks-jax/index.html",
+    "title": "Bar Harbor Networking Event",
+    "section": "",
+    "text": "Are you passionate about data analytics, visualization, and programming with R? If so, mark your calendar for the upcoming Maine R User Group Meetup in gorgeous Bar Harbor! Meet other data enthusiasts for an evening of knowledge sharing, collaboration, and community building!\nDate: Thursday, Oct 5\nTime: 4:00 - 6:00 pm\nLocation: Blaze, 198 Main Street, Bar Harbor\nEvent Highlights:\nNetwork with R users from IDEXX, MaineHealth, the Roux Institute, The Jackson Laboratory and beyond. Exchange ideas, tips, and best practices for leveraging R in data analysis, statistics, and more. Expand your network and forge meaningful connections within the Maine R community. Whether you’re a seasoned R expert or just getting started, this event promises valuable insights, inspiring conversations, and a chance to connect with fellow R enthusiasts in the beautiful state of Maine. Don’t miss out on this fantastic opportunity to enhance your R skills, broaden your network, and be a part of the vibrant Maine R User Group community."
+  },
+  {
+    "objectID": "posts/020_meet-up_explore-nature-rvest/index.html",
+    "href": "posts/020_meet-up_explore-nature-rvest/index.html",
+    "title": "Exploring nature through {rvest}",
+    "section": "",
+    "text": "Are cell biologists the most long-winded academics? How curt are physicists when describing their own research? This presentation will cover the basics of using {rvest} package to easily web scrape data from html web pages. We will be exploring how to develop a workflow to web scrap article titles from www.nature.com and to discover the insights that nature has in store for us.\nCome learn about the rvest package with Donald Szlosek!\nhttps://www.meetup.com/greater-portland-data-science/events/281548240/"
+  },
+  {
+    "objectID": "posts/028_monthly_spotlight_jan_angie/index.html",
+    "href": "posts/028_monthly_spotlight_jan_angie/index.html",
+    "title": "January Spotlight: Integrating R in Watershed Restoration Data Advocacy: Angie Reed’s Journey in Tribal Communities",
+    "section": "",
+    "text": "Introduction:\nAngie Reed, celebrating 20 years as a Water Resources Planner for the Penobscot Nation, sheds light on the practical application of using R for data analysis for watershed protection and restoration. Working alongside numerous Tribes, state and federal agencies, and academic staff, Angie also contributes to national tribal workgroups. Her engagement with Native Nations has a strong emphasis on the Wabanaki homelands, but her influence and work extend throughout Turtle Island.\n1. Discovering R - My Initial Spark:\nWhat got you interested in R?\nMy adventure with R began in a class taught by the guidance of Dennis Helsel, a renowned figure in water resources who, after working with the United States Geological Survey (USGS) opened his own business called Practical Stats. It was during this course I started to use R Commander for my analysis of the changes in water quality as a result of a dam removal project on the Penobscot River. This experience was a revelation, leading me to a self-learning path where I dove into programming in R and continued education opportunities through “The Carpentries” classes. My first Carpentries class was more than just an introduction to R; it was a gateway to a whole new world of data analysis possibilities.\n2. R at Work - A Game Changer in Environmental Data:\nDo you use R at work? How?\nAt Penobscot Nation, R has become an indispensable part of my work. From statistical analysis to managing sensor data files, R has revolutionized the way I handle environmental data. One of my key projects involves using R for processing and analyzing data from environmental sensors collecting measurements all year every 30 minutes, illustrating how technology can be a powerful ally in ecological studies. Our transition from Microsoft Access to R, especially for reporting to the Environmental Protection Agency and sharing data with the Maine Department of Environmental Protection, showcases the efficiency and adaptability of R in various facets of data management and reporting.\n3. Beyond Programming - My Passion for the Outdoors:\nWhat do you do when you’re not programming?\nWhen I’m not programming, I’m often found immersing myself in the beautiful landscapes of northern Maine. I volunteer to collect temperature data for the Maine Department of Inland Fisheries from rivers and streams in the North Maine Woods, merging my professional skills with my love for nature. This combination of my career and personal passion is a testament to how fulfilling life can be when your work and personal interests align so closely.\n4. Anticipating Trends - The Future of R and Python:\nWhat trends do you see in R language over the next year?\nLooking ahead, I’m particularly intrigued by the growing synergy between R and Python. This trend towards language integration reflects a broader movement in technology towards utilizing the best tools available, regardless of the language. It’s an exciting time in programming, where adaptability and continuous learning are more important than ever.\n5. Community and Coding - My Favorite R Experience:\nWhat is your favorite R event that you have attended?\nOne of my most cherished experiences in the R community wasn’t a large conference, but the formation of the (unofficially named) Pacific Northwest Tribal Coding group during a Tribal Exchange Network Group meeting in partnership with the Northwest Indian Fisheries Commission (NWIFC).  This group has broadened to include member Tribes of the Columbia River Inter-Tribal Fish Commission and highlights the importance of community, collaborative learning, and mutual support in technology. It’s a reminder of the power of grassroots movements in fostering a sense of belonging and collective advancement in coding skills. Working for the Penobscot Nation and seeing the collective effort in supporting each other, thus improving our daily routines, is truly gratifying and a source of great pride for me.\n6. Future Endeavors - Shiny and Community Engagement:\nWhat projects (R-focused or otherwise) are you excited about in the coming year?\nIn the coming year, I’m eager to enhance my skills in Shiny, aiming to create public-facing data visualizations. This project, along with my involvement in the Pacific Northwest Tribal Coding group, signifies my commitment to using R not just for data analysis but as a tool for community engagement, education, and environmental advocacy. I am also excited to continue my community outreach that involves engaging children from Indian Island School (pre-K to 8th grade) and local middle and high schools."
+  },
+  {
+    "objectID": "posts/023_meet-up_data-mining/index.html",
+    "href": "posts/023_meet-up_data-mining/index.html",
+    "title": "Data Mining Methods for Improving Health Outcomes",
+    "section": "",
+    "text": "James Quinlan Ph.D., associate professor of mathematics and data science at the University of New England’s Mathematical and Physical Sciences will be presenting on the use of R for frequent dataset mining, with a focus on its applications in improving health outcomes.\nData mining involves discovering patterns and insights from large datasets, with the goal of using this information to make better decisions or predictions. Frequent dataset mining is a specific type of data mining that involves identifying frequent patterns or associations within a dataset.\nSlides\nUseful Links:\n\narules\narules JSS article\narules JMLR article\narulesViz\ncSPADE"
+  },
+  {
+    "objectID": "posts/029_monthly_spotlight_adam_kerberling/index.html",
+    "href": "posts/029_monthly_spotlight_adam_kerberling/index.html",
+    "title": "February Spotlight: Charting New Waters - Adam Kemberling’s Voyage Through Marine Research and R Innovation at the Gulf of Maine Research Institute",
+    "section": "",
+    "text": "Introduction:\nAdam Kemberling is a Research Associate at the Gulf of Maine Research Institute, where he has been contributing his expertise for over four years. Working under the guidance of Dr. Kathy Mills, he is an integral part of the research team focused on understanding the consequences of the rapidly warming Gulf of Maine. His work encompasses tracking sea surface temperature increases, reporting on environmental trends, and exploring the responses of marine species to changing oceanic conditions. Through his research, Kemberling aims to shed light on the complex interactions taking place within marine ecosystems as they adapt to climate change.\n1. Discovering R - My Initial Spark:\nWhat got you interested in R?\nI was initially blindsided by R as both a concept and a software during a quantitative fisheries class. The professor announced, “Everyone, open R Studio,” and I found myself wondering if I should have already been familiar with the tools as my peers all loaded up their projects. As my studies progressed, it became apparent that mastering R was not just beneficial, but necessary for completing the statistical analyses for my thesis work. Initially, my relationship with R was begrudging. The real turning point came when I started to use R Markdown and ggplot2. These tools transformed my ability to communicate my findings, making it possible to present data and insights more clearly and efficiently. Before learning these tools, I lacked a medium to convey my research effectively. Gaining proficiency in statistics and R gave me not just a new set of skills but also a sense of empowerment in my work, allowing me to tackle new questions and produce work that I was truly proud of.\n2. R at Work\nDo you use R at work? How?\nYes, I use R extensively in my work at the Gulf of Maine Research Institute. It’s an essential tool for analyzing the vast amounts of data we collect on oceanic conditions, marine species distributions, and other environmental parameters in a reproducible way. With R, I track trends in the rapidly warming Gulf of Maine, report on our findings, and delve into research questions about how marine life is adapting to changes in their habitat. R’s capabilities for statistical analysis and data visualization are crucial for my research. Tools like Quarto and ggplot2 have revolutionized the way I present my data and findings, enabling me to communicate complex scientific information in a clear, comprehensible, and visually appealing manner. This not only supports our team’s internal collaboration but also enhances our ability to share insights with external stakeholders, including academic peers, conservation organizations, and governmental agencies.\n3. R for Fun\nDo you have any favorite R projects you have worked on in the past?\nWhen I first moved to Maine and began working with my new team, I was encouraged by my mentor to apply for a code sprint that I had come across. Code sprints in the marine ecology space were something I had never seen, nor taken part in and I was nervous that I was both underqualified and not talented enough of a coder. The project was funded by NSF as part of the Coastlines and People Program, and it asked participants to bring a research idea to pitch to the others - ideas focused on using open data to do science related to Coastlines and People. I ended up applying and participating with a group from North Carolina that aimed to train a machine learning model to detect when roads were flooded using live traffic camera feeds. It was a clever idea that leveraged public datasets for a public good and I really enjoyed that. The participants involved were great people, we launched a shiny app to collect labeled training data, and we wrote some good documentation of the experience. It was one of the best experiences I have had collaborating on a project, and it was with people that I otherwise would never have had the opportunity to work with.\n4. Beyond Programming\nWhat do you do when you’re not programming?\nWhen I am not programming, my priorities shift towards spending time with my family and indulging in personal hobbies. I have a dog who loves to go for walks and enjoys splashing around at the beach, and a lovely wife who enjoys biking around town with me. I love to cook and make sure there is always something delicious and comforting ready to help us unwind after a long day. Since the pandemic, I have also taken up running more consistently. I have found that running, or doing anything outdoors really offers a refreshing break from the challenges of coding and research. It is a way to get a mental reset that helps me tackle problems I am stuck on. On the weekends, I prefer to be outside, either hiking or simply enjoying the natural beauty of Maine to recharge and find balance.\n5. Anticipating Trends\nWhat trends do you see in R language over the next year?\nIn the coming year, I foresee significant advancements in R’s capabilities for reproducible research and open science, enhancing tools like Quarto for greater transparency in sharing findings. In addition, the R community’s emphasis on collaboration and education will likely lead to an increase in online resources and community projects, lowering barriers for newcomers and fostering knowledge sharing in specialized fields like marine research. Research work has become increasingly data-centric, and I am energized by how the open science community is embracing these tools and increasing our capacity to collaborate.\n5. Community and Coding\nWhat is your favorite R event that you have attended?\nMy favorite R event that I have attended was an RStudio Conference. I had just finished graduate school, was anxious about getting a job, and used this conference to explore alternative career options and broaden my big data knowledge. The experience demystified the professional worlds that R users occupy, revealing that we all share similar challenges regardless of our fields, and highlighted the welcoming and sharing nature of the R community. This conference not only provided me with valuable insights but also left me inspired by the kindness of fellow attendees and the collective desire to give back to the R community. If the conference were not a million dollars now, I would try to attend again.\n6. Future Endeavors\nWhat projects (R-focused or otherwise) are you excited about in the coming year?\nIn the coming year, I am particularly excited about expanding our research on the impacts of climate change on the Gulf of Maine, leveraging R to model future scenarios of marine species distribution under varying climate conditions. Another project that piques my interest involves developing an R-based tool for enhancing the accessibility and understanding of our research findings, making it easier for stakeholders to visualize the changes occurring in marine ecosystems. Lastly, I am eager to contribute to open science initiatives, aiming to create R packages that can be used by the wider research community to analyze environmental data, fostering collaboration and innovation in tackling global environmental challenges."
+  },
+  {
     "objectID": "posts/035_monthly_spotlight_david_denton/index.html",
     "href": "posts/035_monthly_spotlight_david_denton/index.html",
     "title": "June Spotlight: David Denton - From Excel to R: My Journey in Data Engineering and Community Building",
     "section": "",
     "text": "Introduction:\nI am David Denton, a Data Engineer at the Medical Data Insights team at IDEXX Laboratories. Additionally, I am the founder of the MaineR User Group, formerly the Greater Portland R UserGroup.\n1. Discovering R - My Initial Spark:\nWhat got you interested in R?\nI initially began using R during my graduate program at the University of Maine. I was a TA for a finance professor, and one of my responsibilities was to help him collect data for various research projects. He had several dozen Excel workbooks with VBA that collected bid-ask spread data from public exchanges like Yahoo Finance. Dealing with the inefficiency of that process made me realize there must be a better option than using Excel and VBA. That realization led me to discover and start using R.\n2. R in Practice: Explaining Data Clearly Through Dashboarding\nDo you use R at work? How?\nYes, I have used R extensively in the past. I worked as an analyst and data visualization engineer at Cashtar Maine Health and Northern Light Health for about eight years. During that time, I used R almost daily for analytical tasks, creating visualizations, and building dashboards with tools like Shiny and Flexdashboard. Nowadays, as a Data Engineer, I support a team that uses R heavily, so while I’m involved with it peripherally, it’s not as central to my day-to-day activities as it once was.\n3. Beyond Programming\nWhat do you do when you’re not programming?\nWhen I’m not programming, I like to be outdoors and stay as active as possible with my family. We enjoy hiking, fishing, biking, and apple picking, depending on the season. I also love reading, playing video games, and cooking.\n4. Anticipating Trends\nWhat trends do you see in R language over the next year?\nPredicting trends can be tricky, but I’ll share what I hope to see continue. One of the things I really appreciate about R is the ecosystem surrounding it. R is becoming more like a platform than just a language, with tools like Shiny, Quarto, Flexdashboard, and R Markdown extending its capabilities into publishing and communicating insights. This ecosystem makes it easy to build dashboards and communicate results without needing expensive software licenses like Power BI or Tableau. I hope to see this trend of integrated, powerful tools in the R ecosystem continue to grow.\n5. Community and Coding\nWhat is your favorite R event that you have attended?\nMy favorite R event is the RStudio Conference. I’ve attended it two or three times, and it stands out for its excellent educational workshops, which are better than any other conference I’ve been to. The event gathers a great collection of people and offers valuable learning opportunities, making it a truly enjoyable experience.\n6. Future Endeavors\nWhat projects (R-focused or otherwise) are you excited about in the coming year?\nI was really excited about the possibilities of programming, even though I was only about four or five years into my programming journey at that time. The ability to explore new frontiers and unlock new opportunities through programming was thrilling. At my company, there weren’t many avid R users, so I felt there must be more people in the Portland area or throughout Maine who shared this interest. Seeing that there were R user groups all over the country and receiving sponsorship support from the R Consortium, starting a local R user group seemed like an easy and beneficial decision."
+  },
+  {
+    "objectID": "posts/004_meet-up_r-python-love-story/index.html",
+    "href": "posts/004_meet-up_r-python-love-story/index.html",
+    "title": "R + Python: A Love Story",
+    "section": "",
+    "text": "Adam Rosenblit, Data Scientist at Vets First Choice, and David Denton, BI Engineer at CashStar, will be co-hosting this Meetup, which aims to demonstrate how R and Python can be integrated in the same RStudio workflow via the Reticulate package. David will begin where we left off last time, with some tidyverse style data manipulation (and maybe a little plotting), and Adam will usher us into the realm of machine learning where he will be using Python’s XGBoost library for binary classification. If time permits, we will import the resulting model back into R and use it to make some pretty pictures to illustrate our results.\nhttps://www.meetup.com/greater-portland-data-science/events/256384084/"
+  },
+  {
+    "objectID": "posts/001_welcome/index.html",
+    "href": "posts/001_welcome/index.html",
+    "title": "It’s 2023 and we’re Back!",
+    "section": "",
+    "text": "Hello, World!\n\n\n\n\n\n\n\n\n\nWith the hopes of becoming a state-wide user group, we have renamed to the MaineR Users Group!\nOur goal is to collaborate with different academic, industrial, and research organizations across the state of Maine!\nThis year, we are hoping to plan six events (one event every other month)!\nWhere can you find us?\nMeetUp\nLinkedIn\nEmail Us!"
+  },
+  {
+    "objectID": "posts/022_linux interview/index.html",
+    "href": "posts/022_linux interview/index.html",
+    "title": "Donald Szlosek, the organizer of MaineR, interviewed by the R Consortium and Linux Foundation",
+    "section": "",
+    "text": "Donald Szlosek, the MaineR User Group organizer, recently highlighted the significant growth and impact of the R community in Maine to the R Consortium. Donald emphasizes the crucial role of the R language in life sciences and showcases the group’s remarkable work in bridging the gap and empowering data professionals through collaboration and insights throughout the state of Maine.\n📝 Blog\n🕊 Twitter\n🐘 Mastodon\n🔗 LinkedIn\n🤖 Reddit"
+  },
+  {
+    "objectID": "yearly_events.html",
+    "href": "yearly_events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Want to give talk at a MaineR Event?\nBased off feedback from the start of the year survey we are hoping to plan a mix on social, virtual, workshop, and in-person events all throughout the year! (Maybe even multiple a month!).\nHere is the current 2024 event calender:\n\nJanuary\nFebruary\nMarch\nApril\nMay\nJuly\n\nWatershed Project with Penobscot Nation (Location, TBD)\n\nSeptember\nOctober\nDecember\n\nTo RSVP to one of our events, check out our MeetUp page."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello MaineRs!\nThe Greater Portland R User Group was initially founded in 2018 as a way to bring the R Users of Portland Maine together. With the hopes of becoming a state-wide user group, we have renamed to the MaineR Users Group.\nGet involved!\n\nSign up to the email list, we send out emails mostly to remind people of events.\nWe typically meet the last Thursday of the month at Novare Res in Portland at 5:30. We’re the table with the wooden R and all the hex stickers.\nSometimes we have a short virtual talk in the middle of the day leading up to the event. It’s always nice to have something to talk about. Once the group gets large enough, the plan is to also have some events in LA, Bangor, and Bar Harbor.\nWe also have a MeetUp group and a LinkedIn group but we are hoping to eventually totally migrate to the email list by the start of 2027.\n\nThe goal of this group is to explore and discuss R and how it is being used in data science, data analysis, visualization, data mining, predictive analytics, and beyond!\nWe welcome all levels of interest to attend. We’ve had\nPeople of all levels are welcome to attend, from those just getting started with R and predictive modelling to experts using R every day. While the focus is on the R programming language, presentations / talks from other languages/ fields are more than welcome!"
   }
 ]
